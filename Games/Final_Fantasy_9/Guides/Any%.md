@@ -17,7 +17,7 @@ Any % run on Steam. I based a lot of my notes off the guide found [here][1].
   * Swordfight, note 100 nobles if you get it. NO ENCORES!!!
   * Menu
     * Zidane - Optimize (Mage Masher Equip)
-  * Steiner name screen.
+  * Steiner name screen after Zorne and Thorne talk to the queen.
   * Steiner 1 - 2 Zidane hits, steal with others for Silk Shirt. Can
                 continue without Silk Shirt.
   * Steiner 2/3 - Suicide. Garnet kills worst ATB.
