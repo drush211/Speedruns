@@ -14,18 +14,21 @@ one of those games that I feel like doing a play through of every year or so.
 
 ## Guides
 
-TODO!
+  * [Steam Any %][6]
 
 ## Splits
 
-TODO!
+  * [Steam Any %][7]
 
 ## Layouts
 
-TODO!
+  * [Final Fantasy 9 Layout][8]
 
 [1]: https://www.twitch.tv/tojju
 [2]: https://www.twitch.tv/eswoogi
 [3]: https://www.twitch.tv/spikevegeta
 [4]: https://www.twitch.tv/directory/game/Final%20Fantasy%20IX
 [5]: https://www.twitch.tv/rpglimitbreak
+[6]: ./Guides/Any%.md
+[7]: ./Splits/Final_Fantasy_9.lsl
+[8]: ./Layouts/Final_Fantasy_9_PC_Any%.lss
