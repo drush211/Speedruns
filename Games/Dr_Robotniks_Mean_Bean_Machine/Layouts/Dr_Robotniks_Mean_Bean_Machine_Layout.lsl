@@ -3,7 +3,7 @@
   <Mode>Vertical</Mode>
   <X>-1</X>
   <Y>0</Y>
-  <VerticalWidth>640</VerticalWidth>
+  <VerticalWidth>642</VerticalWidth>
   <VerticalHeight>1041</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
