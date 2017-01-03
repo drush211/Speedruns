@@ -30,5 +30,5 @@ one of those games that I feel like doing a play through of every year or so.
 [4]: https://www.twitch.tv/directory/game/Final%20Fantasy%20IX
 [5]: https://www.twitch.tv/rpglimitbreak
 [6]: ./Guides/Any%25.md
-[7]: ./Splits/Final_Fantasy_9.lsl
-[8]: ./Layouts/Final_Fantasy_9_PC_Any%.lss
+[7]: ./Splits/Final_Fantasy_9_PC_Any%25.lss
+[8]: ./Layouts/Final_Fantasy_9.lsl
