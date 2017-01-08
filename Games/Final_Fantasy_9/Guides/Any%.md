@@ -82,7 +82,7 @@ You can find general knowledge that will be useful with any route you take
     * Zidane attack twice, Steiner Fire Sword
     * Wait for attack, then suicide the attacked unless Steiner
     * Fire Sword, attack, cure, repeat
-  * Choose to get on airship
+  * Choose to get on airship (2nd option)
   * **Black Waltz 3 (1128 HP)**
     * Zidane attack, Steiner Fire Sword, Vivi Double Fire
     * Zidane steal attempt, Steiner Fire Sword, Vivi Double Fire
