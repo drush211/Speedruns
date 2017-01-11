@@ -167,5 +167,60 @@ You can find general knowledge that will be useful with any route you take
     * Wait it out, revive and try to steal Chain Plate on turns where nobody
       dies.
 
-[1]: https://docs.google.com/document/d/1q0sAJBWoNyW85DlZBd2N8JxZyoylO6_mgVGefrW2e0c/edit
+## South Gate (Split 10)
+
+  * Talk to lady behind counter, take lower exit, go back in, talk to Marcus.
+  * Shop
+    * 2 Mythril Gloves
+  * Talk to Steiner
+  * Menu
+    * Garnet: Optimize (Multina Racket/Feather Hat/Glass Armlet/Yellow Scarf)
+    * Steiner: Optimize (Mythril Gloves/Yellow Scarf)
+    * Steiner Abilities: Bird Killer, Man Eater
+    * Garnet Abilities: Antibody
+  * **Black Waltz 3 (1292 HP)**
+    * All attack. If Steiner dies early, suicide Marcus so he cracks.
+  * Pick up gil chest on screen before gate.
+
+## Treno (Split 11)
+
+  * Do the first ATE **SUPER IMPORTANT DO NOT MISS!**, get the power belt, go
+    find Garnet at the auction, pick up Gil to the left in front of it.
+  * Shop
+    * Mythril Sword
+    * Ice Staff
+    * Bone Wrist
+    * Magus Hat
+    * Bandana
+    * Barbut
+    * Chain Plate - If not stolen from Beatrix
+    * Chain Mail
+  * Menu
+    * Steiner: Optimize (Mythril Sword/Barbut/Chain Mail/Power Belt)
+    * Steiner Abilities: HP+10%, MP Attack, Bug Killer, Alert
+    * Cure Steiner to full
+  * After hideout scenes pick up mythril dagger outside Tot's tower.
+
+## Gargan Roo (Split 12)
+
+  * Fight encounters if you get them (attack with Steiner)
+  * **Ralvurahva (2296 HP)**
+    * If leveled up go agressive, otherwise only attack with Steiner and revive
+      those who are dead. If no one killed, can attack with others.
+
+## Cleyra's Trunk (Split 13)
+
+  * Encounters: Flee or Blizzara (all), hitting the core on sand golems
+                depending on ATB. Killing one encounter should learn Freya Bird
+                Killer + Cover on this disc. Can still be disc 3 if not.
+  * Menu after picking up Magician Shoes (third screen)
+    * Zidane: Optimize (Bandana/Bone Wrist/Chain Plate)
+    * Vivi: Optimize (Ice Staff/Magus Hat/Magician Shoes)
+    * Zidane: Mage Masher, Germinas Boots
+    * Freya: Bronze Armor, Mythril Gloves
+    * Freya Abilities: Bird Killer, Man Eater
+    * Zidane Abilities: Man Eater, Insomniac, Alert
+  * Pick up Ether in screen with sand switch.
+
+[1]: https://docs.google.com/document/d/1q0sAJBWoNyW85DlZBd2N8JxZyoylO6_mgVGefrW2e0c
 [2]: ./General_Knowledge.md

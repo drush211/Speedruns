@@ -11,7 +11,7 @@ Useful Videos:
   * https://www.youtube.com/watch?v=qzccXWUVVCM
   * https://youtu.be/EpH0G-V1lcY
 
-## Unchain the Beast (1st Split)
+## Starting off Right (1st Split)
 
   * Long Jump the side rail to the castle, and immediately long jump again to
     get the Lakitu skip.

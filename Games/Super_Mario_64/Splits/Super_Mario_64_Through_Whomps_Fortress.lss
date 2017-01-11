@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>2</AttemptCount>
+  <AttemptCount>3</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="12/26/2016 02:18:23" isStartedSynced="True" ended="12/26/2016 02:41:33" isEndedSynced="True">
       <RealTime>00:23:10.4480000</RealTime>
@@ -20,6 +20,7 @@
     <Attempt id="2" started="12/26/2016 02:49:48" isStartedSynced="True" ended="12/26/2016 02:49:50" isEndedSynced="True" />
     <Attempt id="3" started="12/26/2016 02:52:33" isStartedSynced="True" ended="12/26/2016 02:52:35" isEndedSynced="True" />
     <Attempt id="4" started="12/26/2016 02:52:43" isStartedSynced="True" ended="12/26/2016 03:08:16" isEndedSynced="True" />
+    <Attempt id="5" started="01/10/2017 03:17:33" isStartedSynced="True" ended="01/10/2017 03:32:20" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -31,7 +32,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:08.3080000</RealTime>
+        <RealTime>00:02:07.7910000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -39,6 +40,9 @@
         </Time>
         <Time id="4">
           <RealTime>00:02:08.3080000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:07.7910000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -51,7 +55,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:45.3420000</RealTime>
+        <RealTime>00:01:17.3600000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -60,104 +64,46 @@
         <Time id="4">
           <RealTime>00:02:45.3420000</RealTime>
         </Time>
+        <Time id="5">
+          <RealTime>00:01:17.3600000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Easy Star</Name>
+      <Name>Bring Down the Fortress</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:58.0860000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="4">
-          <RealTime>00:00:58.0860000</RealTime>
-        </Time>
-        <Time id="1" />
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Ass Pounding</Name>
+      <Name>Ride the Slide Again</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:01:23.3520000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="4">
-          <RealTime>00:01:23.3520000</RealTime>
-        </Time>
-        <Time id="1" />
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>All Your Base are ours!</Name>
+      <Name>To the Sky</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:49.7600000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="4">
-          <RealTime>00:00:49.7600000</RealTime>
-        </Time>
-        <Time id="1" />
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>That one with the Canon</Name>
+      <Name>Back to the Beginning</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:03:46.4800000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="4">
-          <RealTime>00:03:46.4800000</RealTime>
-        </Time>
-        <Time id="1" />
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Fuck you Owl</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:03:35.6880000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="4">
-          <RealTime>00:03:35.6880000</RealTime>
-        </Time>
-        <Time id="1" />
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>To the Bank</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:23:10.4480000</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:14:09.2150000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="1">
-          <RealTime>00:14:09.2150000</RealTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
   </Segments>
   <AutoSplitterSettings />
