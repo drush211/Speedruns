@@ -8,6 +8,7 @@ are really any memorable characters, but definitely some memorable moments.
 
   * [Tojju][1]
   * [Spike Vegeta][2]
+  * [Evil Ash (World Record Holder)][8]
   * [Twitch Chrono Cross Channel][3]
   * [RPG Limit Break][4]
 
@@ -30,3 +31,4 @@ are really any memorable characters, but definitely some memorable moments.
 [5]: ./Guides/Any%25.md
 [6]: ./Splits/Chrono_Cross_Any%25_Good_Ending.lss
 [7]: ./Layouts/Chrono_Cross.lsl
+[8]: https://www.twitch.tv/evilash25
