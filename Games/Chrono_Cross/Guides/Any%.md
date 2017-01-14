@@ -221,7 +221,24 @@ You can find general knowledge that will be useful with any route you take
 
 ## (Split 11)
 
-  * 
+  * Run away from the fight in the cabin.
+  * Check the door just outside of the cabin.
+  * Up the ladder, first door on the left and enter the vent.
+  * Ghost dance!! Talk to the guy at the door, and spin around the ghost while
+    the text displays. When he lets you past, then talk to the guy past the
+    door.
+  * Go back through the vent and grab the chest. You will fight the ghosts here
+    as well.
+    * Serge - 2/2/3
+    * Glenn - 2/2/3
+    * Serge - X-Strike
+  * Talk to the guy in this room, and hopefully he has the key, if not back
+    through the vent.
+  * Fight the skeleton fighting the next key holder, and ask him for the key
+    after the fight.
+    * Serge - 2/2/3
+    * Glenn - 2/2/3
+    * Serge - X-Strike
 
 [1]: https://docs.google.com/document/d/1ZciCKOh_N4B72tVN1JpZqmzniRTtcfrBXuAjzNWJeyE
 [2]: ./General_Knowledge.md
