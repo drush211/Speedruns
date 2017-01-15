@@ -13,7 +13,7 @@ You can find general knowledge that will be useful with any route you take
   * Skip Cutscene
   * Avoid all encounters, bridges to help avoid bats.
   * Run past elevator to pull characters in.
-  * Talk to Leena (2nd Choice 2nd Time)
+  * Talk to Leena.
   * Shop
     * 2 Fireballs
   * Menu
@@ -24,8 +24,9 @@ You can find general knowledge that will be useful with any route you take
   * Top Path Komodo - 2/2/Fireball
   * Jump Komodo - 2/2/Fireball
     * Can accept beach bum blocking path to cliff for extra humour try.
+  * Ivory vest bottom left if in need of a backup humour.
   * Race Komodo - 2/2/Weak Fireball
-  * **Momma Komodo (152)**
+  * **Momma Komodo (76)**
     * 2/2/2/Fireball (49 or above HP fireball for single pass). 2/2 your way to
       victory if any issues.
 
@@ -53,9 +54,13 @@ You can find general knowledge that will be useful with any route you take
     * Poshul (Equip) - Ivory Vest
   * Backup Humour - Cape Howl Beach Bum fight. Leena 1/1/1/Magma Bomb.
   * Fossil Valley
-  * **Solt and Peppor**
+  * Switch to Leena in front.
+  * **Solt and Peppor (84/7 94/8)**
+    * Go for Solt first.
     * Leena - 3/3 (You only get 2 actions) Magma Bomb if you get it.
-    * Poshul - 2/2 on Solt
+    * Serge - 1/Fireball
+    * Leena - Magma bomb if not above/1
+    * Poshul - 1/2/3 to finish Solt
     * Serge - 1/2/2/Fireball+2 Peppor
 
 ## Gate Crashers (Split 4)
@@ -72,7 +77,7 @@ You can find general knowledge that will be useful with any route you take
   * Get Medal of Honor from running child.
   * Talk to Pierre again.
   * Head to Viper Manor, but Tele-Porter Pierre into Poshul's spot.
-  * **Guards**
+  * **Guards (70 84)**
     * Serge - 2/2/3
     * Kid - 2/2/3
     * Serge - 2/2/3
@@ -81,7 +86,7 @@ You can find general knowledge that will be useful with any route you take
 ## Ketchop (Split 5)
 
   * Switch to Pierre being in front so he takes the Ketchop hit.
-  * **Solt/Peppor/Ketchop**
+  * **Solt/Peppor/Ketchop (273/9)**
     * NOTE: Always hit Ketchop as he will kill Solt and Peppor for you.
     * Serge - 1/2/3/Dash & Slash
     * Kid - 2/2/3
@@ -110,7 +115,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge (Equip) - Bronze Mail/Dragoon's Honor
     * Pierre (Elements) - Turn Yellow/Revive
   * Grab Treasure on wall.
-  * **Bulbs**
+  * **Bulbs (168/10)**
     * Pierre - 1/Turn Yellow
     * Serge - 2/3/2
     * Kid - 2/2/3
@@ -124,7 +129,8 @@ You can find general knowledge that will be useful with any route you take
     * Serge (Equip) - Dragoon's Gauntlet
   * Go enter code obtained from earlier and enter main hall.
   * Head left to Balthasar's tower, and go talk to Marcy.
-  * **Marcy**
+  * **Marcy (498/7)**
+    * Cat's Cradle at 249 HP.
     * Kid - 3/3
     * Serge - 1/1/2/2
     * Kid - 3/3
