@@ -6,11 +6,15 @@ are really any memorable characters, but definitely some memorable moments.
 
 ## Runners to Watch
 
-  * [Tojju][1]
-  * [Spike Vegeta][2]
   * [Evil Ash (World Record Holder)][8]
+  * [Spike Vegeta][2]
+  * [Tojju][1]
   * [Twitch Chrono Cross Channel][3]
   * [RPG Limit Break][4]
+
+## Chat and Information
+
+  * [Discord][9]
 
 ## Guides
 
@@ -32,3 +36,4 @@ are really any memorable characters, but definitely some memorable moments.
 [6]: ./Splits/Chrono_Cross_Any%25_Good_Ending.lss
 [7]: ./Layouts/Chrono_Cross.lsl
 [8]: https://www.twitch.tv/evilash25
+[9]: https://discordapp.com/invite/0XU29pWZvyu0YCVH
