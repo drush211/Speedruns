@@ -174,7 +174,7 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Current Comparison</Comparison>
+        <Comparison>Personal Best</Comparison>
         <Display2Rows>False</Display2Rows>
         <TotalTimeSave>False</TotalTimeSave>
       </Settings>

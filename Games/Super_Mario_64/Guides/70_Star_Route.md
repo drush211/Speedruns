@@ -27,14 +27,15 @@ Useful Videos:
 
   * Whomp
   * Easy Star
-  * Coins
+  * Coins - Fuck this Star
   * Owl
   * Use the Cannon
   * To the Top
 
 ## Ride the Slide Again (4th Split)
 
-  * Same as the Slip and Slide split
+  * Same as the Slip and Slide split, but get the opposite star of whichever one
+    you got the first time.
 
 ## To the Sky (5th Split)
 

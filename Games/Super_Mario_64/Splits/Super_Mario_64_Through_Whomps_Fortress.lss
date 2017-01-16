@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>3</AttemptCount>
+  <AttemptCount>6</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="12/26/2016 02:18:23" isStartedSynced="True" ended="12/26/2016 02:41:33" isEndedSynced="True">
       <RealTime>00:23:10.4480000</RealTime>
@@ -21,6 +21,8 @@
     <Attempt id="3" started="12/26/2016 02:52:33" isStartedSynced="True" ended="12/26/2016 02:52:35" isEndedSynced="True" />
     <Attempt id="4" started="12/26/2016 02:52:43" isStartedSynced="True" ended="12/26/2016 03:08:16" isEndedSynced="True" />
     <Attempt id="5" started="01/10/2017 03:17:33" isStartedSynced="True" ended="01/10/2017 03:32:20" isEndedSynced="True" />
+    <Attempt id="6" started="01/16/2017 21:45:54" isStartedSynced="True" ended="01/16/2017 21:48:06" isEndedSynced="True" />
+    <Attempt id="7" started="01/16/2017 21:50:54" isStartedSynced="True" ended="01/16/2017 22:03:34" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -32,7 +34,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:07.7910000</RealTime>
+        <RealTime>00:02:03.7840000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -43,6 +45,9 @@
         </Time>
         <Time id="5">
           <RealTime>00:02:07.7910000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:03.7840000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -55,7 +60,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:17.3600000</RealTime>
+        <RealTime>00:01:09.2400000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -66,6 +71,9 @@
         </Time>
         <Time id="5">
           <RealTime>00:01:17.3600000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:09.2400000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -98,6 +106,15 @@
     </Segment>
     <Segment>
       <Name>Back to the Beginning</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Bowser Time</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />

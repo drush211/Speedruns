@@ -1,7 +1,9 @@
 # Chrono Cross
 
 Any % run on Vita currently. I based a lot of my notes off the guides found
-[here][1] and [here][3], as well as the speedrun from [RPG Limit Break][4].
+[here][1] (Can't overstate the use of EvilAsh's notes and run from RPG Limit
+Break I filled in some new runner gaps, but this is basically just an extension
+of his notes.) and [here][3], as well as the speedrun from [RPG Limit Break][4].
 
 ## Useful General Knowledge
 
@@ -424,6 +426,194 @@ You can find general knowledge that will be useful with any route you take
 ## I feel like I've been here before... (Split 19)
 
   * Hit the altar, and go up the elevator.
+  * Remember your training from split 1, and head to the same area. Best of luck
+    with your dodging here, but you are likely going to have to accept a run
+    away or 2.
+  * **Bunyip (420/10 then 1260/10)**
+    * Leena - 1/2/2 (Get to level 5)
+    * Glenn - 2/3/Magnify, replace with 1s to get to lvl 5 if attacked.
+    * Serge - 1
+    * Leena - IceBlast (should transform)
+    * Serge - 2/2 (Get to Level 5)
+    * Leena - 2/2 (Get to Level 5)
+    * Glenn - 1/1/... until attack/Aquaball
+    * Serge - Aquaball
+    * Leena - 1/FrogPrince
+    * Serge - 1/Luminaire
+    * Leena - 1/Aquaball
+    * Pray you don't get here, but if so 2/2 your way to victory with Glenn and
+      Serge.
+
+## General Viper (Split 20)
+
+  * Try and dodge everything to get back to the center platform.
+  * **General (861/7)**
+    * Serge - 1/Strengthen on Glenn
+    * Leena - 1/EagleEye on Glenn
+    * Glenn - 3/3
+    * Leena - 1/1/1/BushBasher
+    * Serge - 1/1
+    * Glenn - 3/3/SonicSword
+    * Heal with Consumables
+
+## Lynx (Split 21)
+
+  * **Lynx (1050/7)**
+    * Serge - 2/3/WeakMinded
+    * Glenn - 1/2/2
+    * Leena - 3/3
+    * Glenn - 1/2/3
+    * Serge - 3/3
+    * Glenn - Magnify
+    * Leena - PhotonBeam
+    * Serge - 3 (1/2 if not Lvl 5)
+    * Glenn - Defend
+    * Serge - Luminaire
+    * Glenn - 2/3
+    * Leena - Aquaball
+    * Don't heal as we are done with these characters for now.
+
+## Radius (Split 22)
+
+  * Multiple cut scenes here, so possibly bathroom break/food time?
+  * Cut Scene 1 - 0:32
+  * Cut Scene 2 - 0:45
+  * **Party**
+    * Defend and let them finish you.
+  * Cut Scene 3 - 0:51
+  * Cut Scene 4 - 1:00
+  * Now that you have lynx, climb the ladder and go knock down an orange. When
+    Sprigg leaves enter the house.
+  * Rename Sprigg to S.
+  * Enter the lighthouse at the top of the hill.
+  * Enter door to the left, and then follow the Serge on the bottom to figure
+    out which door to open.
+  * Rename Harle to H
+  * Head all the way down, and enter the pit at the bottom. No switches need to
+    be hit.
+  * Head out of the marsh, and back to Opassa Beach.
+  * Menu
+    * Harle (Equip) - Remove Mythril Mail
+    * Lynx (Equip) - Mythril Mail/Dragoon Gauntlet/Dragoon Gauntlet/Ivory Helmet
+    * Sprigg (Equip) - Gold Earring/Dragoon's Honor
+    * Harle (Equip) - Iron Mail/Magic Ring
+  * Arni Village, Harle First and select out to move Lynx when you hit ramp.
+  * Go talk to Serge's Mom
+  * **Radius (787/7)**
+    * Sprig - 1/1/... until Lagoonate
+    * Lynx - 2/3
+    * Lagoon - 2/3
+    * Lynx - 2/2/2
+    * Lagoon - 3/3
+    * Heal with Consumables
+
+## Dear lord this split lasts for ever... (Split 23)
+
+  * Rename Radius to R
+  * Put Lynx in front then swap to Harle as the leader to have Lynx in back.
+  * Head to Termina, then go to the left just up the stairs and talk to the
+    guard.
+  * Shop
+    * Max Capsules
+    * 11 Antidote
+    * 11 Brace
+    * 11 Blackout
+    * 5 HealAll
+    * 2 AeroBlaster
+    * 21 IceBlast
+  * To Viper Manor, and straight to the entrance (now ruins). Go to the right,
+    and enter the hut which leads to an underground cavern. Up and to the left.
+    Now that you are in the sewers, make your way up the ladder and head up to
+    meet Norris.
+  * Norris renamed to N.
+  * Go to the port and board the boat. Now head to Marbule. Go talk to the guy
+    on the bridge, ask about the dead sea and run away. You don't have to sit
+    there and listen to him.
+  * Menu
+    * Lynx (Elements) - Remove All,
+                        Level 2 HealAll/HealAll/Blackout,
+                        Level 1 (B)/Cure/TurnBlue/Strengthen/TurnWhite/WeakMinded/AeroBlaster,
+                        Level 4 Magnify,
+                        Level 6 IceBlast
+    * Harle (Elements) - Remove All,
+                         Level 2 HealAll/HealAll/Revive,
+                         Level 1 TurnBlue/EagleEye/TurnRed/TurnWhite/TurnBlack,
+                         Level 4 Panacea/Diminish,
+                         Level 5 Meteorite/AeroBlaster,
+                         Level 6 IceBlast
+    * Sprigg (Elements) - Level 6 PhotonBeam
+  * To the Zelbess. Head downstairs and down the ladder to the last room before
+    the guard to talk to the sage. Try to follow him through the door, then go
+    talk to Fargo. Play him at ... Roulette? and try and get the cursor between
+    North and East using paused to make sure it lands there. Hold X and unpause
+    and you should hit South. Also if Fargo lands on East just hold X.
+  * Go downstairs and notice the cat coming down the stairs. Go watch the magic
+    show in the first door past the ladder. Re-enter to get turned into cats and
+    go unrig the game. Go back and talk to Fargo again. After you get access go
+    to the grand slam and talk to the sage. When he asks what you want, first
+    choose nothing. Then mash.
+  * **Sage (1575/7)**
+    * Sprig - 2/2/1/Lagoonate
+    * Lynx - 1/Strengthen Lagoonate
+    * Harle - 1/Turnblack Lagoonate
+    * Lagoonate - 1/3
+    * Lynx - 2/2/2
+    * Lagoon - 3/3
+    * Lynx - 2/2/2
+    * Lagoon - 3/3
+
+## Garai (Split 24)
+
+  * Move Lynx to First
+  * To Dead Sea (use Fiddler Crab)
+  * To Hermit's Hideaway. Wait at the top of the ladder until Radius comes out.
+  * Head to Isle of the Damned.
+  * Move Harle to first, then go fight the Willow Wisps before the next part.
+  * **Willow Wisp**
+    * Harle - 3/3/Iceblast (Moonbeams if you miss or have 3 wisps.
+    * Lynx - 1/2/2/Glidehook if necessary
+  * Drag the next willow wisp to the white knight and kill him there. Then move
+    Lynx to first.
+  * **WightKnight**
+    * Lynx - 2/3/2
+    * Sprigg - 1/x (LV 6)
+    * Lynx - 2/2
+    * Harle - 1/2/2 (LV 5)
+    * Lynx - WeakMinded-3
+    * Harle - Defend
+    * Lynx - Magnify-2
+    * Harle - Meteorite+3
+    * Sprigg - PhotonBeam+3
+    * Must kill with Sprigg, so do whatever is left (if any) with Sprigg.
+  * Sprigg First
+  * **Garai (2086/6)**
+    * **Early dopple strat**
+    * Sprigg - 1/2/2/WKnight
+    * Harle - 1/x Diminish-2
+    * WKnight - 2/3
+    * Lynx - 1/1/Strengthen WKnight
+    * Harle - 1/TurnBlack
+    * WKnight - 2/3
+    * Lynx - 1/1/2/GlideHook
+    * WKnight - 2/3
+    * Heal with Consumables
+    * **Late dopple strat**
+    * Sprigg - 1/x (until Garai attack)
+    * Harle - 1/x/Diminish-2
+    * Sprigg - 1/x/WKnight
+    * Lynx - 1/1/2/Strengthen-3 WKnight
+    * WKnight - 3/3
+    * Harle - 1/TurnBlack (HealAll-2 if needed)
+    * Lynx - 2
+    * WKnight - 3/3
+    * Lynx - 2/2/GlideHook
+    * WKnight - 3/3
+    * Heal with Consumables
+
+## (Split 25)
+
+  * Move Lynx to first.
+  * To the Dead Sea.
 
 [1]: https://docs.google.com/document/d/1ZciCKOh_N4B72tVN1JpZqmzniRTtcfrBXuAjzNWJeyE
 [2]: ./General_Knowledge.md
