@@ -16,7 +16,7 @@ Do this to rotate who you would like to attack first in a fight.
 
 Stolen Directly from EvilAsh who knows this game better than I ever will.
 
-  * Stamina Pushing or Attack Queueing
+  * **Stamina Pushing or Attack Queueing**
     * When attacking in this game, you can queue attacks up to whatever stamina
       you have left to spend. 
     * If the enemy is due to attack after the next stamina point is spent (see
@@ -33,7 +33,7 @@ Stolen Directly from EvilAsh who knows this game better than I ever will.
       ‘miss’ that sends her to the next phase.  To prevent queueing, you have to
       wait for the bar on the left side to turn from Red to White before
       executing the next attack.
-  * Enemy AP (Action Points)
+  * **Enemy AP (Action Points)**
     * This is an extremely important element to the game, AP is the amount of
       stamina that you can spend before each enemy takes its turn. I’ve listed
       this for every fight, and it is important to keep track of spent stamina
@@ -58,7 +58,7 @@ Stolen Directly from EvilAsh who knows this game better than I ever will.
       Push, it is completely random, and it can be a value between 1 to the max
       AP (AP+random amount). It can cause huge time losses if you don’t know how
       to handle bad starting stamina in some fights.
-  * Stamina Refreshing
+  * **Stamina Refreshing**
     * The basics to getting a full stamina refresh is having all your (alive)
       characters either in negative stamina, or defending when the enemy takes
       his turn. It is not fully understood yet, but as far as I can tell, what

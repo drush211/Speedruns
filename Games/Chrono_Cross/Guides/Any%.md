@@ -610,10 +610,289 @@ You can find general knowledge that will be useful with any route you take
     * WKnight - 3/3
     * Heal with Consumables
 
-## (Split 25)
+## Highwayman (Split 25)
 
   * Move Lynx to first.
-  * To the Dead Sea.
+  * To the Dead Sea. Go through, and enter the first city to the right.
+  * Move Sprigg to first.
+  * **Highwayman (2100/7)**
+    * Sprigg - 2/2/1/WightKnight
+    * Lynx - 1/Strengthen
+    * Harle - 1/TurnWhite WightKnight
+    * WKnight - 1/3
+    * Lynx - 1/TurnWhite Lynx
+    * Harle - 1/1/1 up to Level 4
+    * WKnight - 3/3
+    * Harle - Panacea
+    * Lynx - 1/2/2
+    * WKnight - 3/3
+
+## Best music of the game (Split 26)
+
+  * Move Lynx to first.
+  * Head to the center of the Dead Sea. Keep on the path to the right. Avoid the
+    ghosts and head out the screen to the left. Keep going up and take the exit
+    on the top right of the screen. Keep going forward until you get to the best
+    music in the game.
+  * Safety Save is not a terrible idea. Also go grab the screwy dress on the
+    right side of the plaza.
+  * **Miguel (2047/6)**
+    * Sprigg - 1/1/1 until WKnight
+    * Lynx - 1 (get to Level 3 if AntiBlack on Harle)
+    * Harle - 1/1/1 until Level 4
+    * Defend until StrongMinded
+    * Lynx - Strengthen
+    * Defend all, then Lynx Blackout Harle if necessary
+    * Harle 1/1/1 until Diminish
+    * WKnight - 3/3
+    * Lynx - 1/2/2
+    * WKnight - 2/3
+    * Lynx - 1/1/2/Glidehook
+    * WKnight - 3/3
+
+## The Sewers (Split 27)
+
+  * Cut Scene (1:30). Bathroom Break!
+  * To Guldove
+  * Smith
+    * Sell - Golden Tiara
+    * Disassemble - Screwy Dress/Armour/Armour (Armours are for Humour)
+    * Forge - Stone Swallow
+  * To Opassa Beach and go to Another World.
+  * Menu
+    * Lynx (Equip) - Stone Swallow
+    * Harle (Equip) - Dreamer Scarf
+  * Head into Termina and go to the Bar. Go into the back and find the dragoons.
+    Change Karsh to K
+  * Head to Viper Manor and enter to the left to talk to Norris. Go down the
+    stairs to the left and enter the sewers.
+  * Go knock the barrel off on the right side. Then go knock the other barrel
+    off and pick up the humour. Up the stairs and tighten the wheel. back out
+    and circle around to go up the ladder.
+  * Go back to the left and down the drain again. TODO learn this section.
+  * Move Sprigg to first.
+  * **Roachester (1307/7)**
+    * Sprigg - 2/2/1/WKnight
+    * Lynx - 1/Strengthen
+    * Harle - Defend/TurnRed/WKnight
+    * WKnight - 1/3
+    * Lynx - 1/2/2
+    * Harle - Defend
+    * WKnight - 3/3
+
+## Hell's Kitchen (Split 28)
+
+  * **Hell's Cook (2940/8)**
+    * Sprigg - 1/2/2/WKnight
+    * Lynx - 1/1/Strengthen
+    * Harle - 1/1/TurnBlue WKnight
+    * WKnight - 3/3
+    * Harle - EagleEye Lynx
+    * Lynx - 3/3
+    * WKnight - 3/3
+    * Lynx - 3/3/IceBlast
+    * WKnight - 3/3
+    * Heal with Consumables
+
+## Definitely not a Cyborg (Split 29)
+
+  * Move Lynx to first.
+  * Soldier fight - Harle 1s until Level 7 then Lunairetic
+  * **Grobyc (2940/7)**
+    * Definitely not Cyborg backwards
+    * Sprigg - 1/2/2/WKnight
+    * Lynx - 2/3/Strengthen-3 WKnight
+    * WKnight - 2
+    * Harle - 1 (LV 2) TurnWhite WKnight
+    * WKnight - 3/3
+    * Lynx - TurnWhite Lynx
+    * Harle - 1/1/1 until Meteorite+3
+    * WKnight - 3/3
+    * Lynx - 1/2/3
+    * WKnight - 3/3
+    * Lynx - 2/3
+    * WKnight - 3/3
+
+## It's that Damned Solt and Peppor Again (Split 30)
+
+  * **Guillot (1051/9)**
+    * Harle - EagleEye Lynx
+    * Lynx - 3/3
+    * Harle - 2/2
+    * Lynx - 1/3/Glidehook
+  * Head to Balthasar's tower. Fight the Guillot again.
+  * Switch Grobyc for Sprigg, then switch Karsh for Grobyc.
+  * Menu
+    * Lynx Remove All Accessories
+    * Harle Remove All Equipment
+    * Sprigg Remove All Equipment
+    * Karsh (Equip) - Dragoon Gauntlet/Dragoon Gauntlet/Dragoon's Honor
+    * Lynx (Equip) - Dreamer's Scarf
+  * To the isle of the damned, and head to the back with Solt and Peppor. Will
+    need Garai Amulet to enter.
+  * **Solt and Peppor (945/8 1050/10)**
+    * Lynx - 1/Strengthen Karsh
+    * Harle - 1/EagleEyle Karsh
+    * Lynx - AeroBlaster-3 Peppor
+    * Karsh - 3/3/AxialAxe (Solt dead)
+    * Harle - 1/2/2/AeroBlaster+1 Peppor
+    * Lynx - 2/3
+    * Karsh - 3
+
+## Dario and Earth Dragon (Split 31)
+
+  * Head to Hermit's Hideaway
+  * Go talk to Riddel and rename her to R.
+  * Once you have access to Marcy, put her in the party, then add Riddel
+  * Head to Marbule and Pickup the relic from the Black Dragon.
+  * Shop
+    * Note for all the 10s, you have plenty of money so just get 11 or 300 or
+      whatever the hell is fastest for you.
+    * 1 TurnRed
+    * 1 TurnGreen
+    * 1 TrunYellow
+    * 10 Strengthen
+    * 10 EagleEye
+    * 2 Genius
+    * 10 WeakMinded
+  * To Opassa Beach (Home World)
+  * Head to Guldove
+  * Smith
+    * Disassemble - Ivory Helmet
+    * Forge - Stone Sword/Stone Vest
+  * To Forbidden Island
+  * Safety Save isn't a terrible idea. If you over mash you will die.
+  * Menu
+    * Karsh (Equip) - Remove All
+    * Lynx (Equip) - Stone Vest/Dragoon Gauntlet/Dragoon Gauntlet
+    * Marcy (Equip) - Magic Ring/Dragoon's Honor
+    * Lynx (Elements) - Level 1 replace TurnWhite with Revive/TurnRed (add)
+    * Marcy (Elements) - Level 1 TurnRed/Strengthen/EagleEye/WeakMinded/WeakMinded,
+                         Level 4 IceBlast/IceBlast/IceBlast/IceBlast/IceBlast
+                         (both last IceBlasts are optional if Mag > 20),
+                         Level 5 - IceBlast/IceBlast,
+                         Level 6 - IceBlast/IceBlast/IceBlast,
+                         Level 7 - FrogPrince
+    * Riddel (Elements) - WeakMinded
+  * **This Fucking Guy (AKA Dario) (3675/7)**
+    * Riddel - 1/Defend (skip if attacked)
+    * Lynx - 1/1/1 Until level 6/Magnify
+    * Riddel - WeakMinded
+    * Marcy - 1/1/1/1/1/Genius on Marcy
+    * Lynx - TurnRed Dario
+    * Pray to whoever you pray to for a stamina refresh
+    * Lynx - TurnBlue self
+    * Marcy - 1/1
+    * Lynx - 1/Cure
+    * Marcy - 1/FrogPrince
+    * 1 more prayer
+    * Lynx - 1/2/3/WeakMinded
+    * Marcy - 1/1/1 until maxed/IceBlast
+    * Marcy repeat since you have Dario in a loop.
+  * No split there. Yeah I know that is crazy you don't get a star for that
+    right?
+  * Switch Riddel for Fargo
+  * Menu
+    * Lynx (Equip) - Mastermune/Remove Dreamer's Scarf
+    * Marcy (Equip) - Dreamer's Scarf/Remove Dragoon's Honor
+    * Fargo (Equip) - Stone Sword/Dreamer's Scarf/Mythril Helmet
+    * Lynx (Equip) - Dragoon's Honor
+    * Lynx (Elements) - Level 4 remove Magnify,
+                        Level 6 remove IceBlast
+    * Marcy (Elements) - Level 4 Panacea/Magnify
+    * Fargo (Elements) - Level 2 HealAll/HealAll
+                         Level 1 TurnBlue/EagleEye/Strengthen/TurnGreen/TurnYellow/TurnWhite/Genius
+    * Heal with Consumables
+  * To Earth Dragon Isle
+  * Go down the pit, and head to the right side of the screen down the first
+    hole. This will pop you back up to the surface, where you will exit, and
+    then come right back to the quicksand. Go down again. This time go to the
+    left, and go down to the bottom to talk to the guy with explosives. Next
+    room and explode the RockRoach on the right, and fight the one on the left
+    when it gets in position to be exploded.
+  * **RockRoach**
+    * Marcy - EagleEye Lynx
+    * Fargo - 1/TurnGreen Lynx
+    * Lynx - 3/3
+    * Fargo - 2/2/2
+    * Lynx - 3/3
+  * Push the RockRoach over. Head down, and fight the next RockRoach as well.
+  * Repeat above fight.
+  * Go jump down the hole in the middle and head towards the Earth Dragon. Make
+    sure you select option 2.
+  * **Earth Dragon (2945/9)**
+    * **Lynx > 29 STR**
+    * Marcy - EagleEye Lynx
+    * Fargo - TurnGreen Lynx
+    * Lynx - 3/3
+    * Fargo - 3/3
+    * Lynx - 3/3
+    * Fargo - 3/3
+    * Lynx - 3/3
+    * ** Lynx < 29 STR**
+    * Marcy - Strengthen Lynx
+    * Fargo - TurnGreen Lynx
+    * Lynx - Defend
+    * Marcy - 1/EagleEye Lynx
+    * Lynx - 3/3
+    * Fargo - 3/3
+    * Lynx - 3/3 GlideHook
+
+## Water Dragon (Split 32)
+
+  * To Water Dragon Isle
+  * Lily pad ordering - Up, Up, Up, Up (This is here for sanity just in case you
+                        are starting to lose some focus 5 hours into the run)
+  * Head up the ladder in the middle, head left and down the ladder keeping in
+    mind the best music in the game. Now head down all the ladders to the
+    SideSteppa. Note that runners have started running away a couple of times if
+    you don't get a single SideSteppa since the multi-enemies take forever.
+  * **SideSteppa**
+    * **Lynx 32 STR**
+    * Marcy - TurnRed Lynx
+    * Lynx - 2/2/2/Glidehook
+    * **Lynx <32 STR**
+    * Marcy - TurnRed Lynx
+    * Fargo - Strengthen Lynx
+    * Lynx - 1/1/2/2/Glidehook
+  * **WaterDragon (2660/10)**
+    * Marcy - TurnRed Lynx
+    * Fargo - Strengthen Lynx
+    * Lynx - 2/3/2 (2/2/3 if already attacked)
+    * **Lynx 33 STR**
+    * Fargo - 3
+    * Lynx - 2/Glidehook
+    * **Lynx 30 STR**
+    * Fargo - 2/3
+    * Lynx - 2/2/Glidehook
+
+## (Split 33)
+
+  * Head back out to the lily pad isle.
+  * Lily pad ordering - Down, Left, Right, Left
+  * Head to Hydra's Marsh. Take the path on the left side of the screen up to
+    the ... branches? Head left and go fight Beeba.
+  * **Beeba**
+    * Lynx - 2/2
+  * Avoid middle of chest area after picking up item to skip text. Take route
+    up and to the right.
+  * **Wingapede**
+    * Lynx - 3/3
+    * If necessary - Fargo 2, then Lynx 3
+  * Go back to the area before the chest you picked up, and then re-enter to
+    fight BubbaBeeba.
+  * **BubbaBeeba**
+    * Lynx - 2/2/2/Glidehook (hopefully after the second 2 none of this is
+             needed)
+  * Enter the next screen, and go next to the beeba and call the Wingapede.
+  * Listing Battle Strats up here since these battles are dupes.
+  * **PreyMantis (Fight 1 or 2, run from 3)**
+    * 
+  * Now in the Navel, head up to the Mantises (Mantii?). 
+  * After that, head down and to the right for that mantis.
+  * Now head back to the left and up the ladder to bait the Pterodact.
+    * 
+  
 
 [1]: https://docs.google.com/document/d/1ZciCKOh_N4B72tVN1JpZqmzniRTtcfrBXuAjzNWJeyE
 [2]: ./General_Knowledge.md
