@@ -28,7 +28,7 @@ You can find general knowledge that will be useful with any route you take
     * Can accept beach bum blocking path to cliff for extra humour try.
   * Ivory vest bottom left if in need of a backup humour.
   * Race Komodo - 2/2/Weak Fireball
-  * **Momma Komodo (76)**
+  * [**Momma Komodo (76)**][5]
     * 2/2/2/Fireball (49 or above HP fireball for single pass). 2/2 your way to
       victory if any issues.
 
@@ -38,7 +38,7 @@ You can find general knowledge that will be useful with any route you take
   * Take path on upper and to the left side to jump back to entrance.
   * Talk to Leena
   * Cape Howl
-  * **Karsh/Solt/Peppor (120/9 54/9 63/9)**
+  * [**Karsh/Solt/Peppor (120/9 54/9 63/9)**][6]
     * Defend until all text is finished since damage before text is nullified.
       Text moves when Solt hits Serge.
     * Kid - 1/2/Magma Bomb on Solt
@@ -301,7 +301,6 @@ You can find general knowledge that will be useful with any route you take
     * Heal with capsules
   * Good Safety Save Point. If you run you just go back into the fight.
   * **Fire Dragon (892/6)**
-
     * **Optimal Fight Assuming Leena Doesn't Die)**
     * Leena - 1/Eagle Eye
     * Glenn - 3
@@ -312,7 +311,6 @@ You can find general knowledge that will be useful with any route you take
     * Leena - Aquaball-2
     * Serge - Aquaball-2
     * Leena - IceBlast
-
     * **SubOptimal Fight Leena Dies)**
     * Leena - 1/Eagle Eye
     * Glenn - 3
@@ -325,7 +323,6 @@ You can find general knowledge that will be useful with any route you take
     * Leena - Aquaball-2
     * Serge - Aquaball-2
     * Leena - IceBlast
-
     * Heal with Consumables
 
 ## Karsh, Marcy, TankHead (Split 14)
@@ -988,7 +985,7 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 3/3
     * Lynx - 3/3/Glidehook
 
-## Mega Starky (Split 37)
+## Dark Serge (Split 37)
 
   * To Guldove
   * **Orlha (1710/6)**
@@ -997,9 +994,306 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 3/3/Glidehook
   * Head up the ladder and to the left to the Shrine. Show Tear of Hate to
     get the Dragon Eblem. Now head back to Opassa Beach and Home World.
-  * 
+  * Now head to the El Nido Triangle. Head down the ladder and get the chest
+    (Star Fragment) surrounded by several fish. Those will chase you if you get
+    in the circle. Head back out of the El Nido Triangle and to Sky Dragon Isle.
+    Open the chest to start a fight.
+  * **Mega Starky (2940/8)**
+    * Marcy - EagleEye Lynx
+    * Fargo - Strengthen Lynx
+    * Lynx - 3/3
+    * Fargo - 3/3
+    * Lynx - 3/3 (GlideHook if 40 STR)
+    * otherwise Repeat
+  * After the fight catch Starky, then head to Guldove. Head up the ladder to
+    the left and go to the shrine. Show the Dragon Emblem to enter. Head to Fort
+    Dragonia. Heal at the screen before you enter the fort. Head for the
+    elevator.
+  * **Dark Serge (3150/9)**
+    * Marcy - EagleEye Lynx
+    * Fargo - TurnWhite Lynx
+    * Lynx - 3/3
+    * Fargo - 3/3
+    * Lynx - 3/3 (GlideHook if 40 STR)
+    * otherwise Repeat
+
+## Vita Unus (Split 38)
+
+  * Up the elevator, and head to the top of the fort.
+  * Cutscene 1:45
+  * Menu
+    * Serge (Equip) - Dragoon's Gauntlet/Dragoon's Gauntlet/Power Seal
+    * Fargo (Equip) - Elbow Pad (Remove Dreamer's Scarf)
+    * Marcy (Equip) - Dreamer's Scarf (Remove Magic Ring)
+  * Head to the Dead Sea Ruins, and enter the Fate Distortion.
+  * Disk Swap
+  * Do the islands in the order Upper Right, Lower Right, back to where we
+    started. (Counter Clockwise)
+  * **Vita Unus (2375/7)**
+    * Serge - 1/2/2
+    * Fargo - 1/TurnBlue Serge
+    * Marcy - 3
+    * **Expect CurePlus**
+    * If no cureplus, then 1 with Marcy.
+    * Marcy - EagleEye Serge
+    * Serge - 1 then 3
+    * Fargo - 1 then 3 (GreenField)
+    * Serge - 3/3
+    * Fargo - 3/3
+    * Serge - 3/3/Dash&Slash
+
+## PolisPolice (Split 39)
+
+  * Menu
+    * Serge (Elements) - Level 1 HealAll/HealAll/HealAll/Strengthen/TurnYellow/TurnWhite,
+                         Level 8 Saints
+    * Fargo (Elements) - Level 1 Revive (Replace TurnBlue),
+                         Level 4 Vigora
+  * Enter Chronopolis.
+  * **PolisPolice (3360/8)**
+    * Marcy - EagleEye Serge
+    * Serge - 3/3
+    * **38 STR**
+    * Marcy - Strengthen Serge (skip if dead)
+    * Fargo - 1/1/1 until Vigora Serge
+    * Serge - 1/Dash&Slash (Strenghten, 1 Dash&Slash if Marcy died) (trigger break)
+    * Serge - 3/x
+    * **42 STR**
+    * Fargo - 1/1/1 until Vigora Serge
+    * Serge - 2/Dash&Slash (trigger break)
+    * Serge - 3/3/3 until Vigora runs out
+
+## Fate (Split 40)
+
+  * Head up to the next area. Then go right and down the hatch. Take control of
+    the robot and cross the area to extend the bridge. Head up the ladder and
+    through the door at the top. Go Right, then up the stairs to floor 2. Head
+    to the room with the map and enable security lock 2. Now take the elevator
+    to floor 2. To the right, and start the scientist conversation.
+  * Head down the elevator back to the first floor. Take the entrance to the
+    left, and talk to the scientist on the dock.
+  * Back to floor 4, and enter the room to the left. Now move the mech fully to
+    the left and run. Now move forward some and run again. Now walk forward and
+    grab the chest, then run away. Now head to B1.
+  * Follow the mech on the right to the end and get in a fight. Run away, then
+    move around and go through the door.
+  * **Fate (5250/9)**
+    * **Magnify must happen before Diminish, else Run Away**
+    * **Serge 37 STR, 22 MAG**
+    * Marcy - 1/1/Magnify
+    * Serge - 2/3/2
+    * Marcy - 1/1 (Get to Lvl 2)
+    * Fargo - 1/1 (Get to Lvl 2)
+    * Serge - 2/2 (Get to Lvl 8)
+    * **Gravitonne from Fate**
+    * Fargo - Genius-3 Serge
+    * Marcy - WeakMinded-3
+    * Fargo - TurnWhite Fargo
+    * Marcy - WeakMinded-3
+    * Serge - 1/2/Saints
+    * Fargo - 2/3 (Revive Serge if needed)
+    * Serge - 2/2/Dash&Slash
+
+## Royal Jelly (Split 41)
+
+  * Cutscene SkyDragon 1:10
+  * Cutscene 1:40
+  * Replace Marcy with Glenn, and Fargo with Starky.
+  * Head to El Nido Triangle.
+  * Menu
+    * Marcy (Equip) - Remove All
+    * Fargo (Equip) - Dreamer's Scarf (Remove Dragoon's Honor)
+    * Glenn (Equip) - Einlazer/Mythril Mail/Dragoon's Honor/Dragoon's Honor/
+                      Dreamer's Scarf
+    * Glenn (Elements) - Level 2 HealAll/HealAll/HealAll,
+                         Level 1 TurnBlue/EagleEye/Strengthen/TurnBlack
+  * Move Starky to First. And head through to where the Star Fragment chest was,
+    but is this time a space ship.
+  * **RoyalJelly (1739/14)**
+    * Glenn - 1/1/1/1 (Get to Lvl 4) Strengthen Serge
+    * Serge - 1/1/1/1/X-Strike
+
+## Terrator (Split 42)
+
+  * Go into the ship to start some mashing.
+  * Cutscene 1:25
+  * Replace Starky with Fargo
+  * **Terrator (2310/5)**
+    * **Serge 42 STR**
+    * Serge - 2/2
+    * Glenn - 1/1 (Get to Lvl 3)
+    * Fargo - Strengthen
+    * Serge - 1/X-Strike (skip 1 if 43 and Glenn 41)
+    * **Serge 38 STR**
+    * Serge - 2/3
+    * Glenn - 1/1 (Get to Lvl 3)
+    * Fargo - Strengthen
+    * Serge - 1/X-Strike (skip 1 if 41)
+
+## Pryotor (Split 43)
+
+  * Go through the entrance, and knock over the totem to the left. Cross and
+    enter the door. Go down the stairs and take the water fall down.
+  * Go all the way down and then run up the ... (coral?) and exit to the the
+    left. Now climb down the coral ladder, then back up until you hit the
+    collapsing bridge on the upper left. Now go through and talk to the creepy
+    talking head thing.
+  * Continue up and take the coral ladder up. And circle to the right then head
+    down, then up again and take the exit on the right.
+  * Careful on this screen as these enemies chase you. Head up the ladder, then
+    to the next ladder, then left to the next one. Keep heading up to the top.
+  * Knock down both totems, then cross them to the next room. Head up and to the
+    right for the next fight.
+  * **Pryotor (2280/7)**
+    * Serge - 1/2
+    * Glenn - EagleEye
+    * **Serge 43 STR**
+    * Defend to (SadnessWave)
+    * Fargo - Strengthen
+    * Serge - 2/2 Dash&Slash
+    * **Serge 40 STR**
+    * Fargo - Strengthen (must be after SadnessWave)
+    * Serge - 2/3/Dash&Slash
+    * **None of the above if Serge <40 STR**
+    * Fargo - EagleEye
+    * Glenn - TurnBlue Serge
+    * Serge - 2 (3 if 35-37 or after SadnessWave)
+    * Fargo - 1/Strengthen
+    * Serge - 3/3/Dash&Slash
+
+## Anemotor (Split 44)
+
+  * Go through to the next room. Up the ladders to the very top. Now go right,
+    then left in the middle, then right again and up to Belthasar's tower.
+  * After the chat head back, then up and keep going up to the next fight.
+  * **Anemotor (2375/6)**
+    * Glenn EagleEye
+    * **Serge 44 STR Glenn 40 STR**
+    * Serge - 2/3 (InfoScope)
+    * Glenn - 1/1/1 (Get to Lvl 3) X-Strike
+    * **Serge 38 STR Glenn 38 STR**
+    * Serge - 2/3 (InfoScope)
+    * Glenn - 1/1/1 (Get to Lvl 3)
+    * Fargo - Strengthen
+    * Serge - X-Strike
+    * **Else**
+    * Serge - 3/3 (InfoScope)
+    * Glenn - 1/1/1 (Get to Lvl 3)
+    * Fargo - Strengthen
+    * Serge - X-Strike
+
+## Gravitor (Split 45)
+
+  * Head through the teleporter, and to the left exit for the next screen. Cross
+    the bridge and get shot across to go fight Gravitor.
+  * **Gravitor (2850/8)**
+    * Glenn - EagleEye
+    * **Serge 44 STR**
+    * Serge - 3/3/Dash&Slash
+    * **Else**
+    * Fargo - Strengthen
+    * Serge - 3/3/Dash&Slash
+
+## Luxator (Split 46)
+
+  * Head back across the canyon and bridge back to the teleporter screen. Head
+    all the way to the right and cross the wind bridge. Cross the canyon and on
+    to the next fight.
+  * **Luxator (3150/8)**
+    * Glenn - EagleEye
+    * **Serge 42 STR Glenn 41 STR**
+    * Serge - 3/3
+    * Glenn - 1/1/1 (Get to Lvl 3)
+    * Fargo - Strengthen
+    * Serge - 1/2 (must buffer this) X-Strike
+    * **Else**
+    * Fargo - Strengthen
+    * Serge - 3/3
+    * Glenn - 1/2/3 (Get to Lvl 3, plus max Serge)
+    * Serge - 3/3/X-Strike (first 3 should trigger Heal)
+
+## Aquator (Split 47)
+
+  * Head back to the teleporter screen and head through the top door.
+  * **Aquator (2940/6)**
+    * **Serge 48 STR**
+    * Serge - 2/2
+    * Fargo - Strengthen (after Vigora)
+    * Glenn - 1/1/X-Strike
+    * **Serge 43 STR**
+    * Serge - 2/2
+    * Glenn - 1/1 (Get to Lvl 3)
+    * Fargo - Strengthen (after Vigora)
+    * Serge - 1/1 (2 if 42 or miss) X-Strike
+    * **Serge 40 STR**
+    * Fargo - EagleEye
+    * Glenn - 1/1/1 (Get to Lvl 4) Strengthen
+    * Serge - 3/3/X-Strike
+
+## Dragon God (Split 48)
+
+  * Head up the teleporter over the defeated boss.
+  * **Dragon God (1900/10 Each Phase)**
+    * **Serge 44 STR**
+      * **_Phase 1 (White)_**
+      * Serge - 2/3/2
+      * Glenn - 2/2
+      * Fargo - 1/1 (Get to Lvl 3)/TurnGreen Serge
+      * Serge - 2 then 2 then 2
+      * Glenn/Serge finish
+      * **_Phase 2 (Yellow)_**
+      * Glenn - Get Serge to 5 Stamina/Strengthen Serge
+      * Fargo - EagleEye Serge
+      * Serge - 3 then 3
+      * **_Phase (Red)_**
+      * Glenn - TurnBlue Serge
+      * Fargo - 1/1/1 until Serge 6 Stamina/Vigora Serge
+      * Serge - 3 then 3
+      * **_Phase 4 (Green)_**
+      * **Serge 46 STR**
+      * Serge - 1/3/3 then 3
+      * **Else**
+      * Serge - 3/3
+      * Glenn - Defend (1 if not LV3)
+      * Serge - 2 then 3
+      * **_Phase 5 (Blue)_**
+      * Fargo - 1/Strengthen Serge (always do 1, no matter what)
+      * Serge - X-Strike
+      * **_Phase 6 (Black)_**
+      * Glenn - 1/1/1 until Serge 6 Stamina)/EagleEye Serge
+      * Fargo - 1/1/1 until Serge's TurnBlue not active
+      * Serge - 1/3 then 3
+      * Glenn - Finish
+      * **_Phase 7 (White)_**
+      * Glenn - TurnBlack Serge
+      * Fargo - 2/2/2 until Serge 6 or 7 Stamina/Genius Serge (Skip Genius if 46
+                STR + 150 Fargo Damage or 47 STR + 100 Fargo Damage)
+      * Serge - 1 then 3/3
+
+## Time Devourer (Split 49)
+
+  * Head to Divine Dragon Falls. Altars to get Chrono Cross.
+  * Menu
+    * Serge (Elements) - Level 1 Chrono Cross
+  * To Opassa Beach and go to the other world. Go to the purple vapor, and
+    select the time egg to start the fight.
+  * **Time Devourer (10)**
+    * Serge - 1/1/1 (Get to Lvl 3)
+    * Glenn - 1 (Get to Lvl 2)
+    * Fargo - 1 (Get to Lvl 2)
+    * Defend All until attack
+    * Serge - TurnYellow
+    * Glenn - Strengthen
+    * Fargo - TurnGreen
+    * Glenn - TurnBlue
+    * Fargo - Genius
+    * Serge - TurnWhite
+    * Serge - ChronoCross
+  * Hit that split button and you are done!
 
 [1]: https://docs.google.com/document/d/1ZciCKOh_N4B72tVN1JpZqmzniRTtcfrBXuAjzNWJeyE
 [2]: ./General_Knowledge.md
 [3]: https://www.speedrun.com/chronocross/guide/0g6x9
 [4]: https://www.youtube.com/watch?v=5hnoU504HGo
+[5]: ./Star_Fights/Star_1_Momma_Komodo.md
+[6]: ./Star_Fights/Star_2_Karsh_Solt_Peppor.md
