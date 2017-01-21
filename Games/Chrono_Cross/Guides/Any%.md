@@ -988,6 +988,7 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 3/3
     * Lynx - 3/3/Glidehook
 
+## Mega Starky (Split 37)
 
   * To Guldove
   * **Orlha (1710/6)**
