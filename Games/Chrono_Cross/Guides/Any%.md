@@ -866,7 +866,7 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 2/3
     * Lynx - 2/2/Glidehook
 
-## (Split 33)
+## Tyrano (Split 33)
 
   * Head back out to the lily pad isle.
   * Lily pad ordering - Down, Left, Right, Left
@@ -885,14 +885,118 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 2/2/2/Glidehook (hopefully after the second 2 none of this is
              needed)
   * Enter the next screen, and go next to the beeba and call the Wingapede.
-  * Listing Battle Strats up here since these battles are dupes.
-  * **PreyMantis (Fight 1 or 2, run from 3)**
-    * 
-  * Now in the Navel, head up to the Mantises (Mantii?). 
+  * Listing Battle Strats up here since these battles are dupes. Fight 1 or 2,
+    run from 3 or Prehysteric
+  * **PreyMantis (610/21)**
+    * **Only 1**
+    * Marcy - Strengthen Lynx (skip if 36 STR)
+    * Fargo - TurnYellow Lynx
+    * Lynx - 2 then 2/3
+    * **2**
+    * Marcy - Strengthen Lynx
+    * Fargo - TurnYellow Lynx
+    * Lynx - 1/2/3
+    * Fargo - 3/3
+    * Lynx - 2/2/2/GlideHook
+  * **Pterodact (750/21)**
+    * Fargo - TurnBlue Lynx
+    * Lynx - 2/2/3 (2/2/2/GlideHook if 1)
+    * Marcy - 1/1/1 until Lvl 6/IceBlast+2
+    * Lynx - 2/2/2/GlideHook
+  * Now in the Navel, head up to the Mantis.
   * After that, head down and to the right for that mantis.
-  * Now head back to the left and up the ladder to bait the Pterodact.
-    * 
+  * Head to the next screen to the right and get the first mantis there.
+  * Now head back to the original screen and up the ladder and get the item to
+    bait the Pterodact.
+  * Afterwards head down the ladder to the screen to the left to fight the first
+    mantis. Then head down the ladder to the lower mantis to fight that one.
+  * Now head back to the main screen to fight the Tyrano.
+  * **Tyrano (1680/6)**
+    * **You must steal the Power Seal or Run Away.**
+    * Fargo - 1/1/Pillage
+    * Marcy - 1/1/1 until Level 7
+    * Fargo - 1/TurnBlue Lynx
+    * Marcy - FrogPrince
+    * Lynx/Fargo - 2/2/2 for the win.
+
+## Green Dragon (Split 34)
   
+  * Menu
+    * Lynx (Equip) - Dragoon Gauntlet/Power Seal/Pendragon Sigil B or C
+    * Fargo (Equip) - Dragoon's Honor
+  * **Green Dragon (3885/5)**
+    * **Late Carnivore and 31 STR**
+    * Fargo - EagleEye Lynx
+    * Lynx - 2/2
+    * Carnivore expected here
+    * Marcy - Strengthen Lynx
+    * Fargo - 1/1/TurnYellow Lynx
+    * Lynx - 3/3 (Glidehook if 38STR)
+    * Marcy - 2/2 (or 1/1/1 until Panacea for Lynx if needed)
+    * Lynx - 2/3
+    * **Early Carnivore**
+    * Fargo - EagleEye Lynx
+    * Carnivore expected here
+    * Lynx - Defend
+    * Marcy - Strengthen Lynx
+    * Fargo - 1/TurnYellow Lynx
+    * Lynx - 3/3
+    * Marcy - 3/3 (or 1/1/1 until Panacea for Lynx if needed)
+    * Lynx - 2/2/3 (3/3/Glidehook if <34 STR)
+
+## Fire Dragon (Split 35)
+
+  * To Opassa Beach (Another World)
+  * Head to Mount Pyre. First go up through the first screen, then go right. Be
+    careful because the dogs will chase you here. Head down the lavafall, then
+    through the mini cave to the exit at the top of the screen. Now head up one
+    more screen to the room with the fire dragon.
+  * Menu
+    * Lynx (Equip) - Dragoon Gauntlet (replace Pendragon's Sigil)
+    * Heal with Consumables
+  * Talk to the Fire Dragon to start the battle.
+  * **Fire Dragon (892/9 -> 3570/9)**
+    * Marcy - 1/2 (Get to Lvl 4)
+    * Fargo - 1 (Get to Lvl 2)
+    * Lynx - 1/1/2/3
+    * Marcy - Defend
+    * Fargo - Defend
+    * Marcy - Strengthen Lynx
+    * Fargo - EagleEye Lynx
+    * Lynx - Defend
+    * Fargo - TurnBlue Lynx
+    * Marcy - Cat's Cradle
+    * **If no Transform**
+    * Lynx - 1/1/1 until Transform
+    * ** Back on Script**
+    * Lynx - 3/3
+    * Defend All
+    * Lynx - 3/3/1
+    * Marcy - Defend
+    * Lynx - Glidehook
+
+## Sky Dragon (Split 36)
+
+  * Exit Mount Pyre, and head to Sky Dragon Isle.
+  * Menu
+    * Heal with Consumables
+  * Run up the stairs and talk to the Sky Dragon to fight.
+  * **Sky Dragon (3610/7)**
+    * Marcy - EagleEye Lynx
+    * Fargo - Strengthen Lynx
+    * Lynx - 3/3 (2/3 if 38 STR)
+    * Fargo - 3/3
+    * Lynx - 3/3/Glidehook
+
+
+  * To Guldove
+  * **Orlha (1710/6)**
+    * Marcy - EagleEye Lynx
+    * Fargo - Strengthen Lynx (skip if 38 STR)
+    * Lynx - 3/3/Glidehook
+  * Head up the ladder and to the left to the Shrine. Show Tear of Hate to
+    get the Dragon Eblem. Now head back to Opassa Beach and Home World.
+  * 
 
 [1]: https://docs.google.com/document/d/1ZciCKOh_N4B72tVN1JpZqmzniRTtcfrBXuAjzNWJeyE
 [2]: ./General_Knowledge.md
