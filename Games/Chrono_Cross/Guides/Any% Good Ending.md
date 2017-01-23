@@ -57,7 +57,7 @@ You can find general knowledge that will be useful with any route you take
   * Backup Humour - Cape Howl Beach Bum fight. Leena 1/1/1/Magma Bomb.
   * Fossil Valley
   * Switch to Leena in front.
-  * **Solt and Peppor (84/7 94/8)**
+  * [**Solt and Peppor (84/7 94/8)**][7]
     * Go for Solt first.
     * Leena - 3/3 (You only get 2 actions) Magma Bomb if you get it.
     * Serge - 1/Fireball
@@ -1297,3 +1297,4 @@ You can find general knowledge that will be useful with any route you take
 [4]: https://www.youtube.com/watch?v=5hnoU504HGo
 [5]: ./Star_Fights/Star_1_Momma_Komodo.md
 [6]: ./Star_Fights/Star_2_Karsh_Solt_Peppor.md
+[7]: ./Star_Fights/Star_3_Solt_Peppor.md
