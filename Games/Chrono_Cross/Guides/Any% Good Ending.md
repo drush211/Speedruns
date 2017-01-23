@@ -79,7 +79,7 @@ You can find general knowledge that will be useful with any route you take
   * Get Medal of Honor from running child.
   * Talk to Pierre again.
   * Head to Viper Manor, but Tele-Porter Pierre into Poshul's spot.
-  * **Guards (70 84)**
+  * [**Guards (70 84)**][8]
     * Serge - 2/2/3
     * Kid - 2/2/3
     * Serge - 2/2/3
@@ -88,7 +88,7 @@ You can find general knowledge that will be useful with any route you take
 ## Ketchop (Split 5)
 
   * Switch to Pierre being in front so he takes the Ketchop hit.
-  * **Solt/Peppor/Ketchop (273/9)**
+  * [**Solt/Peppor/Ketchop (273/9)**][9]
     * NOTE: Always hit Ketchop as he will kill Solt and Peppor for you.
     * Serge - 1/2/3/Dash & Slash
     * Kid - 2/2/3
@@ -1298,3 +1298,5 @@ You can find general knowledge that will be useful with any route you take
 [5]: ./Star_Fights/Star_1_Momma_Komodo.md
 [6]: ./Star_Fights/Star_2_Karsh_Solt_Peppor.md
 [7]: ./Star_Fights/Star_3_Solt_Peppor.md
+[8]: ./Star_Fights/Star_4_Guards.md
+[9]: ./Star_Fights/Star_5_Solt_Peppor_and_Ketchop.md

@@ -1,4 +1,4 @@
-# Karsh, Solt and Peppor
+# Solt and Peppor
 
 ## Optimizations
 
