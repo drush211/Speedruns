@@ -117,7 +117,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge (Equip) - Bronze Mail/Dragoon's Honor
     * Pierre (Elements) - Turn Yellow/Revive
   * Grab Treasure on wall.
-  * **Bulbs (168/10)**
+  * [**Bulbs (168/10)**][10]
     * Pierre - 1/Turn Yellow
     * Serge - 2/3/2
     * Kid - 2/2/3
@@ -131,7 +131,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge (Equip) - Dragoon's Gauntlet
   * Go enter code obtained from earlier and enter main hall.
   * Head left to Balthasar's tower, and go talk to Marcy.
-  * **Marcy (498/7)**
+  * [**Marcy (498/7)**][11]
     * Cat's Cradle at 249 HP.
     * Kid - 3/3
     * Serge - 1/1/2/2
@@ -1300,3 +1300,5 @@ You can find general knowledge that will be useful with any route you take
 [7]: ./Star_Fights/Star_3_Solt_Peppor.md
 [8]: ./Star_Fights/Star_4_Guards.md
 [9]: ./Star_Fights/Star_5_Solt_Peppor_and_Ketchop.md
+[10]: ./Star_Fights/Star_6_Bulbs.md
+[11]: ./Star_Fights/Star_7_Marcy.md

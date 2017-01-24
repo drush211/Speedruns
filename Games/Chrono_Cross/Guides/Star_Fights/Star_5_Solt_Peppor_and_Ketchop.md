@@ -21,5 +21,3 @@ at full health so you can get everyone their stat upgrade.
     * Serge - 1/2/3/Dash & Slash
     * Kid - 2/2/3
     * Serge - 2/2/3
-
-[1]: https://github.com/drush211/Speedruns/issues/10
