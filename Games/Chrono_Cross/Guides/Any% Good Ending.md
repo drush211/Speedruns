@@ -259,7 +259,7 @@ You can find general knowledge that will be useful with any route you take
     the end.
   * Dodge Everything!
   * At the top of the last stairs, pick up PhotonBeam.
-  * **DeadHead (735/6)**
+  * [**DeadHead (735/6)**][15]
     * Glenn - 1/Strengthen
     * Leena - 1/EagleEye
     * Serge - 3/3
@@ -283,7 +283,7 @@ You can find general knowledge that will be useful with any route you take
                          5 some placeholder element to allow 5 levels.
     * Serge (Elements) - Lvl 1 Add Strengthen, Lvl 4 Add BushBasher
     * Leena (Elements) - Lvl 3 BushBasher, Lvl 4 Photonbeam, Lvl 5 Placeholder
-  * **Solt/Pepper (525/6 507/8)**
+  * [**Solt/Pepper (525/6 507/8)**][16]
     * Serge - 1/Strengthen
     * Leena - 1/EagleEye
     * Glenn - 3/3
@@ -300,8 +300,8 @@ You can find general knowledge that will be useful with any route you take
     * Serge (Equip) - Iron Mail
     * Heal with capsules
   * Good Safety Save Point. If you run you just go back into the fight.
-  * **Fire Dragon (892/6)**
-    * **Optimal Fight Assuming Leena Doesn't Die)**
+  * [**Fire Dragon (892/6)**][17]
+    * **Optimal Fight Assuming Leena Doesn't Die**
     * Leena - 1/Eagle Eye
     * Glenn - 3
     * Serge - 1/1/2/TurnBlue Glenn (Skip 1/2 if bad start)
@@ -311,7 +311,7 @@ You can find general knowledge that will be useful with any route you take
     * Leena - Aquaball-2
     * Serge - Aquaball-2
     * Leena - IceBlast
-    * **SubOptimal Fight Leena Dies)**
+    * **SubOptimal Fight Leena Dies**
     * Leena - 1/Eagle Eye
     * Glenn - 3
     * Serge - 1/1/2/TurnBlue Glenn (Skip 1/2 if bad start)
@@ -328,7 +328,7 @@ You can find general knowledge that will be useful with any route you take
 ## Karsh, Marcy, TankHead (Split 14)
 
   * Move Serge to first in the party. Saves cutscene time.
-  * **Karsh/Zoah/Marcy (388/8 457/11 285/6)**
+  * [**Karsh/Zoah/Marcy (388/8 457/11 285/6)**][18]
     * Glenn - 1/2 Zoah
     * Serge - 1/2/X-Strike Marcy
     * Leena - 1/1/2/2/EagleEye Zoah/Glenn
@@ -1305,3 +1305,7 @@ You can find general knowledge that will be useful with any route you take
 [12]: ./Star_Fights/Star_8_Lynx.md
 [13]: ./Star_Fights/Star_9_Polly.md
 [14]: ./Star_Fights/Star_10_Fargo.md
+[15]: ./Star_Fights/Star_11_Deadhead.md
+[16]: ./Star_Fights/Star_12_Solt_and_Peppor.md
+[17]: ./Star_Fights/Star_13_Fire_Dragon.md
+[18]: ./Star_Fights/Star_14_Karsh_Marcy_Zoah.md
