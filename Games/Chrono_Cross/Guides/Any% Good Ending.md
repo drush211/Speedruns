@@ -151,7 +151,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 2/3
   * Go up elevator, and go through door straight ahead. Wait for ghost to shut
     his eye or else a battle will happen.
-  * **Lynx (861/8)**
+  * [**Lynx (861/8)**][12]
     * Count crits and misses as they cancel each other out.
     * Serge - 3/3 (1)
     * Kid - 2/2/2
@@ -208,9 +208,9 @@ You can find general knowledge that will be useful with any route you take
     * Leena (Elements) - Lvl 1 - EagleEye/TurnRed/AquaBall, Lvl 4 - Iceblast
   * Head towards Fort Dragoon and enter the fog.
   * Run away from first fight.
-  * **Polly (567/18)**
+  * [**Polly (567/18)**][13]
     * Glenn - 1/TurnBlue on Serge
-    * Leena - 1/1/1/1/IceBlast
+    * Leena - 1/1/1 until Level 4/IceBlast
     * Serge - 2/2/3
     * Glenn - 2/2/3
     * Serge - 2/2/3
@@ -218,7 +218,7 @@ You can find general knowledge that will be useful with any route you take
 
 ## Fargo (Split 10)
 
-  * **Fargo (693/8)**
+  * [**Fargo (693/8)**][14]
     * Glenn - 1/Strengthen on Serge
     * Leena - 1/TurnRed on Serge
     * Serge - 2/3/2
@@ -1302,3 +1302,6 @@ You can find general knowledge that will be useful with any route you take
 [9]: ./Star_Fights/Star_5_Solt_Peppor_and_Ketchop.md
 [10]: ./Star_Fights/Star_6_Bulbs.md
 [11]: ./Star_Fights/Star_7_Marcy.md
+[12]: ./Star_Fights/Star_8_Lynx.md
+[13]: ./Star_Fights/Star_9_Polly.md
+[14]: ./Star_Fights/Star_10_Fargo.md
