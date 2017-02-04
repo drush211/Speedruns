@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.6.0">
+  <GameIcon />
+  <GameName>X-Men (1992)</GameName>
+  <CategoryName>Any% (6P, UCB version)</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>7</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/03/2017 01:12:56" isStartedSynced="True" ended="02/03/2017 01:33:46" isEndedSynced="True">
+      <RealTime>00:20:49.9960000</RealTime>
+    </Attempt>
+    <Attempt id="2" started="02/03/2017 01:42:16" isStartedSynced="True" ended="02/03/2017 01:43:05" isEndedSynced="True" />
+    <Attempt id="3" started="02/03/2017 01:43:22" isStartedSynced="True" ended="02/03/2017 02:02:17" isEndedSynced="True">
+      <RealTime>00:18:54.4670000</RealTime>
+    </Attempt>
+    <Attempt id="4" started="02/04/2017 00:34:45" isStartedSynced="True" ended="02/04/2017 00:40:59" isEndedSynced="True" />
+    <Attempt id="5" started="02/04/2017 00:41:06" isStartedSynced="True" ended="02/04/2017 00:58:56" isEndedSynced="True">
+      <RealTime>00:17:49.5460000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Pyro</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:07.9430000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:07.9430000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:55.5450000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:46.1840000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:02.8270000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:07.9430000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Blob</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:30.4320000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:22.4890000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:04:25.3440000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:03:12.4410000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:03:40.5980000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:22.4890000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Wendigo</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:15.8960000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:45.4640000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:00.1880000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:55.7570000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:45.4640000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sentinel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:57.3370000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:41.4410000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:04.5700000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:42.7480000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:41.4410000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Juggernaut</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:09.4890000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:47.0820000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:05.1070000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:47.0820000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:03:12.1520000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Who the fuck is this?</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:03.0820000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:53.5930000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1" />
+        <Time id="0">
+          <RealTime>00:03:14.2460000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:05.3740000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:53.5930000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Not Mystique</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:49.5460000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:53</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:19.2420000</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:53</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:03:24.8810000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:03:46.4640000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
