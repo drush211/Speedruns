@@ -45,7 +45,17 @@ allows him to go incredibly fast through the air to make up distance.
 You should almost always be jumping when moving the screen to avoid attacks.
 This doesn't slow you down, but allows you to sometimes be missed when enemies
 off screen take shots at you. Do note that Jump/Attacking is not the same thing.
-If you are doing a jump attack, the screen will not move forward, so only jump.
+If you are doing a jump attack, the screen will not move forward, so only jump
+unless the screen is stationary. A Jump->Attack (where you hammer fist) is
+slightly faster than a jump, but will stall the screen transition so know when
+to use it.
+
+### Ult Knock Downs
+
+When fighting bosses (possibly any enemy) which ever way you are facing when you
+ult them is the direction they will fly. We utilize this to pull bosses to the
+left so we don't have to cross the screen, but also we can make bosses fall
+forward instead of back which is faster as well.
 
 ### Verbage
 
@@ -92,6 +102,8 @@ If you are doing a jump attack, the screen will not move forward, so only jump.
     * Blob takes 10 Ults if you use an ult instead of an attack when he falls
       down. DON'T DO THIS!!!!!
     * Instead Ult/Punch Combo/Repeat. It takes 5 Ults if you do it this way.
+      Make sure you give him a half second to move towards you so he falls down
+      instead of bouncing off the wall.
 
 ## Welcome... To DIE!!! (Split 3)
 
@@ -117,22 +129,101 @@ If you are doing a jump attack, the screen will not move forward, so only jump.
 
 ## Nimrod? Really? (Split 4)
 
+  * Jump->Attack then Ult and hit everyone.
+  * Stay towards the bottom to avoid the leaping lizards, then ult once the 2nd
+    sentinel comes through the doors.
+  * Give a half second after the shooters come out to Ult the earthspawn as
+    well.
+  * Stay towards the bottom and ult when the cart with shooters shows up.
+  * Move to the top to die to the trolley, then Jump->Attack and Ult the group
+    for as many as you can.
+  * Ult the bird twice, then keep moving right.
+  * Ult the shooters, then die while the elevator is going up.
+  * Ult the sentinels when they stop coming, then move to the right.
+  * Ult the 4 earthspawn, then move right.
+  * Be on bottom to avoid the lizards, then ult when the 2nd guy comes through
+    the door.
+  * Ult the right side.
+  * Die to the next wave, then spawn and kill the entire left. Then jump to the
+    right and Ult.
+  * Ult the right most sentinels coming down.
+  * Ult the right most again, then move to the next screen and die to a
+    sentinel.
   * **Nimrod**
+    * 9 Ults, and make sure to pull him to the left, then get in position in
+      front of the cell.
 
 ## Juggernaut (Split 5)
 
+  * Jump->Attack then ult.
+  * Ult the right side.
+  * Ult the right side, but make sure you get all but the green shooter on the
+    left.
+  * Move past the green men and ult the far right side to leave only the green
+    shooter on the left.
+  * Walk over to them and have them hit you to knock you into a screen
+    transition death.
+  * Spend 2 ults to clean up the enemies here.
+  * **Emma Frost**
+    * Takes 5 ults to kill, and pull her to the left.
+  * Move to the bottom left/right and wander around avoiding the bombs while
+    counting to 14 (numbers may vary), then ult in the middle.
+  * Die to the trollie then jump->attack to the right and ult.
+  * Move right and ult the far right.
+  * Ult the far right again, then die to the shooters.
+  * Ult the left, then move to the next screen and wait for the 3rd row of
+    sentinels to come in.
+  * Ult when the fifth tank-man comes out.
+  * Move towards the middle and ult when you can clear down to 5.
   * **Juggernaut**
+    * 12 Ults, and make sure you pull him to the left.
 
 ## Who the fuck is this? (Split 6)
 
+  * Jump->Attack then jump 4 times and Ult the right.
+  * Ult the right, then jump in the pit.
+  * Ult the the left, then move right and ult as many as possible.
+  * Ult the right.
+  * Ult the right, then die to the Pyro jump kick.
+  * Ult the pyros twice.
+  * Ult the far right.
+  * Ult the tank-men on the right, then get shot in the back moving to the next
+    screen.
   * **Pharoah Bots**
+    * 6 Ults
+  * **Pharoah**
+    * 9 Ults
 
 ## Not Mystique (Split 7)
 
-  * The re-boss fights only allow 3 at a time, so take them out in a group if
-    possible, but at least take out 1 go get to the next screen. To transition
-    to Mystique, I'm not sure what the exact requirements are, but it looks like
-    you can get to her if you have only one opponent alive (either Nimrod or
-    Juggernaut).
+  * Jump, then Jump->Attack and Ult to clear the first and second wave of
+    enemies.
+  * Ult the bottom right side then move on.
+  * Ult the bottom right side, then jump attack to the left and ult to clear out
+    the remaining enemies. Try to clear all of them, or if the laser shooter is
+    still there try to take a laser to the back.
+  * Die, then Ult to clear the grouping.
+  * Ult the group on the right.
+  * Ult the tank-men on the right.
+  * Ult the tank-men on the right, then take a laser to the back to die.
+  * Ult the left side to take everything (EVERYTHING!!!) out, then jump to the
+    right and ult the tank-men as neeeded.
+  * Move on to the sub-bosses and try to bundle them in ults as much as
+    possible. The re-boss fights only allow 3 at a time, so take them out in a
+    group if possible, but at least take out 1 go get to the next screen. To
+    transition to Mystique, you need to be on the last hit of Juggernaut. It's
+    also possible to get here with Nimrod alive if you have gotten to the last
+    hit on Juggernaut. In fact that is the best way to clear the stage as he can
+    hit and kill you after you ult Mystique to 1 health.
   * **Mystique**
+    * 9 Ults to kill, and you want to pull her all the way to the left, and
+      bounce her off the wall while she is looking at it if possible.
+
+## The Real Magneto (Split 8)
+
   * **Magneto**
+    * 30 Ults, you want to be facing right whenever you ult so that he goes to
+      the right side of the screen. Save you a small amount of time for screen
+      traversal after death. Also you want to end up to the left of Magneto so
+      that he is facing the wall he is going to be thrown against from the ult.
+      This saves a small amount of animation time.

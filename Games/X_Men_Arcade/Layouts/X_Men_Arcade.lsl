@@ -205,5 +205,52 @@
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
+    <Component>
+      <Path>LiveSplit.Sound.dll</Path>
+      <Settings>
+        <Version>1.6</Version>
+        <Split>
+        </Split>
+        <SplitAheadGaining>
+        </SplitAheadGaining>
+        <SplitAheadLosing>
+        </SplitAheadLosing>
+        <SplitBehindGaining>
+        </SplitBehindGaining>
+        <SplitBehindLosing>
+        </SplitBehindLosing>
+        <BestSegment>C:\github\speedruns\StreamFiles\Audio\ITS OVER 9000!!!.mp3</BestSegment>
+        <UndoSplit>
+        </UndoSplit>
+        <SkipSplit>
+        </SkipSplit>
+        <PersonalBest>C:\github\speedruns\StreamFiles\Audio\Queen - Princes of the Universe.mp3</PersonalBest>
+        <NotAPersonalBest>C:\github\speedruns\StreamFiles\Audio\I aware you no points.mp3</NotAPersonalBest>
+        <Reset>
+        </Reset>
+        <Pause>
+        </Pause>
+        <Resume>
+        </Resume>
+        <StartTimer>
+        </StartTimer>
+        <OutputDevice>0</OutputDevice>
+        <SplitVolume>100</SplitVolume>
+        <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
+        <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
+        <SplitBehindGainingVolume>100</SplitBehindGainingVolume>
+        <SplitBehindLosingVolume>100</SplitBehindLosingVolume>
+        <BestSegmentVolume>100</BestSegmentVolume>
+        <UndoSplitVolume>100</UndoSplitVolume>
+        <SkipSplitVolume>100</SkipSplitVolume>
+        <PersonalBestVolume>100</PersonalBestVolume>
+        <NotAPersonalBestVolume>100</NotAPersonalBestVolume>
+        <ResetVolume>100</ResetVolume>
+        <PauseVolume>100</PauseVolume>
+        <ResumeVolume>100</ResumeVolume>
+        <StartTimerVolume>100</StartTimerVolume>
+        <GeneralVolume>100</GeneralVolume>
+      </Settings>
+    </Component>
   </Components>
 </Layout>

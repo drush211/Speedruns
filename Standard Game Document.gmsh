@@ -1,0 +1,133 @@
+<document unique_id="9bd9c803-4669-4ba2-87b9-096c59ca7b11" version="6" os="windows" original_document_path="C:\github\speedruns\Standard Game Document.gmsh">
+	<open_windows>
+		<vamWindowGlass frame="-1703,502,-403,1080" asset_icon_scale="0.6" asset_icon_updateFPS="15" selected_layer="1836282929" vam_main_splitter="0.65" eWindow_win_showcmd="3"/>
+	</open_windows>
+	<vam_state master_audio_shown="1010" show_preview_edit_panel="1" preview_shown="0" live_shown="1" live_preview_split_open_percent="0.75" live_preview_split_closed_percent="0.5" transition_0_unique_id="-- CUT --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="-- SMOOTH --" master_audio_monitor="0" preview_audio_monitor="0" master_audio_mute="0"/>
+	<transition_data/>
+	<chroma_key_data/>
+	<advanced_output>
+		<output_list output_last_selected="4fbb25b9-3b08-4a7b-9638-32b16d673e32">
+			<output output_enabled="1" output_type="1" output_url="C:\github\speedruns\Streams\Stream.mp4" output_autoinfilename="1" output_branding="Record To Disk MP4 Brand" output_display_name="Record To Disk - MP4" output_display_group_name="Record To Disk - MP4" output_settings_complete="1" output_presetname="Twitch: 720p60 x264 (3500 Kbps)" output_guid="7ea07c94-06d0-4158-aa6d-6ff42e0492e8" output_id="7ea07c94-06d0-4158-aa6d-6ff42e0492e8" unique_id="1"/>
+			<output output_type="2" output_branding="Twitch" output_url="rtmp://live.twitch.tv/app" output_location="live_97937552_s8N1NXm1UMpa3tR6GFw5ytunPsvRE4" destination_location_id="jSi3x0SnKpxKRTt5TsE4lzmojF5cPalYx6+n1QB50190" twitch_channel_name="drush211" output_display_group_name="Twitch" output_display_name="live_97937552_s8N1NXm1UMpa3tR6GFw5ytunPsvRE4" output_presetname="Twitch: 720p60 x264 (3500 Kbps)" output_enabled="1" output_settings_complete="1" output_id="4fbb25b9-3b08-4a7b-9638-32b16d673e32" unique_id="4" output_guid="96955f0f-012f-401b-9ead-da166342c3e8">
+				<twitch/>
+			</output>
+			<output replay_quality="standard" replay_audio_enabled="0" replay_record_folder="C:\Users\thedr\Videos" replay_limit_record_duration="1" replaydialog_record_unit="1" replay_max_record_duration="60000" replay_shot_default_duration="30" replay_create_in_layer="1" replay_create_in_playlist="" replay_show_preview="1" replay_shot_template_asset_id="" replay_create_from_template="0" replay_activate_on_broadcast="0" replay_activate_on_record="0" replay_prompt_delete_shot="1" replay_keep_record_on_delete_shot="0" replay_program_replay_enabled="1" output_guid="4077bc7f-b6a0-4c8f-922f-9aedb70cf7f3" output_presetname="4077bc7f-b6a0-4c8f-922f-9aedb70cf7f3" output_type="6" output_enabled="1" unique_id="3"/>
+		</output_list>
+	</advanced_output>
+	<output_presets>
+		<preset output_presetname="Twitch: 720p60 x264 (3500 Kbps)" show_in_gui="1">
+			<movie format="Flash" output_system="">
+				<track mo_width="1280" mo_height="720" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="60" compressed="1" timescale="6000" target_bit_rate="3500" profile="1835100526" limit_bit_rate="0" key_frame_rate="120" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="--vbv-bufsize 2800" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="1" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100"/>
+			</movie>
+		</preset>
+		<preset output_presetname="4077bc7f-b6a0-4c8f-922f-9aedb70cf7f3" show_in_gui="0">
+			<movie format="Replay" output_system="replay">
+				<track mo_width="640" mo_height="480" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="30" compressed="1" timescale="3000" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100"/>
+			</movie>
+		</preset>
+	</output_presets>
+	<iso_outputs>
+		<xml_tag/>
+	</iso_outputs>
+	<multimonitor/>
+	<volume value="1"/>
+	<preview_volume value="0.88643"/>
+	<auto_live value="0"/>
+	<flip_flop value="0"/>
+	<output_annotations/>
+	<transition_duration/>
+	<visual_style/>
+	<single_output/>
+	<media_directories/>
+	<layer_names/>
+	<layer_scales layer_0="0.1" layer_1="0.75" layer_2="0.5" layer_3="0.1" layer_4="0.1"/>
+	<layer_visible/>
+	<sections/>
+	<aspectRatio type="1098216515" custom_width="1280" custom_height="720"/>
+	<shot_key_map/>
+	<shotsLiveWhenSaved>
+		<xml_tag vaLayerIndex="1" beLayerEnum="2" vaLayerEnum="1836282929" unique_id="17fe93df-e305-49a8-8b50-d81c7fd9d994_shot"/>
+		<xml_tag vaLayerIndex="2" beLayerEnum="3" vaLayerEnum="1836282930" unique_id="711414b3-c680-4a54-bcd0-d13405874cc7_shot"/>
+	</shotsLiveWhenSaved>
+	<source_sdk_settings>
+		<xml_tag SOURCE_SDK_ID_DOC="pc-capture~pc-capture-a3afb22c-8d44-4f9b-a043-865ff8e92c3f">
+			<settings unique_id="1" output_guid="3a6da6a5-cbc1-47a6-9da9-cdf223e46e4d">
+				<parameter name="captureVideo" value="true"/>
+				<parameter name="Type" value="1"/>
+				<parameter name="window" value="LiveSplit"/>
+				<parameter name="class" value="WindowsForms10.Window.8.app.0.141b42a_r6_ad1"/>
+				<parameter name="cursor" value="false"/>
+				<parameter name="antiCheatCompatibility" value="true"/>
+				<parameter name="autoCaptureFullScreenGame" value="true"/>
+				<parameter name="thirdPartyGameOverlay" value="false"/>
+				<parameter name="supportMultipleVideoCards" value="false"/>
+				<parameter name="process" value="LiveSplit.exe"/>
+				<parameter name="monitor" value="0"/>
+				<parameter name="fps" value="4"/>
+				<parameter name="audio" value="false"/>
+				<parameter name="audioDevice" value=""/>
+				<parameter name="regionSelect" value="true"/>
+				<parameter name="regionLeft" value="-1920"/>
+				<parameter name="regionRight" value="-1620"/>
+				<parameter name="regionTop" value="0"/>
+				<parameter name="regionBottom" value="300"/>
+			</settings>
+		</xml_tag>
+	</source_sdk_settings>
+	<social_media/>
+	<source_configurations>
+		<source unique_id="pc-capture~pc-capture-a3afb22c-8d44-4f9b-a043-865ff8e92c3f" factoryGUID="DBCA7191-2958-80F8-31D4-5F1379D8E53F" manuallyAddedSource="1" localizedDisplayName="Screen Capture 2" localizedGroupingName="Screen Capture" hasAudio="1" hasVideo="1" groupGUID="DBCA7191-2958-80F8-31D4-5F1379D8E53F" prettyname="LiveSplit">
+			<xml_tag sourceId="pc-capture-a3afb22c-8d44-4f9b-a043-865ff8e92c3f" isGameshow="1" isUstream="0" deviceId="pc-capture"/>
+		</source>
+	</source_configurations>
+	<document_thumbnail thumbnail="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"/>
+	<game_overlay_position/>
+	<screename/>
+	<assets>
+		<asset name="Clear Layer" unique_id="dbc1c8db-b469-48f4-93ee-aab9805fc5c0_shot" type="shot" media-type="9" vam_state="1" created_for_layer="5" blank_shot="1"/>
+		<asset name="Clear Layer" unique_id="2d979178-40dc-49dc-a87a-29d3844016c5_shot" type="shot" media-type="9" vam_state="1" created_for_layer="1" blank_shot="1" visible="1"/>
+		<asset name="Clear Layer" unique_id="711414b3-c680-4a54-bcd0-d13405874cc7_shot" type="shot" media-type="9" vam_state="7" created_for_layer="2" blank_shot="1" visible="1"/>
+		<asset name="Clear Layer" unique_id="0374ba41-42e0-4f7e-ac96-8c6400ff321a_shot" type="shot" media-type="9" vam_state="1" created_for_layer="3" blank_shot="1"/>
+		<asset name="Clear Layer" unique_id="f1cf7a9a-04a0-49d9-abc0-287b94d00bba_shot" type="shot" media-type="9" vam_state="1" created_for_layer="4" blank_shot="1"/>
+		<asset created_for_layer="1" unique_id="17fe93df-e305-49a8-8b50-d81c7fd9d994_shot" type="shot" media-type="9" vam_state="14" name="X-Men (1992)" veil_track_count="0" video_tracks="3" alpha_track_count="1" audio_tracks="3" still_image_tracks="0" visible="1"/>
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="pc-capture~pc-capture-a3afb22c-8d44-4f9b-a043-865ff8e92c3f" name="LiveSplit" video_tracks="1" audio_tracks="1" alpha_track_count="1" square_pixel_width="403" square_pixel_height="635" sourceGUID="DBCA7191-2958-80F8-31D4-5F1379D8E53F"/>
+		<asset type="capture" unique_id="Microphone (HD Webcam C270)::" name="Microphone (HD Webcam C270)" url="Microphone (HD Webcam C270)" excluded="0" format="audio" audio_tracks="1" media-type="3" isusb="0"/>
+		<asset type="capture" unique_id="USB Video Device::\\?\usb#vid_046d&amp;pid_0825&amp;mi_00#7&amp;9c1cc1a&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" name="USB Video Device" guid="\\?\usb#vid_046d&amp;pid_0825&amp;mi_00#7&amp;9c1cc1a&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" url="USB Video Device" excluded="0" format="video" video_tracks="1" media-type="2" square_pixel_width="640" square_pixel_height="360" isusb="1"/>
+		<asset type="capture" unique_id="AVerMedia U3 Video Capture::\\?\usb#vid_07ca&amp;pid_0710#201007500184#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{a12a43aa-fea3-49a4-9d56-2bdd989be299}" name="AVerMedia U3 Video Capture" guid="\\?\usb#vid_07ca&amp;pid_0710#201007500184#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{a12a43aa-fea3-49a4-9d56-2bdd989be299}" url="AVerMedia U3 Video Capture" excluded="0" format="video" video_tracks="1" audio_tracks="1" media-type="4" square_pixel_height="1080" square_pixel_width="1920" isusb="1"/>
+		<asset type="capture" unique_id="Microphone (Realtek High Definition Audio)::" name="Microphone (Realtek High Definition Audio)" url="Microphone (Realtek High Definition Audio)" excluded="0" format="audio" audio_tracks="1" media-type="3" isusb="0"/>
+	</assets>
+	<xml_tag/>
+	<shots>
+		<shot event_type="2" unique_id="dbc1c8db-b469-48f4-93ee-aab9805fc5c0_shot"/>
+		<shot event_type="2" unique_id="2d979178-40dc-49dc-a87a-29d3844016c5_shot"/>
+		<shot event_type="2" unique_id="711414b3-c680-4a54-bcd0-d13405874cc7_shot"/>
+		<shot event_type="2" unique_id="0374ba41-42e0-4f7e-ac96-8c6400ff321a_shot"/>
+		<shot event_type="2" unique_id="f1cf7a9a-04a0-49d9-abc0-287b94d00bba_shot"/>
+		<shot event_type="2" unique_id="17fe93df-e305-49a8-8b50-d81c7fd9d994_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" obj_pos="-2.81784,0.650639" ro_user_scale="0.25,0.83" obj_scale="0.220486,0.732014" ro_respect_aspect_ratio="0" unique_id="pc-capture~pc-capture-a3afb22c-8d44-4f9b-a043-865ff8e92c3f" volume="1.99431">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" zorder="15" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" obj_pos="-2.80926,-1.74745" obj_scale="0.22,0.27" ro_respect_aspect_ratio="0" ro_user_scale="0.44,0.54" unique_id="USB Video Device::\\?\usb#vid_046d&amp;pid_0825&amp;mi_00#7&amp;9c1cc1a&amp;0&amp;0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" zorder="20" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" obj_scale="0.81,1.005" ro_user_scale="0.54,0.67" obj_pos="0.912575,0.0077238" ro_respect_aspect_ratio="0" channel_select="2" volume="0.25" unique_id="AVerMedia U3 Video Capture::\\?\usb#vid_07ca&amp;pid_0710#201007500184#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{a12a43aa-fea3-49a4-9d56-2bdd989be299}">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+				</event>
+			</event>
+			<event event_type="4" zorder="25" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" obj_trans="0" volume="2" unique_id="Microphone (HD Webcam C270)::">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+				</event>
+			</event>
+		</shot>
+	</shots>
+</document>
