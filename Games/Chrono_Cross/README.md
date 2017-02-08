@@ -33,7 +33,7 @@ are really any memorable characters, but definitely some memorable moments.
 [3]: https://www.twitch.tv/directory/game/Chrono%20Cross
 [4]: https://www.twitch.tv/rpglimitbreak
 [5]: ./Guides/Any%25.md
-[6]: ./Splits/Chrono_Cross_Any%25_Good_Ending.lss
+[6]: ./Splits/Chrono_Cross.lss
 [7]: ./Layouts/Chrono_Cross.lsl
 [8]: https://www.twitch.tv/evilash25
 [9]: https://discordapp.com/invite/0XU29pWZvyu0YCVH
