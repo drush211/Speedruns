@@ -21,11 +21,18 @@ best, but it at least might be a starting point for you.
 ## Games
 
   * [Chrono Cross][4]
+  * [Dragon Warrior][7]
   * [Final Fantasy 9][1]
   * [X-Men Arcade][3]
+
+## Twitch
+
+  * [Basic Information][6]
 
 [1]: ./Games/Final_Fantasy_9/README.md
 [2]: http://livesplit.org/
 [3]: ./Games/X_Men_Arcade/README.md
 [4]: ./Games/Chrono_Cross/README.md
 [5]: ./LearningToSpeedRun.md
+[6]: ./Twitch/README.md
+[7]: ./Games/Dragon_Warrior/README.md

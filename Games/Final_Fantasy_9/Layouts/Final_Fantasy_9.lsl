@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-1</X>
+  <X>0</X>
   <Y>0</Y>
-  <VerticalWidth>640</VerticalWidth>
-  <VerticalHeight>1041</VerticalHeight>
+  <VerticalWidth>403</VerticalWidth>
+  <VerticalHeight>674</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
     <TextColor>FFFFFFFF</TextColor>
-    <BackgroundColor>00DF0404</BackgroundColor>
-    <BackgroundColor2>00000000</BackgroundColor2>
+    <BackgroundColor>0018AF87</BackgroundColor>
+    <BackgroundColor2>F4000000</BackgroundColor2>
     <ThinSeparatorsColor>09FFFFFF</ThinSeparatorsColor>
     <SeparatorsColor>26FFFFFF</SeparatorsColor>
     <PersonalBestColor>FF16A6FF</PersonalBestColor>
@@ -41,13 +41,13 @@
       <Path>LiveSplit.Title.dll</Path>
       <Settings>
         <Version>1.6</Version>
-        <ShowAttemptCount>True</ShowAttemptCount>
+        <ShowAttemptCount>False</ShowAttemptCount>
         <ShowFinishedRunsCount>False</ShowFinishedRunsCount>
         <OverrideTitleFont>False</OverrideTitleFont>
         <OverrideTitleColor>False</OverrideTitleColor>
         <TitleFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></TitleFont>
         <CenterTitle>False</CenterTitle>
-        <SingleLine>False</SingleLine>
+        <SingleLine>True</SingleLine>
         <TitleColor>FFFFFFFF</TitleColor>
         <BackgroundColor>FF2A2A2A</BackgroundColor>
         <BackgroundColor2>FF131313</BackgroundColor2>
@@ -108,7 +108,7 @@
             <Name>+/-</Name>
             <Type>Delta</Type>
             <Comparison>Current Comparison</Comparison>
-            <TimingMethod>Current Timing Method</TimingMethod>
+            <TimingMethod>Real Time</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
@@ -147,7 +147,7 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Current Comparison</Comparison>
+        <Comparison>Personal Best</Comparison>
         <Comparison2>Best Segments</Comparison2>
         <HideComparison>False</HideComparison>
         <TimingMethod>Current Timing Method</TimingMethod>
@@ -191,20 +191,65 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.PreviousSegment.dll</Path>
+      <Path>LiveSplit.SumOfBest.dll</Path>
       <Settings>
-        <Version>1.6</Version>
+        <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <DeltaAccuracy>Tenths</DeltaAccuracy>
-        <DropDecimals>True</DropDecimals>
-        <Comparison>Current Comparison</Comparison>
         <Display2Rows>False</Display2Rows>
-        <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
-        <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.Sound.dll</Path>
+      <Settings>
+        <Version>1.6</Version>
+        <Split>
+        </Split>
+        <SplitAheadGaining>
+        </SplitAheadGaining>
+        <SplitAheadLosing>
+        </SplitAheadLosing>
+        <SplitBehindGaining>
+        </SplitBehindGaining>
+        <SplitBehindLosing>
+        </SplitBehindLosing>
+        <BestSegment>C:\github\speedruns\StreamFiles\Audio\ITS OVER 9000!!!.mp3</BestSegment>
+        <UndoSplit>
+        </UndoSplit>
+        <SkipSplit>
+        </SkipSplit>
+        <PersonalBest>C:\github\speedruns\StreamFiles\Audio\ITS OVER 9000!!!.mp3</PersonalBest>
+        <NotAPersonalBest>C:\github\speedruns\StreamFiles\Audio\I aware you no points.mp3</NotAPersonalBest>
+        <Reset>
+        </Reset>
+        <Pause>
+        </Pause>
+        <Resume>
+        </Resume>
+        <StartTimer>
+        </StartTimer>
+        <OutputDevice>0</OutputDevice>
+        <SplitVolume>100</SplitVolume>
+        <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
+        <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
+        <SplitBehindGainingVolume>100</SplitBehindGainingVolume>
+        <SplitBehindLosingVolume>100</SplitBehindLosingVolume>
+        <BestSegmentVolume>100</BestSegmentVolume>
+        <UndoSplitVolume>100</UndoSplitVolume>
+        <SkipSplitVolume>100</SkipSplitVolume>
+        <PersonalBestVolume>100</PersonalBestVolume>
+        <NotAPersonalBestVolume>100</NotAPersonalBestVolume>
+        <ResetVolume>100</ResetVolume>
+        <PauseVolume>100</PauseVolume>
+        <ResumeVolume>100</ResumeVolume>
+        <StartTimerVolume>100</StartTimerVolume>
+        <GeneralVolume>100</GeneralVolume>
       </Settings>
     </Component>
     <Component>
@@ -223,36 +268,6 @@
         <FilterRegion>False</FilterRegion>
         <FilterPlatform>False</FilterPlatform>
         <FilterVariables>False</FilterVariables>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.SumOfBest.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Display2Rows>False</Display2Rows>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.TotalPlaytime.dll</Path>
-      <Settings>
-        <Version>1.6</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Display2Rows>False</Display2Rows>
-        <ShowTotalHours>False</ShowTotalHours>
       </Settings>
     </Component>
   </Components>
