@@ -111,6 +111,7 @@
 				</event>
 			</event>
 			<event event_type="4" zorder="10" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" volume="0.15" ro_user_scale="0.57,0.66" ro_respect_aspect_ratio="0" obj_scale="0.855,0.99" obj_pos="0.548175,0.0189429" unique_id="AVerMedia U3 Video Capture::\\?\usb#vid_07ca&amp;pid_0710#201007500184#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{a12a43aa-fea3-49a4-9d56-2bdd989be299}">
 					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
 					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
 				</event>
