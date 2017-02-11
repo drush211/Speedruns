@@ -4,7 +4,7 @@
   <X>0</X>
   <Y>0</Y>
   <VerticalWidth>403</VerticalWidth>
-  <VerticalHeight>635</VerticalHeight>
+  <VerticalHeight>674</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -224,7 +224,7 @@
         </UndoSplit>
         <SkipSplit>
         </SkipSplit>
-        <PersonalBest>C:\github\speedruns\StreamFiles\Audio\Queen - Princes of the Universe.mp3</PersonalBest>
+        <PersonalBest>C:\github\speedruns\StreamFiles\Audio\ITS OVER 9000!!!.mp3</PersonalBest>
         <NotAPersonalBest>C:\github\speedruns\StreamFiles\Audio\I aware you no points.mp3</NotAPersonalBest>
         <Reset>
         </Reset>
@@ -250,6 +250,24 @@
         <ResumeVolume>100</ResumeVolume>
         <StartTimerVolume>100</StartTimerVolume>
         <GeneralVolume>100</GeneralVolume>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.WorldRecord.dll</Path>
+      <Settings>
+        <Version>1.6</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Display2Rows>False</Display2Rows>
+        <CenteredText>True</CenteredText>
+        <FilterRegion>False</FilterRegion>
+        <FilterPlatform>False</FilterPlatform>
+        <FilterVariables>False</FilterVariables>
       </Settings>
     </Component>
   </Components>

@@ -207,7 +207,7 @@ forward instead of back which is faster as well.
   * Ult the tank-men on the right.
   * Ult the tank-men on the right, then take a laser to the back to die.
   * Ult the left side to take everything (EVERYTHING!!!) out, then jump to the
-    right and ult the tank-men as neeeded.
+    right and ult the tank-men as needed.
   * Move on to the sub-bosses and try to bundle them in ults as much as
     possible. The re-boss fights only allow 3 at a time, so take them out in a
     group if possible, but at least take out 1 go get to the next screen. To
