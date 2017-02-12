@@ -1,6 +1,6 @@
 # Chrono Cross
 
-Any % run on Vita currently. I based a lot of my notes off the guides found
+Any % run on PSN currently. I based a lot of my notes off the guides found
 [here][1] (Can't overstate the use of EvilAsh's notes and run from RPG Limit
 Break I filled in some new runner gaps, but this is basically just an extension
 of his notes.) and [here][3], as well as the speedrun from [RPG Limit Break][4].

@@ -2,7 +2,7 @@
 <Run version="1.6.0">
   <GameIcon />
   <GameName>X-Men (1992)</GameName>
-  <CategoryName>6P Japan Expert (PS3/360)</CategoryName>
+  <CategoryName>Console Any%(6P)</CategoryName>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>109</AttemptCount>
+  <AttemptCount>119</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="02/03/2017 01:12:56" isStartedSynced="True" ended="02/03/2017 01:33:46" isEndedSynced="True">
       <RealTime>00:20:49.9960000</RealTime>
@@ -150,6 +150,18 @@
     <Attempt id="100" started="02/11/2017 03:24:15" isStartedSynced="True" ended="02/11/2017 03:39:23" isEndedSynced="True">
       <RealTime>00:15:08.0950000</RealTime>
     </Attempt>
+    <Attempt id="101" started="02/12/2017 02:42:28" isStartedSynced="True" ended="02/12/2017 02:42:38" isEndedSynced="True" />
+    <Attempt id="102" started="02/12/2017 02:42:43" isStartedSynced="True" ended="02/12/2017 02:47:43" isEndedSynced="True" />
+    <Attempt id="103" started="02/12/2017 02:47:49" isStartedSynced="True" ended="02/12/2017 02:48:01" isEndedSynced="True" />
+    <Attempt id="104" started="02/12/2017 02:48:06" isStartedSynced="True" ended="02/12/2017 02:50:02" isEndedSynced="True" />
+    <Attempt id="105" started="02/12/2017 02:50:08" isStartedSynced="True" ended="02/12/2017 02:50:26" isEndedSynced="True" />
+    <Attempt id="106" started="02/12/2017 02:50:30" isStartedSynced="True" ended="02/12/2017 02:50:49" isEndedSynced="True" />
+    <Attempt id="107" started="02/12/2017 02:50:53" isStartedSynced="True" ended="02/12/2017 02:51:03" isEndedSynced="True" />
+    <Attempt id="108" started="02/12/2017 02:51:07" isStartedSynced="True" ended="02/12/2017 02:51:16" isEndedSynced="True" />
+    <Attempt id="109" started="02/12/2017 02:51:21" isStartedSynced="True" ended="02/12/2017 02:53:19" isEndedSynced="True" />
+    <Attempt id="110" started="02/12/2017 02:53:24" isStartedSynced="True" ended="02/12/2017 03:09:03" isEndedSynced="True">
+      <RealTime>00:15:38.7510000</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -161,7 +173,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:00:55.5870000</RealTime>
+        <RealTime>00:00:55.2910000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -266,6 +278,18 @@
         <Time id="100">
           <RealTime>00:00:56.7030000</RealTime>
         </Time>
+        <Time id="102">
+          <RealTime>00:00:58.5690000</RealTime>
+        </Time>
+        <Time id="104">
+          <RealTime>00:00:59.6900000</RealTime>
+        </Time>
+        <Time id="109">
+          <RealTime>00:00:56.5670000</RealTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:00:55.2910000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -277,7 +301,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:45.5120000</RealTime>
+        <RealTime>00:01:44.8930000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -339,6 +363,12 @@
         </Time>
         <Time id="100">
           <RealTime>00:01:46.2810000</RealTime>
+        </Time>
+        <Time id="102">
+          <RealTime>00:01:48.9990000</RealTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:01:44.8930000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -408,6 +438,9 @@
         <Time id="100">
           <RealTime>00:02:19.5180000</RealTime>
         </Time>
+        <Time id="110">
+          <RealTime>00:02:30.8890000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -475,6 +508,9 @@
         </Time>
         <Time id="100">
           <RealTime>00:02:15.5660000</RealTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:02:21.8520000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -544,6 +580,9 @@
         <Time id="100">
           <RealTime>00:02:40.8250000</RealTime>
         </Time>
+        <Time id="110">
+          <RealTime>00:02:48.2280000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -612,6 +651,9 @@
         </Time>
         <Time id="100">
           <RealTime>00:01:37.1090000</RealTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:01:39.9020000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -684,6 +726,9 @@
         <Time id="100">
           <RealTime>00:02:02.3910000</RealTime>
         </Time>
+        <Time id="110">
+          <RealTime>00:02:05.3970000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -727,6 +772,9 @@
         </Time>
         <Time id="100">
           <RealTime>00:01:29.7020000</RealTime>
+        </Time>
+        <Time id="110">
+          <RealTime>00:01:32.2990000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

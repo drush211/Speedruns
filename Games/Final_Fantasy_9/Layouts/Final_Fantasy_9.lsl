@@ -225,7 +225,7 @@
         <SkipSplit>
         </SkipSplit>
         <PersonalBest>C:\github\speedruns\StreamFiles\Audio\ITS OVER 9000!!!.mp3</PersonalBest>
-        <NotAPersonalBest>C:\github\speedruns\StreamFiles\Audio\I aware you no points.mp3</NotAPersonalBest>
+        <NotAPersonalBest></NotAPersonalBest>
         <Reset>
         </Reset>
         <Pause>

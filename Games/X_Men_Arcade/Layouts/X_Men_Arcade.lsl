@@ -2,7 +2,7 @@
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
   <X>0</X>
-  <Y>0</Y>
+  <Y>-1</Y>
   <VerticalWidth>403</VerticalWidth>
   <VerticalHeight>674</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -225,7 +225,8 @@
         <SkipSplit>
         </SkipSplit>
         <PersonalBest>C:\github\speedruns\StreamFiles\Audio\ITS OVER 9000!!!.mp3</PersonalBest>
-        <NotAPersonalBest>C:\github\speedruns\StreamFiles\Audio\I aware you no points.mp3</NotAPersonalBest>
+        <NotAPersonalBest>
+        </NotAPersonalBest>
         <Reset>
         </Reset>
         <Pause>
