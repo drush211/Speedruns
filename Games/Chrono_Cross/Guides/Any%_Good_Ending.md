@@ -53,7 +53,7 @@ You can find general knowledge that will be useful with any route you take
   * Get Magma Bomb after Leena and Poshul join.
   * Menu
     * Leena (Elements) - Magma Bomb Lvl 3
-    * Poshul (Equip) - Ivory Vest
+    * Poshul (Equip) - Ivory Vest if backup for humour taken.
   * Backup Humour - Cape Howl Beach Bum fight. Leena 1/1/1/Magma Bomb.
   * Fossil Valley
   * Switch to Leena in front.
