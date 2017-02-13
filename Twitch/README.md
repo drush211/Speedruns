@@ -6,13 +6,12 @@ I have, with more in depth information in the specific files.
 
 ## Streaming Software
 
-I personally use software called [GameShow][1]. It currently costs $30 for the
-full version, but you can have a free version which adds an icon to your stream
-as well. It has a fairly easy and straight forward setup that I found useful in
-getting my stream setup. Several streamers use OBS or XSplit, and I've heard
-good things about OBS specifically, but haven't ever used it. Twitch has some
-good info about those 2 pieces of software, so I'd take a look there for setup
-on those platforms, or any new ones that have come about.
+I personally use software called [OBS Studio][1]. It is free to download and is
+fairly easy and straight forward to set up. I initially used GameShow, but found
+it to bulky to handle what I wanted to do. Several streamers use XSplit, and
+Twitch has some good info about it as well as other pieces of software, so I'd
+take a look there for setup on those platforms, or any new ones that have come
+about.
 
 ## Audio/Video Setup
 
@@ -28,9 +27,9 @@ speed running.
 ## General Setup
 
 So I have a dual PC Monitor and laptop setup that I use for my streaming. Setup
-is Laptop -> Monitor -> Monitor, where my Laptop has GameShow on it, middle
-monitor has LiveSplit and my twitch dashboard (twitch.tv/{user}/dashboard), and
-the last monitor is what I play my games on.
+is Laptop -> Monitor -> Monitor, where my Laptop has OBS on it, middle monitor
+has LiveSplit and my twitch dashboard (twitch.tv/{user}/dashboard), and the last
+monitor is what I play my games on.
 
 ## During a Stream
 
