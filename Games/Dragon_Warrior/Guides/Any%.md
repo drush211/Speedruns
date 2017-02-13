@@ -94,10 +94,33 @@ NOTE: Time starts after name is selected, and enter hit.
   * **Golem**
     * Use the Pixie Flute to keep him asleep and stay healed.
 
-## (Split 6)
+## Double Double Dragon (Split 6)
 
   * Use all herbs to clear up inventory, and then go drop off all items except
     the sword/shield/armor and 2 keys.
-  *
+  * Go to the inn and pick up the Defense seed from the drawers then use it.
+    Stay at the inn, then go across and buy a full set of keys.
+  * Go down from the key seller, and open the drawers for a mystic nut, then use
+    it.
+  * Go to the item shop and buy a warp wing.
+  * Go to the bottom shop and buy repellent. Use 1, then fill your inventory
+    with the rest. Use the warp wing.
+  * Head to the swamp cave (using repellent where necessary), and cast radiant.
+    Then go and fight the dragon.
+  * **Dragon**
+    * Do 2 attacks, then alternate between heal/attack unless the dragon misses
+      or your health becomes too low.
+  * Cast outside, then die to the swamp and repeat the last steps to fight the
+    dragon again. Once you are level 13 you can cast return to speedy leave the
+    castle. Should be level 14 by the last dragon.
+
+## (Split 7)
+
+  * Take the princess, and return to the castle.
+  * Head to the keys shop and max out your keys. Then go talk to the guy past
+    the deadly steps and die on them (Princess in tow). 
+  * Head to the nearby town and max out on repellents (top right item shop
+   (needs key)).
+
 
 [1]: https://www.youtube.com/watch?v=umtL8f2YkY0

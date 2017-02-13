@@ -2,9 +2,9 @@
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
   <X>0</X>
-  <Y>-1</Y>
-  <VerticalWidth>403</VerticalWidth>
-  <VerticalHeight>674</VerticalHeight>
+  <Y>0</Y>
+  <VerticalWidth>405</VerticalWidth>
+  <VerticalHeight>697</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -174,20 +174,19 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.PossibleTimeSave.dll</Path>
+      <Path>LiveSplit.RunPrediction.dll</Path>
       <Settings>
-        <Version>1.5</Version>
+        <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Hundredths</Accuracy>
+        <Accuracy>Seconds</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Current Comparison</Comparison>
+        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
-        <TotalTimeSave>False</TotalTimeSave>
       </Settings>
     </Component>
     <Component>

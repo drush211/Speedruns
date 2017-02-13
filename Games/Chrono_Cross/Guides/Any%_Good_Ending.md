@@ -202,10 +202,13 @@ You can find general knowledge that will be useful with any route you take
     * Serge (Equip) - Ivory Mail/Remove Ivory Helmet
     * Glenn (Equip) - Steel Sword
     * Leena (Equip) - Ladle Fe26/Bronze Mail/Magic Ring/Ivory Helmet
-    * Serge (Elements) - HealAll Lvl 2 (2), Lvl 1 - TurnBlue/WeakMinded/AquaBall
-    * Glenn (Elements) - Lvl 2 - Revive/HealAll/Medicine, Lvl 4 - CureAll,
-                         Lvl 1 - Strengthen/TurnBlue/AquaBall
-    * Leena (Elements) - Lvl 1 - EagleEye/TurnRed/AquaBall, Lvl 4 - Iceblast
+    * Serge (Elements) - Lvl 1 - TurnBlue/WeakMinded/AquaBall,
+                         Lvl 2 - HealAll/HealAll
+    * Glenn (Elements) - Lvl 1 - Strengthen/TurnBlue/AquaBall,
+                         Lvl 2 - Revive/HealAll/Medicine,
+                         Lvl 4 - Cureplus
+    * Leena (Elements) - Lvl 1 - EagleEye/TurnRed/AquaBall,
+                         Lvl 4 - Iceblast
   * Head towards Fort Dragoon and enter the fog.
   * Run away from first fight.
   * [**Polly (567/18)**][13]
@@ -279,10 +282,14 @@ You can find general knowledge that will be useful with any route you take
     * Serge (Equip) - Remove All
     * Glenn (Equip) - Dragoon's Guantlet
     * Leena (Equip) - Dragoon's Honor
-    * Glenn (Elements) - Lvl 1 Remove Strengthen, Lvl 4 Add panacea and Magnify,
-                         5 some placeholder element to allow 5 levels.
-    * Serge (Elements) - Lvl 1 Add Strengthen, Lvl 4 Add BushBasher
-    * Leena (Elements) - Lvl 3 BushBasher, Lvl 4 Photonbeam, Lvl 5 Placeholder
+    * Glenn (Elements) - Lvl 1 Remove Strengthen,
+                         Lvl 4 Panacea/Magnify,
+                         Lvl 5 Placeholder
+    * Serge (Elements) - Lvl 1 Add Strengthen,
+                         Lvl 4 Add BushBasher
+    * Leena (Elements) - Lvl 3 BushBasher,
+                         Lvl 4 Photonbeam,
+                         Lvl 5 Placeholder
   * [**Solt/Pepper (525/6 507/8)**][16]
     * Serge - 1/Strengthen
     * Leena - 1/EagleEye
@@ -337,7 +344,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 2/2/3
     * Glenn - Defend
     * Serge - Defend
-    * Leena - 1/1//1/IceBlast
+    * Leena - 1/1/1/1/IceBlast
     * Glenn - 3/3
 
 ## Knight Rider (Split 15)
