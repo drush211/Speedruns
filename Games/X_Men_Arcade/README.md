@@ -5,6 +5,7 @@ scrolling beat-em up.
 
 ## Runners to Watch
 
+  * [My PB][6]
   * [SnakeSoldier1980][4]
   * [Theworldissquare][5]
 
@@ -25,3 +26,4 @@ scrolling beat-em up.
 [3]: ./Layouts/X_Men_Arcade.lsl
 [4]: https://www.twitch.tv/snakesoldier1980
 [5]: https://www.twitch.tv/theworldissquare
+[6]: https://www.youtube.com/watch?v=4Uq0G9qxxww

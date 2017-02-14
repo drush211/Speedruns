@@ -20,14 +20,33 @@ best, but it at least might be a starting point for you.
 
 ## Games
 
-  * [Chrono Cross][4]
-  * [Dragon Warrior][7]
-  * [Final Fantasy 9][1]
-  * [X-Men Arcade][3]
+### Chrono Cross
+
+  * [Information][4]
+  * PB - None
+
+### Dragon Warrior
+
+  * [Information][7]
+  * Game Routed, no runs.
+
+### Final Fantasy 9
+
+  * [Information][1]
+  * Disc 1 Routed, no runs.
+
+### X-Men Arcade
+
+  * [Information][3]
+  * [PB][8]
 
 ## Twitch
 
   * [Basic Information][6]
+
+## Youtube
+
+  * [Basic Information][9]
 
 [1]: ./Games/Final_Fantasy_9/README.md
 [2]: http://livesplit.org/
@@ -36,3 +55,5 @@ best, but it at least might be a starting point for you.
 [5]: ./LearningToSpeedRun.md
 [6]: ./Twitch/README.md
 [7]: ./Games/Dragon_Warrior/README.md
+[8]: https://www.youtube.com/watch?v=4Uq0G9qxxww
+[9]: ./Youtube/README.md
