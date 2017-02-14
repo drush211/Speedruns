@@ -1,9 +1,0 @@
-{
-    "settings": {
-        "key": "live_97937552_s8N1NXm1UMpa3tR6GFw5ytunPsvRE4",
-        "server": "rtmp://live-dfw.twitch.tv/app",
-        "service": "Twitch",
-        "show_all": false
-    },
-    "type": "rtmp_common"
-}
