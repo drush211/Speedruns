@@ -3,4 +3,7 @@
 
 # Media Files
 StreamFiles/*
-Streams/*
+Recordings/*
+
+# Profile with twitch api key information
+/OBS/Standard_Profile/service.json

@@ -21,3 +21,10 @@ feeling of dead space. Overall I barely reduced my quality via size (if it
 really impacted anyone at all), and improved my quality via content. Less frame
 drops and a background that gives a feel for the game instead of just the game
 itself brings the viewer more into the setting.
+
+## Stream Key
+
+In order to stream to twitch you should go to Settings->Stream and input the
+server closest to you (note that this might not always be the fastest, so play
+around with it as necessary) and go to
+`https://www.twitch.tv/{user}/dashboard/streamkey` to get your key to input.
