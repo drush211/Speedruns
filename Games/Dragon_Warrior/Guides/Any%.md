@@ -94,7 +94,7 @@ NOTE: Time starts after name is selected, and enter hit.
   * **Golem**
     * Use the Pixie Flute to keep him asleep and stay healed.
 
-## Double Double Dragon (Split 6)
+## Dragon Grind (Split 6)
 
   * Use all herbs to clear up inventory, and then go drop off all items except
     the sword/shield/armor and 2 keys.
@@ -113,14 +113,41 @@ NOTE: Time starts after name is selected, and enter hit.
   * Cast outside, then die to the swamp and repeat the last steps to fight the
     dragon again. Once you are level 13 you can cast return to speedy leave the
     castle. Should be level 14 by the last dragon.
-
-## (Split 7)
-
-  * Take the princess, and return to the castle.
   * Head to the keys shop and max out your keys. Then go talk to the guy past
     the deadly steps and die on them (Princess in tow). 
   * Head to the nearby town and max out on repellents (top right item shop
-   (needs key)).
+    (needs key)).
+  * Cast Return to land outside the castle.
+  * Go fight the Dragon again, and repeat this until level 16.
 
+## The Loto Armor (Split 7)
+
+  * Go to the Northern Cave and pickup the Sun Stone.
+  * Go to Rimuldar and fight the MadKnight guarding the armor.
+  * **MadKnight**
+    * Just keep attacking and praying no sleep or death.
+
+## Lvl 18 (Split 8)
+
+  * Go to the swamp under Caitlin and grab the Loto Seal.
+  * Get to Lvl 17 and then die to return to the castle (slightly faster then
+    going to the inn for MP).
+  * Go to the Southern Cave with the RainStaff and the Sun Stone to create the
+    Rainbow Droplet to cross the bridge.
+  * Go back to Rimuldar to max out with herbs.
+  * Go to the DragonLord's castle.
+  * Go get the Loto Sword. ![DragonLord Castle Map][2]
+  * Fight enemies until you reach Lvl 18 making your way down to the DragonLord
+    floor. Pick up the bottom right and middle left chest and use the items.
+
+## DragonLord (Split 9)
+
+  * Once Lvl 18, return to the city to max out on herbs and a couple torches.
+  * Head back to the DragonLord's castle and head to fight him.
+  * **DragonLord**
+    * ???
+  * **DragonLord Dragon Form**
+    * ???
 
 [1]: https://www.youtube.com/watch?v=umtL8f2YkY0
+[2]: ./DragonLord_Castle.gif
