@@ -26,7 +26,7 @@ You can find general knowledge that will be useful with any route you take
   * Top Path Komodo - 2/2/Fireball
   * Jump Komodo - 2/2/Fireball
     * Can accept beach bum blocking path to cliff for extra humour try.
-  * Ivory vest bottom left if in need of a backup humour.
+  * Pickup Silver Loupe in bottom left.
   * Race Komodo - 2/2/Weak Fireball
   * [**Momma Komodo (76)**][5]
     * 2/2/2/Fireball (49 or above HP fireball for single pass). 2/2 your way to
@@ -53,6 +53,7 @@ You can find general knowledge that will be useful with any route you take
   * Get Magma Bomb after Leena and Poshul join.
   * Menu
     * Leena (Elements) - Magma Bomb Lvl 3
+    * Serge (Equip) - Silver Loupe
     * Poshul (Equip) - Ivory Vest if backup for humour taken.
   * Backup Humour - Cape Howl Beach Bum fight. Leena 1/1/1/Magma Bomb.
   * Fossil Valley
@@ -128,7 +129,7 @@ You can find general knowledge that will be useful with any route you take
   * Go to Karsh's Room (2nd door up the stairs) and try to take chest 20 times
     for Dragoon's Gauntlet.
   * Menu
-    * Serge (Equip) - Dragoon's Gauntlet
+    * Serge (Equip) - Dragoon's Gauntlet (Remove Silver Loupe)
   * Go enter code obtained from earlier and enter main hall.
   * Head left to Balthasar's tower, and go talk to Marcy.
   * [**Marcy (498/7)**][11]
@@ -188,6 +189,7 @@ You can find general knowledge that will be useful with any route you take
     * Sell - Bone Axe/Iron Dagger/Bronze Sword
     * Forge - Ladle Fe26/Steel Sword
   * Rename Glenn to G, and replace Pierre with Glenn
+  * Swap out Poshul for Leena
   * Head to Marbule
   * Shop (straight ahead)
     * 2 TurnBlue
@@ -197,13 +199,12 @@ You can find general knowledge that will be useful with any route you take
     * 1 Strengthen
     * 1 EagleEye
     * 1 WeakMinded
-  * Swap out Poshul for Leena
   * Menu
     * Serge (Equip) - Ivory Mail/Remove Ivory Helmet
     * Glenn (Equip) - Steel Sword
     * Leena (Equip) - Ladle Fe26/Bronze Mail/Magic Ring/Ivory Helmet
     * Serge (Elements) - Lvl 1 - TurnBlue/WeakMinded/AquaBall,
-                         Lvl 2 - HealAll/HealAll
+                         Lvl 2 - HealAll
     * Glenn (Elements) - Lvl 1 - Strengthen/TurnBlue/AquaBall,
                          Lvl 2 - Revive/HealAll/Medicine,
                          Lvl 4 - Cureplus
