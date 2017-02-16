@@ -185,8 +185,8 @@ You can find general knowledge that will be useful with any route you take
     * 3 Aquaball (4 if no IceBlast)
     * 2 Bushbasher
   * Smith
-    * Disassemble - Silver Earring/Knee Pad/Silver Pendant
     * Sell - Bone Axe/Iron Dagger/Bronze Sword
+    * Disassemble - Silver Earring/Knee Pad/Silver Pendant
     * Forge - Ladle Fe26/Steel Sword
   * Rename Glenn to G, and replace Pierre with Glenn
   * Swap out Poshul for Leena
@@ -239,8 +239,9 @@ You can find general knowledge that will be useful with any route you take
   * Ghost dance!! Talk to the guy at the door, and spin around the ghost while
     the text displays. When he lets you past, then talk to the guy past the
     door.
-  * Go back through the vent and grab the chest. You will fight the ghosts here
-    as well.
+  * This guy could have the key, so ask him twice.
+  * Go back through the vent and grab the chest (Panacea). You will fight the
+    ghosts here as well. If it's 4 ghosts run away.
     * Serge - 2/2/3
     * Glenn - 2/2/3
     * Serge - X-Strike
@@ -264,8 +265,8 @@ You can find general knowledge that will be useful with any route you take
   * Dodge Everything!
   * At the top of the last stairs, pick up PhotonBeam.
   * [**DeadHead (735/6)**][15]
-    * Glenn - 1/Strengthen
-    * Leena - 1/EagleEye
+    * Glenn - 1/Strengthen on Serge
+    * Leena - 1/EagleEye on Serge
     * Serge - 3/3
     * Glenn - 3/2
     * Serge - 3/3
@@ -292,8 +293,8 @@ You can find general knowledge that will be useful with any route you take
                          Lvl 4 Photonbeam,
                          Lvl 5 Placeholder
   * [**Solt/Pepper (525/6 507/8)**][16]
-    * Serge - 1/Strengthen
-    * Leena - 1/EagleEye
+    * Serge - 1/Strengthen on Glenn
+    * Leena - 1/EagleEye on Glenn
     * Glenn - 3/3
     * Leena - 1/1/1/1/BushBasher Peppor
     * Glenn - 3/3 Solt Dead
@@ -310,7 +311,7 @@ You can find general knowledge that will be useful with any route you take
   * Good Safety Save Point. If you run you just go back into the fight.
   * [**Fire Dragon (892/6)**][17]
     * **Optimal Fight Assuming Leena Doesn't Die**
-    * Leena - 1/Eagle Eye
+    * Leena - 1/Eagle Eye on Glenn
     * Glenn - 3
     * Serge - 1/1/2/TurnBlue Glenn (Skip 1/2 if bad start)
     * Glenn - 3/3 (Pray Leena doesn't die)
@@ -367,7 +368,8 @@ You can find general knowledge that will be useful with any route you take
     * Glenn (Equip) - Iron Vest
     * Serge (Equip) - Golden Earring
   * Go to the left, and follow maze into room where your party stands on the
-    glowing yellow pads and shifts the room.
+    glowing yellow pads and shifts the room. Serge should be at the front of the
+    party.
   * Step outside to the blue shifter pad. Hit select until order is Leena,
     Glenn, Serge (Tail/Body/Head)
   * Step on blue switch.
@@ -412,7 +414,7 @@ You can find general knowledge that will be useful with any route you take
 
 ## Gun of a Sun (Split 18)
 
-  * Run back out,  hit the switch, take the stairs and go back to the main room
+  * Run back out, hit the switch, take the stairs and go back to the main room
     farthest room on the right.
   * Turn the statue to the South, and go hit the altar. Use the run past trick.
   * Head out, and climb up the wall heading back towards the now available
