@@ -26,7 +26,7 @@ You can find general knowledge that will be useful with any route you take
   * Top Path Komodo - 2/2/Fireball
   * Jump Komodo - 2/2/Fireball
     * Can accept beach bum blocking path to cliff for extra humour try.
-  * Pickup Silver Loupe in bottom left.
+  * Don't pickup the [Silver Loupe][19] in bottom left.
   * Race Komodo - 2/2/Weak Fireball
   * [**Momma Komodo (76)**][5]
     * 2/2/2/Fireball (49 or above HP fireball for single pass). 2/2 your way to
@@ -1319,3 +1319,4 @@ You can find general knowledge that will be useful with any route you take
 [16]: ./Star_Fights/Star_12_Solt_and_Peppor.md
 [17]: ./Star_Fights/Star_13_Fire_Dragon.md
 [18]: ./Star_Fights/Star_14_Karsh_Marcy_Zoah.md
+[19]: ./Tested_Optimizations/Silver_Loupe.md

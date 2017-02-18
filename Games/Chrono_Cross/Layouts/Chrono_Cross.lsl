@@ -240,7 +240,7 @@
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
         <SplitBehindGainingVolume>100</SplitBehindGainingVolume>
         <SplitBehindLosingVolume>100</SplitBehindLosingVolume>
-        <BestSegmentVolume>25</BestSegmentVolume>
+        <BestSegmentVolume>100</BestSegmentVolume>
         <UndoSplitVolume>100</UndoSplitVolume>
         <SkipSplitVolume>100</SkipSplitVolume>
         <PersonalBestVolume>100</PersonalBestVolume>

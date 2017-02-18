@@ -5,5 +5,8 @@
 StreamFiles/*
 Recordings/*
 
+# Emulators
+Emulators/*
+
 # Profile with twitch api key information
 /OBS/Standard_Profile/service.json
