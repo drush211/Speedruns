@@ -40,9 +40,13 @@ touch more assuming you have a little trouble with the rock. Add in the menu
 time for managing the equips and moving it around, say 5 seconds for a rough
 count, and you need to regain 20+ seconds from the extra hit% just to break
 even. Also note you need to do this in about the first 2 1/2 hours of the game,
+since after that it becomes basically useless. Also, this 20+ seconds has to be
 gained back by a single character who has the Loupe saving time in fights. Even
+if you save 1 attack per fight due to the Loupe, you aren't getting the 20+
 seconds back. You would have to somehow save a round of an enemy attack(s) in
 order to make that time back, which is a stretch. You are asking your secondary
 attacker, or mage if you want to go the way of ensuring they get their element
 grid built up to save you at least 1 round of a fight from the item. While
+possible, this seems highly unlikely. Due to this, I've chosen to skip the Loupe
+because of its high collection time. If it was only 5 seconds I think there
 would be an argument, but at around 20, it's just too much time.
