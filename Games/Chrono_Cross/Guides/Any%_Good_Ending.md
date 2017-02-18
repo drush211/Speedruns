@@ -53,7 +53,6 @@ You can find general knowledge that will be useful with any route you take
   * Get Magma Bomb after Leena and Poshul join.
   * Menu
     * Leena (Elements) - Magma Bomb Lvl 3
-    * Serge (Equip) - Silver Loupe
     * Poshul (Equip) - Ivory Vest if backup for humour taken.
   * Backup Humour - Cape Howl Beach Bum fight. Leena 1/1/1/Magma Bomb.
   * Fossil Valley
@@ -129,7 +128,7 @@ You can find general knowledge that will be useful with any route you take
   * Go to Karsh's Room (2nd door up the stairs) and try to take chest 20 times
     for Dragoon's Gauntlet.
   * Menu
-    * Serge (Equip) - Dragoon's Gauntlet (Remove Silver Loupe)
+    * Serge (Equip) - Dragoon's Gauntlet
   * Go enter code obtained from earlier and enter main hall.
   * Head left to Balthasar's tower, and go talk to Marcy.
   * [**Marcy (498/7)**][11]
