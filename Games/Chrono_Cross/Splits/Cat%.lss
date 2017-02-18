@@ -2,7 +2,7 @@
 <Run version="1.6.0">
   <GameIcon />
   <GameName>Chrono Cross</GameName>
-  <CategoryName>English</CategoryName>
+  <CategoryName>Cat %</CategoryName>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -614,51 +614,6 @@
           <RealTime>00:03:04.0820000</RealTime>
         </Time>
       </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Radius</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Dear lord this split lasts for ever...</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Garai</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Highwayman</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Best Music of the Game</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
     </Segment>
   </Segments>
   <AutoSplitterSettings />
