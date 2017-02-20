@@ -34,10 +34,15 @@ You can find general knowledge that will be useful with any route you take
 
 ## Kid (Split 2)
 
+  * Choose 2nd option on 2nd Choice box when talking to Leena to save a little
+    bit of text.
   * Feather backup - Go to island in middle or race circle.
   * Take path on upper and to the left side to jump back to entrance.
   * Talk to Leena
-  * Cape Howl
+  * Head to Cape Howl.
+  * Fight 2 beach bum fights to pick up 2 humours (fight both fights regardless
+    of if you already have humours) to get [stat boosts][20]. These boosts are
+    duplicated in the next fight, so now is a good time to reset if bad stats.
   * [**Karsh/Solt/Peppor (120/9 54/9 63/9)**][6]
     * Defend until all text is finished since damage before text is nullified.
       Text moves when Solt hits Serge.
@@ -1319,3 +1324,4 @@ You can find general knowledge that will be useful with any route you take
 [17]: ./Star_Fights/Star_13_Fire_Dragon.md
 [18]: ./Star_Fights/Star_14_Karsh_Marcy_Zoah.md
 [19]: ./Tested_Optimizations/Silver_Loupe.md
+[20]: ./Tested_Optimizations/Level_2_Stat_Boosts.md
