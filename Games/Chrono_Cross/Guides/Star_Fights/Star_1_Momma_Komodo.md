@@ -2,9 +2,16 @@
 
 ## Optimizations
 
+### Fight
+
 This fight doesn't have anything tricky to it, and doesn't seem to have any more
 optimizations that can be made. If you could somehow manipulate RNG I guess you
 could 3/3/Fireball here, but that's about it from what I can tell.
+
+### Split
+
+So I looked into the Silver Loupe, and the math just doesn't work out for
+picking it up. Costs a little too much that needs to be recovered in 21 fights.
 
 ## Strategy Concept
 

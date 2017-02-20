@@ -40,9 +40,11 @@ You can find general knowledge that will be useful with any route you take
   * Take path on upper and to the left side to jump back to entrance.
   * Talk to Leena
   * Head to Cape Howl.
-  * Fight 2 beach bum fights to pick up 2 humours (fight both fights regardless
-    of if you already have humours) to get [stat boosts][20]. These boosts are
-    duplicated in the next fight, so now is a good time to reset if bad stats.
+  * **Option for Full Play through, and probably useful in a marathon**
+      * Fight 2 beach bum fights to pick up 2 humours (fight both fights
+        regardless of if you already have humours) to get [stat boosts][20].
+        These boosts are duplicated in the next fight, so now is a good time to
+        reset if bad stats.
   * [**Karsh/Solt/Peppor (120/9 54/9 63/9)**][6]
     * Defend until all text is finished since damage before text is nullified.
       Text moves when Solt hits Serge.
@@ -356,7 +358,7 @@ You can find general knowledge that will be useful with any route you take
 ## Knight Rider (Split 15)
 
   * Keep going into Fort Dragonia and you will run into the next boss.
-  * **Dragoon (735/9)**
+  * [**Dragoon (735/9)**][21]
     * Gleen - 2/2/Magnify
     * Leena - 1/2/2 (Get to Lvl 5)
     * Serge - 1/Aquaball-2 (Do 2/2/Aqauball-2 if good stamina)
@@ -1325,3 +1327,4 @@ You can find general knowledge that will be useful with any route you take
 [18]: ./Star_Fights/Star_14_Karsh_Marcy_Zoah.md
 [19]: ./Tested_Optimizations/Silver_Loupe.md
 [20]: ./Tested_Optimizations/Level_2_Stat_Boosts.md
+[21]: ./Star_Fights/Star_15_Dragoon.md

@@ -2,7 +2,17 @@
 
 ## Optimizations
 
+### Fight
+
 TODO
+
+### Split
+
+One thing to look into is the mini stat up after 2 fights in this split. If you
+get a strength up here, then it is probably worth the extra fight that occurs,
+but it is a risk. Also it's probably worth it in a full play through, and not
+something like cat% or a race. Actually probably is worth it in a marathon for
+a chance at an extra strength up for not that much time loss.
 
 ## Strategy Concept
 
