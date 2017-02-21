@@ -20,13 +20,12 @@ You can find general knowledge that will be useful with any route you take
     * 2 Fireballs
   * Menu
     * Serge (Elements) - Fireball lvl 1, Fill Blanks
-    * Options - Accuracy Selection: Manual, O Button Pressed =: Walk
+    * Options - Accuracy Selection: Manual, O Button Pressed: Walk
   * Ideally specific drops of feather/2 humours/fang. Backup strats later if you
     don't get them.
   * Top Path Komodo - 2/2/Fireball
   * Jump Komodo - 2/2/Fireball
-    * Can accept beach bum blocking path to cliff for extra humour try.
-  * Don't pickup the [Silver Loupe][19] in bottom left.
+  * Can accept beach bum blocking path to cliff for extra humour try.
   * Race Komodo - 2/2/Weak Fireball
   * [**Momma Komodo (76)**][5]
     * 2/2/2/Fireball (49 or above HP fireball for single pass). 2/2 your way to
@@ -41,10 +40,10 @@ You can find general knowledge that will be useful with any route you take
   * Talk to Leena
   * Head to Cape Howl.
   * **Option for Full Play through, and probably useful in a marathon**
-      * Fight 2 beach bum fights to pick up 2 humours (fight both fights
-        regardless of if you already have humours) to get [stat boosts][20].
-        These boosts are duplicated in the next fight, so now is a good time to
-        reset if bad stats.
+    * Fight 2 beach bum fights to pick up 2 humours (fight both fights
+      regardless of if you already have humours) to get [stat boosts][20].
+      These boosts are duplicated in the next fight, so now is a good time to
+      reset if bad stats.
   * [**Karsh/Solt/Peppor (120/9 54/9 63/9)**][6]
     * Defend until all text is finished since damage before text is nullified.
       Text moves when Solt hits Serge.
