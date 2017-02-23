@@ -27,7 +27,7 @@ You can find general knowledge that will be useful with any route you take
   * Jump Komodo - 2/2/Fireball
   * Can accept beach bum blocking path to cliff for extra humour try.
   * Race Komodo - 2/2/Weak Fireball
-  * [**Momma Komodo (76)**][5]
+  * [**Momma Komodo (76)**][5] 
     * 2/2/2/Fireball (49 or above HP fireball for single pass). 2/2 your way to
       victory if any issues.
 
@@ -51,6 +51,8 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 1/1/2/2 Solt Fireball (Normal) Peppor
     * Kid - 1/2/3 Fireball
     * Serge - 1/2/2 Fireball
+    * _Ivory Helmet/Ivory Vest/Bone Axe_ (Common)
+    * _Copper/Copper/Power Glove_ (Rare)
   * Rename Kid to K
 
 ## Little Bit of Solt and Peppor (Split 3)
@@ -59,7 +61,8 @@ You can find general knowledge that will be useful with any route you take
   * Get Magma Bomb after Leena and Poshul join.
   * Menu
     * Leena (Elements) - Magma Bomb Lvl 3
-    * Poshul (Equip) - Ivory Vest if backup for humour taken.
+    * Poshul (Equip) - Ivory Vest if need a backup humour.
+    * Serge (Equip) - Power Glove if you got it.
   * Backup Humour - Cape Howl Beach Bum fight. Leena 1/1/1/Magma Bomb.
   * Fossil Valley
   * Switch to Leena in front.
@@ -70,6 +73,8 @@ You can find general knowledge that will be useful with any route you take
     * Leena - Magma bomb if not above/1
     * Poshul - 1/2/3 to finish Solt
     * Serge - 1/2/2/Fireball+2 Peppor
+    * _Copper/Uplift_ (Common)
+    * _ElectroJolt/Copper_ (Rare)
 
 ## Gate Crashers (Split 4)
 
@@ -90,6 +95,8 @@ You can find general knowledge that will be useful with any route you take
     * Kid - 2/2/3
     * Serge - 2/2/3
     * Kid - 2/2/3
+    * _Tablet/Copper_ (Common)
+    * _PhotonRay/Meteor_ (Rare)
 
 ## Ketchop (Split 5)
 
@@ -99,6 +106,8 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 1/2/3/Dash & Slash
     * Kid - 2/2/3
     * Serge - 2/2/3
+    * _Silver Earring/Brace_ (Common)
+    * _Silver Earring/Magic Ring_ (Rare)
 
 ## Luccia (Split 6)
 
@@ -128,6 +137,8 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 2/3/2
     * Kid - 2/2/3
     * Serge - 2/2/2/Dash & Slash
+    * _Eagle Eye_ (Common)
+    * _AeroSaucer_ (Rare)
 
 ## Marcy (Split 7)
 
@@ -146,6 +157,8 @@ You can find general knowledge that will be useful with any route you take
     * Kid - 3/3
     * Serge - (Post Cat's Cradle) 1/2/2/Slash & Dash
     * Kid - Fireball+2
+    * _IceBlast_ (Common)
+    * _Iron_ (Rare)
 
 ## It's simple... You kill the Catman (Split 8)
 
@@ -169,6 +182,8 @@ You can find general knowledge that will be useful with any route you take
     * Pierre - 3
     * Serge - 3/Slash & Dash
     * Kid - 2/3/2
+    * _Pendragon Sigil C_ (Common)
+    * _Gravitonne_ (Rare)
 
 ## Yeah... we aren't that close (Split 9)
 
@@ -205,9 +220,10 @@ You can find general knowledge that will be useful with any route you take
     * 1 EagleEye
     * 1 WeakMinded
   * Menu
-    * Serge (Equip) - Ivory Mail/Remove Ivory Helmet
+    * Serge (Equip) - Ivory Mail/Remove Ivory Helmet (Keep if 2 Magic Rings)
     * Glenn (Equip) - Steel Sword
-    * Leena (Equip) - Ladle Fe26/Bronze Mail/Magic Ring/Ivory Helmet
+    * Leena (Equip) - Ladle Fe26/Bronze Mail/Magic Ring/Ivory Helmet (Magic
+                      Ring if 2)
     * Serge (Elements) - Lvl 1 - TurnBlue/WeakMinded/AquaBall,
                          Lvl 2 - HealAll
     * Glenn (Elements) - Lvl 1 - Strengthen/TurnBlue/AquaBall,
@@ -224,6 +240,7 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - 2/2/3
     * Serge - 2/2/3
     * Attack until dead repeating above.
+    * _MagmaBurst_ (Common/Rare)
 
 ## Fargo (Split 10)
 
@@ -235,6 +252,8 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 2/2/3
     * Glenn - Defend
     * Serge - X-Strike
+    * _Meteorite_ (Common)
+    * _PhotonBeam_ (Rare)
 
 ## The Fuck is this Thing? (Split 11)
 
@@ -268,7 +287,8 @@ You can find general knowledge that will be useful with any route you take
   * Through the door, and forward past 1 cannon, hard right to dodge, then to
     the end.
   * Dodge Everything!
-  * At the top of the last stairs, pick up PhotonBeam.
+  * At the top of the last stairs, pick up PhotonBeam. Can skip if dropped after
+    Fargo.
   * [**DeadHead (735/6)**][15]
     * Glenn - 1/Strengthen on Serge
     * Leena - 1/EagleEye on Serge
@@ -277,17 +297,19 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 3/3
     * Glenn - 2/2/2/CurePlus+1 on DeadHead
     * Serge - 3/3/Dash & Slash
+    * _Hell Soul_ (Common)
+    * _HellBound_ (Rare)
 
 ## Solt and Pepper Once Again (Split 12)
 
   * Head to Marbule
   * Shop (Straight Ahead)
-    * 1 Diminish
+    * 1 Diminish (Can skip if Cat%)
     * 1 Magnify (Sell Panacea if necessary)
   * To Mount Pyre
   * Menu
     * Serge (Equip) - Remove All
-    * Glenn (Equip) - Dragoon's Guantlet
+    * Glenn (Equip) - Dragoon's Guantlet (Power Glove if you have it as well)
     * Leena (Equip) - Dragoon's Honor
     * Glenn (Elements) - Lvl 1 Remove Strengthen,
                          Lvl 4 Panacea/Magnify,
@@ -305,13 +327,15 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - 3/3 Solt Dead
     * Serge - 1/2/2/BushBasher
     * Glenn - 3/3
+    * _Iron Vest/Iron Mail_ (Common)
+    * _Sky Djinn Ring/Dragoon Gauntlet_ (Rare)
 
 ## Fire Dragon (Split 13)
 
   * Straight through the lava to the top. Menu before entering the cave.
   * Menu
-    * Leena (Equip) - Iron Vest
-    * Serge (Equip) - Iron Mail
+    * Leena (Equip) - Iron Vest or Sky Djinn Ring
+    * Serge (Equip) - Iron Mail or Dragoon Gauntlet
     * Heal with capsules
   * Good Safety Save Point. If you run you just go back into the fight.
   * [**Fire Dragon (892/6)**][17]
@@ -338,6 +362,8 @@ You can find general knowledge that will be useful with any route you take
     * Serge - Aquaball-2
     * Leena - IceBlast
     * Heal with Consumables
+    * _Weaken_ (Common)
+    * _Magic Ring_ (Rare)
 
 ## Karsh, Marcy, TankHead (Split 14)
 
@@ -353,6 +379,8 @@ You can find general knowledge that will be useful with any route you take
     * Serge - Defend
     * Leena - 1/1/1/1/IceBlast
     * Glenn - 3/3
+    * _Eagle Eye/Gold Earring/Iron Vest_ (Common)
+    * _Silver Earring/Gold Earring/Dancing Shoes_ (Rare)
 
 ## Knight Rider (Split 15)
 
@@ -365,13 +393,16 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - Defend (2/2 if good stamina)
     * Leena - Aquaball-2
     * Glenn - 2/2/Aquaball-2
+    * _Frog Prince_ (Common/Rare)
 
 ## The Blob (Split 16)
 
   * Menu
     * Leena (Elements) - Lvl 5 FrogPrince
     * Glenn (Equip) - Iron Vest
-    * Serge (Equip) - Golden Earring
+    * Serge (Equip) - Golden Earring (Also Silver Earring if dropped)
+    * Leena (Equip) - Magic Ring if dropped from Fire Dragon and didn't already
+                      have 2.
   * Go to the left, and follow maze into room where your party stands on the
     glowing yellow pads and shifts the room. Serge should be at the front of the
     party.
@@ -395,6 +426,8 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - Defend for stamina/BlueField, or blue element
     * Leena - 1/2/2/FrogPrince
     * Heal with Consumables
+    * _AquaBall_ (Common)
+    * _IceBlast_ (Rare)
 
 ## Become the Bull (Split 17)
 
@@ -416,6 +449,8 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - Aquaball (TurnBlue if Leena 15-17 Magic)
     * Serge - Aquaball
     * Leena - 1/1 until Level 5/FrogPrince
+    * _Carapace_ (Common)
+    * _Iron Vest_ (Rare)
 
 ## Gun of a Sun (Split 18)
 
@@ -434,6 +469,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge - Aquaball
     * Leena - FrogPrince or 1s until Level 5, then FrogPrince
     * Heal with Consumables
+    * _Iron_ (Common/Rare)
 
 ## I feel like I've been here before... (Split 19)
 
@@ -455,6 +491,8 @@ You can find general knowledge that will be useful with any route you take
     * Leena - 1/Aquaball
     * Pray you don't get here, but if so 2/2 your way to victory with Glenn and
       Serge.
+    * _Gravitonne_ (Common)
+    * _HellBound_ (Rare)
 
 ## General Viper (Split 20)
 
@@ -467,6 +505,8 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 1/1
     * Glenn - 3/3/SonicSword
     * Heal with Consumables
+    * _Dragoon Gauntlet_ (Common)
+    * _Mythril Mail_ (Rare)
 
 ## Lynx (Split 21)
 
@@ -484,6 +524,8 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - 2/3
     * Leena - Aquaball
     * Don't heal as we are done with these characters for now.
+    * _Pendragon Sigil B_ (Common)
+    * _Sky Djinn Ring_ (Rare)
 
 ## Radius (Split 22)
 
@@ -505,10 +547,11 @@ You can find general knowledge that will be useful with any route you take
     be hit.
   * Head out of the marsh, and back to Opassa Beach.
   * Menu
-    * Harle (Equip) - Remove Mythril Mail
+    * Harle (Equip) - Remove Mythril Mail (Skip if dropped by Viper)
     * Lynx (Equip) - Mythril Mail/Dragoon Gauntlet/Dragoon Gauntlet/Ivory Helmet
     * Sprigg (Equip) - Gold Earring/Dragoon's Honor
-    * Harle (Equip) - Iron Mail/Magic Ring
+    * Harle (Equip) - Iron Mail/Magic Ring (Add Magic Rings or Sky Djinn Rings
+                      as collected)
   * Arni Village, Harle First and select out to move Lynx when you hit ramp.
   * Go talk to Serge's Mom
   * **Radius (787/7)**
@@ -518,6 +561,8 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 2/2/2
     * Lagoon - 3/3
     * Heal with Consumables
+    * _Heal_ (Common)
+    * _Magnify_ (Rare)
 
 ## Dear lord this split lasts for ever... (Split 23)
 
@@ -573,6 +618,7 @@ You can find general knowledge that will be useful with any route you take
     * Lagoon - 3/3
     * Lynx - 2/2/2
     * Lagoon - 3/3
+    * _Mythril Helmet_ (Common/Rare)
 
 ## Garai (Split 24)
 
@@ -597,6 +643,8 @@ You can find general knowledge that will be useful with any route you take
     * Harle - Meteorite+3
     * Sprigg - PhotonBeam+3
     * Must kill with Sprigg, so do whatever is left (if any) with Sprigg.
+    * _Iron_ (Common)
+    * _Rainbow Shell_ (Rare)
   * Sprigg First
   * **Garai (2086/6)**
     * **Early dopple strat**
@@ -621,6 +669,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 2/2/GlideHook
     * WKnight - 3/3
     * Heal with Consumables
+    * _Dragoon's Honor_ (Common/Rare)
 
 ## Highwayman (Split 25)
 
@@ -638,6 +687,8 @@ You can find general knowledge that will be useful with any route you take
     * Harle - Panacea
     * Lynx - 1/2/2
     * WKnight - 3/3
+    * _Nimble_ (Common)
+    * _Mythril_ (Rare)
 
 ## Best music of the game (Split 26)
 
@@ -661,6 +712,7 @@ You can find general knowledge that will be useful with any route you take
     * WKnight - 2/3
     * Lynx - 1/1/2/Glidehook
     * WKnight - 3/3
+    * _Dreamer's Scarf_ (Common/Rare)
 
 ## The Sewers (Split 27)
 
@@ -691,6 +743,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 1/2/2
     * Harle - Defend
     * WKnight - 3/3
+    * _Elbow Pad_ (Common/Rare)
 
 ## Hell's Kitchen (Split 28)
 
@@ -705,6 +758,8 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 3/3/IceBlast
     * WKnight - 3/3
     * Heal with Consumables
+    * _Gold Pendant_ (Common)
+    * _Mythril_ (Rare)
 
 ## Definitely not a Cyborg (Split 29)
 
@@ -724,6 +779,8 @@ You can find general knowledge that will be useful with any route you take
     * WKnight - 3/3
     * Lynx - 2/3
     * WKnight - 3/3
+    * _Defender_ (Common)
+    * _FreeFall_ (Rare)
 
 ## It's that Damned Solt and Peppor Again (Split 30)
 
@@ -732,6 +789,8 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 3/3
     * Harle - 2/2
     * Lynx - 1/3/Glidehook
+    * _Mythril_ (Common)
+    * _Screw_ (Rare)
   * Head to Balthasar's tower. Fight the Guillot again.
   * Switch Grobyc for Sprigg, then switch Karsh for Grobyc.
   * Menu
@@ -750,6 +809,8 @@ You can find general knowledge that will be useful with any route you take
     * Harle - 1/2/2/AeroBlaster+1 Peppor
     * Lynx - 2/3
     * Karsh - 3
+    * _Denadorite/Denadorite_ (Common)
+    * _Stone Vest/Stone Mail_ (Rare)
 
 ## Dario and Earth Dragon (Split 31)
 
@@ -801,6 +862,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 1/2/3/WeakMinded
     * Marcy - 1/1/1 until maxed/IceBlast
     * Marcy repeat since you have Dario in a loop.
+    * _Dreamer's Scarf_ (Common/Rare)
   * No split there. Yeah I know that is crazy you don't get a star for that
     right?
   * Switch Riddel for Fargo
@@ -849,6 +911,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 3/3
     * Fargo - 3/3
     * Lynx - 3/3 GlideHook
+    * _ThundaSnake_ (Common/Rare)
 
 ## Water Dragon (Split 32)
 
@@ -877,6 +940,7 @@ You can find general knowledge that will be useful with any route you take
     * **Lynx 30 STR**
     * Fargo - 2/3
     * Lynx - 2/2/Glidehook
+    * _BlueWhale_ (Common/Rare)
 
 ## Tyrano (Split 33)
 
@@ -930,6 +994,7 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 1/TurnBlue Lynx
     * Marcy - FrogPrince
     * Lynx/Fargo - 2/2/2 for the win.
+    * _Resistance Ring_ (Common/Rare)
 
 ## Green Dragon (Split 34)
   
@@ -955,6 +1020,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 3/3
     * Marcy - 3/3 (or 1/1/1 until Panacea for Lynx if needed)
     * Lynx - 2/2/3 (3/3/Glidehook if <34 STR)
+    * _Genie_ (Common/Rare)
 
 ## Fire Dragon (Split 35)
 
@@ -986,6 +1052,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 3/3/1
     * Marcy - Defend
     * Lynx - Glidehook
+    * _Salamander_ (Common/Rare)
 
 ## Sky Dragon (Split 36)
 
@@ -999,6 +1066,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 3/3 (2/3 if 38 STR)
     * Fargo - 3/3
     * Lynx - 3/3/Glidehook
+    * _Saints_ (Common/Rare)
 
 ## Dark Serge (Split 37)
 
@@ -1007,6 +1075,8 @@ You can find general knowledge that will be useful with any route you take
     * Marcy - EagleEye Lynx
     * Fargo - Strengthen Lynx (skip if 38 STR)
     * Lynx - 3/3/Glidehook
+    * _Mythril_ (Common)
+    * _Waist Pad_ (Rare)
   * Head up the ladder and to the left to the Shrine. Show Tear of Hate to
     get the Dragon Eblem. Now head back to Opassa Beach and Home World.
   * Now head to the El Nido Triangle. Head down the ladder and get the chest
@@ -1020,6 +1090,7 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 3/3
     * Lynx - 3/3 (GlideHook if 40 STR)
     * otherwise Repeat
+    * _MagNegate_ (Common/Rare)
   * After the fight catch Starky, then head to Guldove. Head up the ladder to
     the left and go to the shrine. Show the Dragon Emblem to enter. Head to Fort
     Dragonia. Heal at the screen before you enter the fort. Head for the
@@ -1031,6 +1102,8 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 3/3
     * Lynx - 3/3 (GlideHook if 40 STR)
     * otherwise Repeat
+    * _Pendragon Sigil A_ (Common)
+    * _Stamina Belt_ (Rare)
 
 ## Vita Unus (Split 38)
 
@@ -1056,6 +1129,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 3/3
     * Fargo - 3/3
     * Serge - 3/3/Dash&Slash
+    * _Vigora_ (Common/Rare)
 
 ## PolisPolice (Split 39)
 
@@ -1077,6 +1151,7 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 1/1/1 until Vigora Serge
     * Serge - 2/Dash&Slash (trigger break)
     * Serge - 3/3/3 until Vigora runs out
+    * _PhysNegate_ (Common/Rare)
 
 ## Fate (Split 40)
 
@@ -1108,6 +1183,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 1/2/Saints
     * Fargo - 2/3 (Revive Serge if needed)
     * Serge - 2/2/Dash&Slash
+    * _Magic Seal_ (Common/Rare)
 
 ## Royal Jelly (Split 41)
 
@@ -1127,6 +1203,7 @@ You can find general knowledge that will be useful with any route you take
   * **RoyalJelly (1739/14)**
     * Glenn - 1/1/1/1 (Get to Lvl 4) Strengthen Serge
     * Serge - 1/1/1/1/X-Strike
+    * _Resistance Belt_ (Common/Rare)
 
 ## Terrator (Split 42)
 
@@ -1144,6 +1221,7 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - 1/1 (Get to Lvl 3)
     * Fargo - Strengthen
     * Serge - 1/X-Strike (skip 1 if 41)
+    * _YellowField_ (Common/Rare)
 
 ## Pryotor (Split 43)
 
@@ -1175,6 +1253,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 2 (3 if 35-37 or after SadnessWave)
     * Fargo - 1/Strengthen
     * Serge - 3/3/Dash&Slash
+    * _RedField_ (Common/Rare)
 
 ## Anemotor (Split 44)
 
@@ -1196,6 +1275,7 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - 1/1/1 (Get to Lvl 3)
     * Fargo - Strengthen
     * Serge - X-Strike
+    * _GreenField_ (Common/Rare)
 
 ## Gravitor (Split 45)
 
@@ -1208,6 +1288,7 @@ You can find general knowledge that will be useful with any route you take
     * **Else**
     * Fargo - Strengthen
     * Serge - 3/3/Dash&Slash
+    * _BlackHole_ (Common/Rare)
 
 ## Luxator (Split 46)
 
@@ -1226,6 +1307,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 3/3
     * Glenn - 1/2/3 (Get to Lvl 3, plus max Serge)
     * Serge - 3/3/X-Strike (first 3 should trigger Heal)
+    * _UltraNova_ (Common/Rare)
 
 ## Aquator (Split 47)
 
@@ -1244,6 +1326,7 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - EagleEye
     * Glenn - 1/1/1 (Get to Lvl 4) Strengthen
     * Serge - 3/3/X-Strike
+    * _BlueField_ (Common/Rare)
 
 ## Dragon God (Split 48)
 
@@ -1284,6 +1367,7 @@ You can find general knowledge that will be useful with any route you take
       * Fargo - 2/2/2 until Serge 6 or 7 Stamina/Genius Serge (Skip Genius if 46
                 STR + 150 Fargo Damage or 47 STR + 100 Fargo Damage)
       * Serge - 1 then 3/3
+    * _Earring of Hope_ (Common/Rare)
 
 ## Time Devourer (Split 49)
 
