@@ -14,7 +14,7 @@
   <AttemptHistory />
   <Segments>
     <Segment>
-      <Name>Octomam</Name>
+      <Name>Mist</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -23,7 +23,16 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Sand Ruby</Name>
+      <Name>Octomamm</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Antlion</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
