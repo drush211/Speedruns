@@ -1,8 +1,7 @@
 # Any % No 64
 
-These [notes][1] are based off the ones that [The_Roth][2] has. He is the
-current world record holder for No 64, and can't be given enough credit for
-making this guide possible.
+These [notes][1] are based off the ones that [The_Roth][2] has and an [AGDQ][3]
+speedrun.
 
 ## General Notes
 
@@ -69,9 +68,41 @@ get really fast times.
 
 ## Mist (Split 1)
 
+  * Mash text until you speak to the king and are kicked out.
+  * Head down the stairs and get the right most treasure chest for a tent.
+  * Head to Cecil's chamber taking the extra step to the right on the chair if
+    you are on the correct seed. If you don't know what that means just go to
+    bed.
+  * Go to chocobo forest, and pick up a chocobo to take to the Cave of Mist.
+  * Go through the cavern until you fight the Mist Dragon
+  * **Mist Dragon (465 HP)**
+    * Kain jump and Cecil attack until Dragon turns to mist. 3rd jump by Kain
+      might be better off as a standard attack.
+    * Kain jump after waiting for [audio cue][4] to make sure Dragon is back
+      from the mist.
+    * While text is rolling manage the inventory by selecting the slot under
+      the tent to move the shadow shield to. Then move the tent to where the
+      package is.
+    * After Kain lands continue having Kain jump and Cecil attack until the
+      Dragon is dead.
+  * [Mist Skip!][5]
+  * Enter Mist Village, and go to the Weapon Shop. Use an item glitch to sell
+    the shadow shields that aren't actually there to max out your GP. Use that
+    to buy 10 Dancing Daggers.
+  * Go up to the house in the top left corner of the town, and enter the
+    fireplace to go grab the Tiara (Top Left chest) and the Change Rod (Very
+    Bottom Chest by itself).
+  * Now go to the left entrance of the village to start the cutscene and get
+    destroyed by Rydia.
+
 ## Octomamm (Split 2)
+
+  * 
 
 ## Antlion (Split 3)
 
 [1]: https://docs.google.com/document/d/1Q-tdhzzETGhkT8XUzaw0GbFWTqGCaAQzrz-HWNJEfZs/edit
 [2]: https://www.twitch.tv/the_roth
+[3]: https://www.youtube.com/watch?v=mkr_jvEzP6g
+[4]: https://youtu.be/mkr_jvEzP6g?t=2171
+[5]: ./Mist_Skip.md
