@@ -30,6 +30,11 @@ best, but it at least might be a starting point for you.
   * [Information][7]
   * Game Routed, no runs.
 
+### Final Fantasy 7
+
+  * [Information][10]
+  * In progress of Routing
+
 ### Final Fantasy 9
 
   * [Information][1]
@@ -57,3 +62,4 @@ best, but it at least might be a starting point for you.
 [7]: ./Games/Dragon_Warrior/README.md
 [8]: https://www.youtube.com/watch?v=4Uq0G9qxxww
 [9]: ./Youtube/README.md
+[10]: ./Games/Final_Fantasy_7/README.md

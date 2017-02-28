@@ -1,6 +1,7 @@
 # Final Fantasy 9
 
-Any % run on Steam. I based a lot of my notes off the guide found [here][1].
+Any % run on Steam. I based a lot of my notes off the guide found [here][1] and
+a speedrun from [Metako][3] found [here][4].
 
 ## Useful General Knowledge
 
@@ -225,3 +226,5 @@ You can find general knowledge that will be useful with any route you take
 
 [1]: https://docs.google.com/document/d/1q0sAJBWoNyW85DlZBd2N8JxZyoylO6_mgVGefrW2e0c
 [2]: ./General_Knowledge.md
+[3]: https://www.twitch.tv/metako
+[4]: https://www.youtube.com/watch?v=E1hmL_DksLU
