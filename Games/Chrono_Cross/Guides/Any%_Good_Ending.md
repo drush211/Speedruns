@@ -417,7 +417,7 @@ You can find general knowledge that will be useful with any route you take
     and hit the chest on the right. Take the upper path and hit the chest on the
     right, then all the way to the other side. Hit the blue switch and enter the
     room.
-  * **GiantGloop (840/8)**
+  * [**GiantGloop (840/8)**][22]
     * Leena - 1/2/2/TurnRed on Gloop
     * Glenn - 2/2/Magnify
     * Serge - 1/WeakMinded
@@ -439,7 +439,7 @@ You can find general knowledge that will be useful with any route you take
     again following the path. Careful with enemy at bottom of next screen, as he
     spawns late and is harder to dodge. Keep following the path until you get
     all the way to the upper left entry.
-  * **Taurusoid (1260/11)**
+  * [**Taurusoid (1260/11)**][23]
     * Leena - 1/2/2 (Get to Level 5)/TurnRed
     * Glenn - 2/3 (Get to Level 5)
     * Serge - 1/1/WeakMinded
@@ -459,7 +459,7 @@ You can find general knowledge that will be useful with any route you take
   * Turn the statue to the South, and go hit the altar. Use the run past trick.
   * Head out, and climb up the wall heading back towards the now available
     elevator.
-  * **Sun of a Gun (383/7)**
+  * [**Sun of a Gun (383/7)**][24]
     * Serge - 1/1
     * Leena - 3/3/1 if one of the 3s miss.
     * BACKUP - Glenn do 1s until Level 5 if Serge/Leena frozen, panacea, defend
@@ -477,7 +477,7 @@ You can find general knowledge that will be useful with any route you take
   * Remember your training from split 1, and head to the same area. Best of luck
     with your dodging here, but you are likely going to have to accept a run
     away or 2.
-  * **Bunyip (420/10 then 1260/10)**
+  * [**Bunyip (420/10 then 1260/10)**][25]
     * Leena - 1/2/2 (Get to level 5)
     * Glenn - 2/3/Magnify, replace with 1s to get to lvl 5 if attacked.
     * Serge - 1
@@ -497,7 +497,7 @@ You can find general knowledge that will be useful with any route you take
 ## General Viper (Split 20)
 
   * Try and dodge everything to get back to the center platform.
-  * **General (861/7)**
+  * [**General (861/7)**][26]
     * Serge - 1/Strengthen on Glenn
     * Leena - 1/EagleEye on Glenn
     * Glenn - 3/3
@@ -510,7 +510,7 @@ You can find general knowledge that will be useful with any route you take
 
 ## Lynx (Split 21)
 
-  * **Lynx (1050/7)**
+  * [**Lynx (1050/7)**][27]
     * Serge - 2/3/WeakMinded
     * Glenn - 1/2/2
     * Leena - 3/3
@@ -554,7 +554,7 @@ You can find general knowledge that will be useful with any route you take
                       as collected)
   * Arni Village, Harle First and select out to move Lynx when you hit ramp.
   * Go talk to Serge's Mom
-  * **Radius (787/7)**
+  * [**Radius (787/7)**][28]
     * Sprig - 1/1/... until Lagoonate
     * Lynx - 2/3
     * Lagoon - 2/3
@@ -609,7 +609,7 @@ You can find general knowledge that will be useful with any route you take
     go unrig the game. Go back and talk to Fargo again. After you get access go
     to the grand slam and talk to the sage. When he asks what you want, first
     choose nothing. Then mash.
-  * **Sage (1575/7)**
+  * [**Sage (1575/7)**][29]
     * Sprig - 2/2/1/Lagoonate
     * Lynx - 1/Strengthen Lagoonate
     * Harle - 1/Turnblack Lagoonate
@@ -646,10 +646,10 @@ You can find general knowledge that will be useful with any route you take
     * _Iron_ (Common)
     * _Rainbow Shell_ (Rare)
   * Sprigg First
-  * **Garai (2086/6)**
+  * [**Garai (2086/6)**][30]
     * **Early dopple strat**
     * Sprigg - 1/2/2/WKnight
-    * Harle - 1/x Diminish-2
+    * Harle - 1/1/1 until Diminish
     * WKnight - 2/3
     * Lynx - 1/1/Strengthen WKnight
     * Harle - 1/TurnBlack
@@ -659,9 +659,9 @@ You can find general knowledge that will be useful with any route you take
     * Heal with Consumables
     * **Late dopple strat**
     * Sprigg - 1/x (until Garai attack)
-    * Harle - 1/x/Diminish-2
+    * Harle - 1/1/1 until Diminish
     * Sprigg - 1/x/WKnight
-    * Lynx - 1/1/2/Strengthen-3 WKnight
+    * Lynx - 1/1/2/Strengthen WKnight
     * WKnight - 3/3
     * Harle - 1/TurnBlack (HealAll-2 if needed)
     * Lynx - 2
@@ -676,7 +676,7 @@ You can find general knowledge that will be useful with any route you take
   * Move Lynx to first.
   * To the Dead Sea. Go through, and enter the first city to the right.
   * Move Sprigg to first.
-  * **Highwayman (2100/7)**
+  * [**Highwayman (2100/7)**][31]
     * Sprigg - 2/2/1/WightKnight
     * Lynx - 1/Strengthen
     * Harle - 1/TurnWhite WightKnight
@@ -699,7 +699,7 @@ You can find general knowledge that will be useful with any route you take
     music in the game.
   * Safety Save is not a terrible idea. Also go grab the screwy dress on the
     right side of the plaza.
-  * **Miguel (2047/6)**
+  * [**Miguel (2047/6)**][32]
     * Sprigg - 1/1/1 until WKnight
     * Lynx - 1 (get to Level 3 if AntiBlack on Harle)
     * Harle - 1/1/1 until Level 4
@@ -735,7 +735,7 @@ You can find general knowledge that will be useful with any route you take
     and circle around to go up the ladder.
   * Go back to the left and down the drain again. TODO learn this section.
   * Move Sprigg to first.
-  * **Roachester (1307/7)**
+  * [**Roachester (1307/7)**][33]
     * Sprigg - 2/2/1/WKnight
     * Lynx - 1/Strengthen
     * Harle - Defend/TurnRed/WKnight
@@ -747,7 +747,7 @@ You can find general knowledge that will be useful with any route you take
 
 ## Hell's Kitchen (Split 28)
 
-  * **Hell's Cook (2940/8)**
+  * [**Hell's Cook (2940/8)**][34]
     * Sprigg - 1/2/2/WKnight
     * Lynx - 1/1/Strengthen
     * Harle - 1/1/TurnBlue WKnight
@@ -765,7 +765,7 @@ You can find general knowledge that will be useful with any route you take
 
   * Move Lynx to first.
   * Soldier fight - Harle 1s until Level 7 then Lunairetic
-  * **Grobyc (2940/7)**
+  * [**Grobyc (2940/7)**][35]
     * Definitely not Cyborg backwards
     * Sprigg - 1/2/2/WKnight
     * Lynx - 2/3/Strengthen-3 WKnight
@@ -801,7 +801,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx (Equip) - Dreamer's Scarf
   * To the isle of the damned, and head to the back with Solt and Peppor. Will
     need Garai Amulet to enter.
-  * **Solt and Peppor (945/8 1050/10)**
+  * [**Solt and Peppor (945/8 1050/10)**][36]
     * Lynx - 1/Strengthen Karsh
     * Harle - 1/EagleEyle Karsh
     * Lynx - AeroBlaster-3 Peppor
@@ -847,7 +847,7 @@ You can find general knowledge that will be useful with any route you take
                          Level 6 - IceBlast/IceBlast/IceBlast,
                          Level 7 - FrogPrince
     * Riddel (Elements) - WeakMinded
-  * **This Fucking Guy (AKA Dario) (3675/7)**
+  * [**This Fucking Guy (AKA Dario) (3675/7)**][37]
     * Riddel - 1/Defend (skip if attacked)
     * Lynx - 1/1/1 Until level 6/Magnify
     * Riddel - WeakMinded
@@ -894,7 +894,7 @@ You can find general knowledge that will be useful with any route you take
   * Repeat above fight.
   * Go jump down the hole in the middle and head towards the Earth Dragon. Make
     sure you select option 2.
-  * **Earth Dragon (2945/9)**
+  * [**Earth Dragon (2945/9)**][38]
     * **Lynx > 29 STR**
     * Marcy - EagleEye Lynx
     * Fargo - TurnGreen Lynx
@@ -903,7 +903,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 3/3
     * Fargo - 3/3
     * Lynx - 3/3
-    * ** Lynx < 29 STR**
+    * **Lynx < 29 STR**
     * Marcy - Strengthen Lynx
     * Fargo - TurnGreen Lynx
     * Lynx - Defend
@@ -930,7 +930,7 @@ You can find general knowledge that will be useful with any route you take
     * Marcy - TurnRed Lynx
     * Fargo - Strengthen Lynx
     * Lynx - 1/1/2/2/Glidehook
-  * **WaterDragon (2660/10)**
+  * [**WaterDragon (2660/10)**][39]
     * Marcy - TurnRed Lynx
     * Fargo - Strengthen Lynx
     * Lynx - 2/3/2 (2/2/3 if already attacked)
@@ -987,7 +987,7 @@ You can find general knowledge that will be useful with any route you take
   * Afterwards head down the ladder to the screen to the left to fight the first
     mantis. Then head down the ladder to the lower mantis to fight that one.
   * Now head back to the main screen to fight the Tyrano.
-  * **Tyrano (1680/6)**
+  * [**Tyrano (1680/6)**][40]
     * **You must steal the Power Seal or Run Away.**
     * Fargo - 1/1/Pillage
     * Marcy - 1/1/1 until Level 7
@@ -1001,7 +1001,7 @@ You can find general knowledge that will be useful with any route you take
   * Menu
     * Lynx (Equip) - Dragoon Gauntlet/Power Seal/Pendragon Sigil B or C
     * Fargo (Equip) - Dragoon's Honor
-  * **Green Dragon (3885/5)**
+  * [**Green Dragon (3885/5)**][41]
     * **Late Carnivore and 31 STR**
     * Fargo - EagleEye Lynx
     * Lynx - 2/2
@@ -1033,7 +1033,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx (Equip) - Dragoon Gauntlet (replace Pendragon's Sigil)
     * Heal with Consumables
   * Talk to the Fire Dragon to start the battle.
-  * **Fire Dragon (892/9 -> 3570/9)**
+  * [**Fire Dragon (892/9 -> 3570/9)**][42]
     * Marcy - 1/2 (Get to Lvl 4)
     * Fargo - 1 (Get to Lvl 2)
     * Lynx - 1/1/2/3
@@ -1046,7 +1046,7 @@ You can find general knowledge that will be useful with any route you take
     * Marcy - Cat's Cradle
     * **If no Transform**
     * Lynx - 1/1/1 until Transform
-    * ** Back on Script**
+    * **Back on Script**
     * Lynx - 3/3
     * Defend All
     * Lynx - 3/3/1
@@ -1060,7 +1060,7 @@ You can find general knowledge that will be useful with any route you take
   * Menu
     * Heal with Consumables
   * Run up the stairs and talk to the Sky Dragon to fight.
-  * **Sky Dragon (3610/7)**
+  * [**Sky Dragon (3610/7)**][43]
     * Marcy - EagleEye Lynx
     * Fargo - Strengthen Lynx
     * Lynx - 3/3 (2/3 if 38 STR)
@@ -1095,7 +1095,7 @@ You can find general knowledge that will be useful with any route you take
     the left and go to the shrine. Show the Dragon Emblem to enter. Head to Fort
     Dragonia. Heal at the screen before you enter the fort. Head for the
     elevator.
-  * **Dark Serge (3150/9)**
+  * [**Dark Serge (3150/9)**][44]
     * Marcy - EagleEye Lynx
     * Fargo - TurnWhite Lynx
     * Lynx - 3/3
@@ -1117,7 +1117,7 @@ You can find general knowledge that will be useful with any route you take
   * Disk Swap
   * Do the islands in the order Upper Right, Lower Right, back to where we
     started. (Counter Clockwise)
-  * **Vita Unus (2375/7)**
+  * [**Vita Unus (2375/7)**][45]
     * Serge - 1/2/2
     * Fargo - 1/TurnBlue Serge
     * Marcy - 3
@@ -1139,18 +1139,18 @@ You can find general knowledge that will be useful with any route you take
     * Fargo (Elements) - Level 1 Revive (Replace TurnBlue),
                          Level 4 Vigora
   * Enter Chronopolis.
-  * **PolisPolice (3360/8)**
+  * [**PolisPolice (3360/8)**][46]
     * Marcy - EagleEye Serge
     * Serge - 3/3
+    * **42 STR**
+    * Fargo - 1/1/1 until Vigora Serge
+    * Serge - 2/Dash&Slash (trigger break)
+    * Serge - 3/3/3 until Vigora runs out
     * **38 STR**
     * Marcy - Strengthen Serge (skip if dead)
     * Fargo - 1/1/1 until Vigora Serge
     * Serge - 1/Dash&Slash (Strenghten, 1 Dash&Slash if Marcy died) (trigger break)
     * Serge - 3/x
-    * **42 STR**
-    * Fargo - 1/1/1 until Vigora Serge
-    * Serge - 2/Dash&Slash (trigger break)
-    * Serge - 3/3/3 until Vigora runs out
     * _PhysNegate_ (Common/Rare)
 
 ## Fate (Split 40)
@@ -1167,7 +1167,7 @@ You can find general knowledge that will be useful with any route you take
     grab the chest, then run away. Now head to B1.
   * Follow the mech on the right to the end and get in a fight. Run away, then
     move around and go through the door.
-  * **Fate (5250/9)**
+  * [**Fate (5250/9)**][47]
     * **Magnify must happen before Diminish, else Run Away**
     * **Serge 37 STR, 22 MAG**
     * Marcy - 1/1/Magnify
@@ -1200,7 +1200,7 @@ You can find general knowledge that will be useful with any route you take
                          Level 1 TurnBlue/EagleEye/Strengthen/TurnBlack
   * Move Starky to First. And head through to where the Star Fragment chest was,
     but is this time a space ship.
-  * **RoyalJelly (1739/14)**
+  * [**RoyalJelly (1739/14)**][48]
     * Glenn - 1/1/1/1 (Get to Lvl 4) Strengthen Serge
     * Serge - 1/1/1/1/X-Strike
     * _Resistance Belt_ (Common/Rare)
@@ -1210,7 +1210,7 @@ You can find general knowledge that will be useful with any route you take
   * Go into the ship to start some mashing.
   * Cutscene 1:25
   * Replace Starky with Fargo
-  * **Terrator (2310/5)**
+  * [**Terrator (2310/5)**][49]
     * **Serge 42 STR**
     * Serge - 2/2
     * Glenn - 1/1 (Get to Lvl 3)
@@ -1237,21 +1237,21 @@ You can find general knowledge that will be useful with any route you take
     to the next ladder, then left to the next one. Keep heading up to the top.
   * Knock down both totems, then cross them to the next room. Head up and to the
     right for the next fight.
-  * **Pryotor (2280/7)**
+  * [**Pryotor (2280/7)**][50]
     * Serge - 1/2
-    * Glenn - EagleEye
+    * Glenn - EagleEye Serge
     * **Serge 43 STR**
     * Defend to (SadnessWave)
-    * Fargo - Strengthen
+    * Fargo - Strengthen Serge
     * Serge - 2/2 Dash&Slash
     * **Serge 40 STR**
-    * Fargo - Strengthen (must be after SadnessWave)
+    * Fargo - Strengthen Serge (must be after SadnessWave)
     * Serge - 2/3/Dash&Slash
     * **None of the above if Serge <40 STR**
-    * Fargo - EagleEye
+    * Fargo - EagleEye Serge
     * Glenn - TurnBlue Serge
     * Serge - 2 (3 if 35-37 or after SadnessWave)
-    * Fargo - 1/Strengthen
+    * Fargo - 1/Strengthen Serge
     * Serge - 3/3/Dash&Slash
     * _RedField_ (Common/Rare)
 
@@ -1260,20 +1260,20 @@ You can find general knowledge that will be useful with any route you take
   * Go through to the next room. Up the ladders to the very top. Now go right,
     then left in the middle, then right again and up to Belthasar's tower.
   * After the chat head back, then up and keep going up to the next fight.
-  * **Anemotor (2375/6)**
-    * Glenn EagleEye
+  * [**Anemotor (2375/6)**][51]
+    * Glenn EagleEye Serge
     * **Serge 44 STR Glenn 40 STR**
     * Serge - 2/3 (InfoScope)
     * Glenn - 1/1/1 (Get to Lvl 3) X-Strike
     * **Serge 38 STR Glenn 38 STR**
     * Serge - 2/3 (InfoScope)
     * Glenn - 1/1/1 (Get to Lvl 3)
-    * Fargo - Strengthen
+    * Fargo - Strengthen Serge
     * Serge - X-Strike
     * **Else**
     * Serge - 3/3 (InfoScope)
     * Glenn - 1/1/1 (Get to Lvl 3)
-    * Fargo - Strengthen
+    * Fargo - Strengthen Serge
     * Serge - X-Strike
     * _GreenField_ (Common/Rare)
 
@@ -1281,12 +1281,12 @@ You can find general knowledge that will be useful with any route you take
 
   * Head through the teleporter, and to the left exit for the next screen. Cross
     the bridge and get shot across to go fight Gravitor.
-  * **Gravitor (2850/8)**
-    * Glenn - EagleEye
+  * [**Gravitor (2850/8)**][52]
+    * Glenn - EagleEye Serge
     * **Serge 44 STR**
     * Serge - 3/3/Dash&Slash
     * **Else**
-    * Fargo - Strengthen
+    * Fargo - Strengthen Serge
     * Serge - 3/3/Dash&Slash
     * _BlackHole_ (Common/Rare)
 
@@ -1295,15 +1295,15 @@ You can find general knowledge that will be useful with any route you take
   * Head back across the canyon and bridge back to the teleporter screen. Head
     all the way to the right and cross the wind bridge. Cross the canyon and on
     to the next fight.
-  * **Luxator (3150/8)**
-    * Glenn - EagleEye
+  * [**Luxator (3150/8)**][53]
+    * Glenn - EagleEye Serge
     * **Serge 42 STR Glenn 41 STR**
     * Serge - 3/3
     * Glenn - 1/1/1 (Get to Lvl 3)
-    * Fargo - Strengthen
+    * Fargo - Strengthen Serge
     * Serge - 1/2 (must buffer this) X-Strike
     * **Else**
-    * Fargo - Strengthen
+    * Fargo - Strengthen Serge
     * Serge - 3/3
     * Glenn - 1/2/3 (Get to Lvl 3, plus max Serge)
     * Serge - 3/3/X-Strike (first 3 should trigger Heal)
@@ -1312,26 +1312,26 @@ You can find general knowledge that will be useful with any route you take
 ## Aquator (Split 47)
 
   * Head back to the teleporter screen and head through the top door.
-  * **Aquator (2940/6)**
+  * [**Aquator (2940/6)**][54]
     * **Serge 48 STR**
     * Serge - 2/2
-    * Fargo - Strengthen (after Vigora)
+    * Fargo - Strengthen Serge (after Vigora)
     * Glenn - 1/1/X-Strike
     * **Serge 43 STR**
     * Serge - 2/2
     * Glenn - 1/1 (Get to Lvl 3)
-    * Fargo - Strengthen (after Vigora)
+    * Fargo - Strengthen Serge (after Vigora)
     * Serge - 1/1 (2 if 42 or miss) X-Strike
     * **Serge 40 STR**
-    * Fargo - EagleEye
-    * Glenn - 1/1/1 (Get to Lvl 4) Strengthen
+    * Fargo - EagleEye Serge
+    * Glenn - 1/1/1 (Get to Lvl 4) Strengthen Serge
     * Serge - 3/3/X-Strike
     * _BlueField_ (Common/Rare)
 
 ## Dragon God (Split 48)
 
   * Head up the teleporter over the defeated boss.
-  * **Dragon God (1900/10 Each Phase)**
+  * [**Dragon God (1900/10 Each Phase)**][55]
     * **Serge 44 STR**
       * **_Phase 1 (White)_**
       * Serge - 2/3/2
@@ -1376,7 +1376,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge (Elements) - Level 1 Chrono Cross
   * To Opassa Beach and go to the other world. Go to the purple vapor, and
     select the time egg to start the fight.
-  * **Time Devourer (10)**
+  * [**Time Devourer (10)**][56]
     * Serge - 1/1/1 (Get to Lvl 3)
     * Glenn - 1 (Get to Lvl 2)
     * Fargo - 1 (Get to Lvl 2)
@@ -1411,3 +1411,38 @@ You can find general knowledge that will be useful with any route you take
 [19]: ./Tested_Optimizations/Silver_Loupe.md
 [20]: ./Tested_Optimizations/Level_2_Stat_Boosts.md
 [21]: ./Star_Fights/Star_15_Dragoon.md
+[22]: ./Star_Fights/Star_16_GiantGloop.md
+[23]: ./Star_Fights/Star_17_Taurusoid.md
+[24]: ./Star_Fights/Star_18_Sun_of_a_Gun.md
+[25]: ./Star_Fights/Star_19_Bunyip.md
+[26]: ./Star_Fights/Star_20_General_Viper.md
+[27]: ./Star_Fights/Star_21_Lynx.md
+[28]: ./Star_Fights/Star_22_Radius.md
+[29]: ./Star_Fights/Star_23_Sage.md
+[30]: ./Star_Fights/Star_24_Garai.md
+[31]: ./Star_Fights/Star_25_Highwayman.md
+[32]: ./Star_Fights/Star_26_Miguel.md
+[33]: ./Star_Fights/Star_27_Roachester.md
+[34]: ./Star_Fights/Star_28_Hell's_Cook.md
+[35]: ./Star_Fights/Star_29_Grobyc.md
+[36]: ./Star_Fights/Star_30_Solt_and_Peppor.md
+[37]: ./Star_Fights/Star_30.9_Dario.md
+[38]: ./Star_Fights/Star_31_Earth_Dragon.md
+[39]: ./Star_Fights/Star_32_Water_Dragon.md
+[40]: ./Star_Fights/Star_33_Tyrano.md
+[41]: ./Star_Fights/Star_34_Green_Dragon.md
+[42]: ./Star_Fights/Star_35_Fire_Dragon.md
+[43]: ./Star_Fights/Star_36_Sky_Dragon.md
+[44]: ./Star_Fights/Star_37_Dark_Serge.md
+[45]: ./Star_Fights/Star_38_Vita_Unus.md
+[46]: ./Star_Fights/Star_39_PolisPolice.md
+[47]: ./Star_Fights/Star_40_Fate.md
+[48]: ./Star_Fights/Star_41_Royal_Jelly.md
+[49]: ./Star_Fights/Star_42_Terrator.md
+[50]: ./Star_Fights/Star_43_Pryotor.md
+[51]: ./Star_Fights/Star_44_Anemotor.md
+[52]: ./Star_Fights/Star_45_Gravitor.md
+[53]: ./Star_Fights/Star_46_Luxator.md
+[54]: ./Star_Fights/Star_47_Aquator.md
+[55]: ./Star_Fights/Star_48_Dragon_God.md
+[56]: ./Star_Fights/Star_49_Time_Devourer.md
