@@ -21,3 +21,10 @@ it seems to line up pretty closely with Youtubes Terms of Service.
 From what I understand Youtube is much more aggressive as far as blocking
 content with trademarked content. Where as Twitch will mute the offending part
 of the cast, Youtube will remove it completely.
+
+## Monetization
+
+Youtube will not allow you to monetize just you playing a game, but per their
+terms of service, you can monetize things that are informational/educational.
+Therefore it seems like a tutorial or unique content would be able to be
+monetized without issue.

@@ -43,6 +43,7 @@ best, but it at least might be a starting point for you.
 ### X-Men Arcade
 
   * [Information][3]
+  * [Tutorial][11]
   * [PB][8]
 
 ## Twitch
@@ -63,3 +64,4 @@ best, but it at least might be a starting point for you.
 [8]: https://www.youtube.com/watch?v=4Uq0G9qxxww
 [9]: ./Youtube/README.md
 [10]: ./Games/Final_Fantasy_7/README.md
+[11]: https://www.youtube.com/watch?v=ePJBYBclvQI&list=PL-CRp6MFmk96Y8AdtiIHZlD8MllrAqxWr
