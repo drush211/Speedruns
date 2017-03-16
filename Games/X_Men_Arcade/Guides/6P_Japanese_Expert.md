@@ -107,17 +107,17 @@ forward instead of back which is faster as well.
 
 ## Welcome... To DIE!!! (Split 3)
 
-  * Clear out the guys on the left first, then jump->attack to the right and Ult
-    them as well.
+  * Clear out the guys on the left first, then jump->attack to the right, and
+    walk through the guys on the right.
   * Ult towards the middle to take out as many as you can.
-  * Take out everyone on the right side, then move to the flower screen. Take a
-    death.
+  * Take out everyone on the right side, then move to the flower screen. 
   * Take out everyone with an ult here.
-  * Hold a moment, then travel back towards the center to take out as many as
-    possible with an Ult.
+  * Walk to the right towards the middle to get killed by a dino.
+  * Move towards the center to take out as many as possible with an Ult.
   * Careful on this screen as if you go all the way right you will get tail
     whipped.
   * 2 Ults to take out the Bee.
+  * Try to get a death transition.
   * Careful on the right again, and move to the center to pull everyone in for
     an ult.
   * When guys are coming through the trees, hold off and try to pull everyone to
@@ -199,9 +199,9 @@ forward instead of back which is faster as well.
   * Jump, then Jump->Attack and Ult to clear the first and second wave of
     enemies.
   * Ult the bottom right side then move on.
-  * Ult the bottom right side, then jump attack to the left and ult to clear out
-    the remaining enemies. Try to clear all of them, or if the laser shooter is
-    still there try to take a laser to the back.
+  * Ult the bottom right side, then jump->attack to the left and ult to clear
+    out the remaining enemies. Try to clear all of them, or if the laser shooter
+    is still there try to take a laser to the back.
   * Die, then Ult to clear the grouping.
   * Ult the group on the right.
   * Ult the tank-men on the right.
