@@ -130,7 +130,7 @@ forward instead of back which is faster as well.
 ## Nimrod? Really? (Split 4)
 
   * Jump->Attack then Ult and hit everyone.
-  * Stay towards the bottom to avoid the leaping lizards, then ult once the 2nd
+  * Stay towards the top to avoid the leaping lizards, then ult once the 2nd
     sentinel comes through the doors.
   * Give a half second after the shooters come out to Ult the earthspawn as
     well.
@@ -141,11 +141,12 @@ forward instead of back which is faster as well.
   * Ult the shooters, then die while the elevator is going up.
   * Ult the sentinels when they stop coming, then move to the right.
   * Ult the 4 earthspawn, then move right.
-  * Be on bottom to avoid the lizards, then ult when the 2nd guy comes through
+  * Be on top to avoid the lizards, then ult when the 2nd guy comes through
     the door.
   * Ult the right side.
   * Die to the next wave, then spawn and kill the entire left. Then jump to the
-    right and Ult.
+    right and Ult. It's important to kill everyone here so you can rule of 5
+    straight into the Nimrod fight with a death transition.
   * Ult the right most sentinels coming down.
   * Ult the right most again, then move to the next screen and die to a
     sentinel.
@@ -163,16 +164,16 @@ forward instead of back which is faster as well.
     shooter on the left.
   * Walk over to them and have them hit you to knock you into a screen
     transition death.
-  * Spend 2 ults to clean up the enemies here.
+  * Spend 1 ult to clean up the enemies here.
   * **Emma Frost**
     * Takes 5 ults to kill, and pull her to the left.
   * Move to the bottom left/right and wander around avoiding the bombs while
     counting to 14 (numbers may vary), then ult in the middle.
-  * Die to the trollie then jump->attack to the right and ult.
-  * Move right and ult the far right.
-  * Ult the far right again, then die to the shooters.
-  * Ult the left, then move to the next screen and wait for the 3rd row of
-    sentinels to come in.
+  * Kill everyone on the trollies, then die to the enemies on the right.
+  * Kill the congregated group and continue right.
+  * Move past the first wave of 5 enemies, then ult the next group.
+  * Ult the far right.
+  * Wait for the sentinels to come in, then ult the group. Die on the next screen.
   * Ult when the fifth tank-man comes out.
   * Move towards the middle and ult when you can clear down to 5.
   * **Juggernaut**
