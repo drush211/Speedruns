@@ -140,7 +140,151 @@ reward after all.
 
 # Nugget Bridge (Split 5)
 
-  
+  * Head to Cerulean City and use the Pokemon Center.
+  * Get the hidden Rare Candy behind the top-left house.
+    ![Candy](Cerulean_Rare_Candy.png)
+  * **Gary 2**
+    * _TODO_
+    * **NOTE: If you get sand attacked, switch to your flier and let it die.**
+    * Horn Attack x3
+    * Horn Attack
+    * Horn Attack/Poison Sting
+    * Horn Attack x2
+  * **Bug Catcher**
+    * _TODO_
+    * Horn Attack/Poison Sting
+    * Horn Attack
+  * **Lass**
+    * _TODO_
+    * **NOTE: Keep in if sand attacked.**
+    * Horn Attack/Poison Sting
+    * Horn Attack x2
+  * **Youngster**
+    * _TODO_
+    * Horn Attack
+    * Horn Attack x2
+    * Horn Attack x2
+  * Use your 2 Rare Candies to get to Lvl 23. Note your stats to reference
+    later, and teach Thrash over Poison Sting
+  * **Lass**
+    * _TODO_
+    * Thrash x3
+  * **Jr. Trainer**
+    * _TODO_
+    * Thrash
+  * **Rocket**
+    * _TODO_
+    * Thrash
+
+## Misty (Split 6)
+
+  * Head to Bill's House.
+  * Fight the bottom Hiker.
+  * **Hiker**
+    * _TODO_
+    * ???
+  * **Lass**
+    * _TODO_
+    * Thrash x2
+  * **Jr. Trainer**
+    * _TODO_
+    * Thrash x2
+  * **Lass**
+    * Thrash x3
+  * Get the hidden Ether in the wall, one up and to the right of Lass.
+  * Say YES to Bill, heal to full, and Escape Rope back.
+  * Head to the Gym.
+  * **Jr. Trainer**
+    * _TODO_
+    * Thrash x2
+  * If you have bad Attack (<52 at Lv. 23) and bad Speed (also <52), change the
+    battle style to Shift before fighting Misty.
+  * If you are in a race save before the fight.
+  * **Misty**
+    * _TODO_
+    * **NOTE: If you get confused from Thrash, sacrifice one of your other
+              pokemon, and heal Nidoking while he is out. If you used Shift
+              strats, send out Squirtle for Starmie, and use Bubble until you
+              get the speedfall.
+    * Thrash
+    * Thrash x3
+
+## Gary 3 (Split 7)
+
+  * If you used Shift strats on Misty, change the battle style back to Set.
+  * Walk through the house on the top right and fight the Rocket.
+  * **Rocket**
+    * _TODO_
+    * Thrash x3
+  * Head South to go to Vermillion City.
+  * Enter the building in the Southeast Corner and take the stairs.
+  * Pickup the Full Restore.
+    ![Full Restore](Full_Restore_Route_5.png)
+  * Go through the underground path to get to Route 6.
+  * If you didn't catch a Paras in Mt. Moon and you have Pidgey, catch an Oddish
+    here (Tackle once to weaken).
+  * Walk through the left grass to avoid the Bug Catcher on the right.
+  * Heal to 16+ HP for the female Jr. Trainer.
+  * **Jr. Trainer**
+    * _TODO_
+    * Thrash x3
+  * Heal to 13+ HP for the male Jr. Trainer.
+  * **Jr. Trainer**
+    * _TODO_
+    * Thrash x2
+  * Mart
+    * Sell - TM34, Nugger, Antidote
+    * Buy - 3 Repel
+  * Go to the S.S. Anne.
+  * Heal to 35+ HP for Gary, and teach BubbleBeam over Tackle.
+  * **Gary**
+    * _TODO_
+    * **NOTE: If you get sand attacked switch to your weakest pokemon.**
+    * Horn Attack/BubbleBeam
+    * BubbleBeam x2
+    * Thrash
+    * Thrash x2
+
+## Lt. Surge (Split 8)
+
+  * Get HM01 from the Captain, then head to the Gym.
+  * If you have Spearow and no Paras/Oddish, trade the Spearow for Farfetch'd
+    (Dux) in the house above the cut bush blocking the gym.
+  * Menu (On the tile before the Cut bush)
+    * Swap your slot 1 item with Repel.
+    * Teach Cut (HM01) to your Cut slave.
+    * Teach Dig (TM28) to Paras or Squirtle if you don't have Paras.
+  * Cut the bush and enter the Gym.
+  * Select the right Trash Cans to pass. ![Cans](Surge_Cans.png)
+  * **Surge**
+    * _TODO_
+    * Horn Attack/BubbleBeam
+    * Thrash
+    * Thrash x2
+
+## Rock Tunnel (Split 9)
+
+  * Go to the house above the gym to get the bike voucher, then Dig back to
+    Cerulean.
+  * Go pick up the bike from the bike shop.
+  * Menu (After leaving the shop)
+    * Swap your slot 2 item with the bike.
+    * Teach Thunderbolt (TM24) over Water Gun.
+    * Get on the Bike.
+  * Head to Route 9 (need to cut 2 bushes).
+  * **Jr. Trainer**
+    * _TODO_
+    * **NOTE: If you get confused and are at low HP, switch to your weakest
+              slave, then immediately switch Nidoking back in. If you get put to
+              sleep, use your Full Restore.
+    * Thrash x4
+  * **Bug Catcher**
+    * _TODO_
+    * Thunderbolt
+    * Thrash x3
+  * Use a repel before entering Rock Tunnel.
+  * Use this guide for [Rock Tunnel][3].
 
 [1]: http://www.speedrun.com/pkmnredblue/guide/5y94k
 [2]: http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A9mon_Red/Blue/Viridian_Forest_Movement
+[3]: http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A9mon_Red/Blue/Rock_Tunnel
