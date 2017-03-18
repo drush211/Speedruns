@@ -12,6 +12,18 @@ beginning of the fight. This can save a second or 2 depending on the pokemon. Of
 course it's pretty risky to be at low health the whole game, but no risk no
 reward after all.
 
+### Horn Drill and X Accuracy
+
+Horn Drill is an instant kill move, but it's really hard to hit. That is why we
+use X Accuracy before using it. X Accuracy removes the accuracy check before an
+attack, meaning every hit after an X Accuracy is guaranteed to land.
+
+### Hidden Items
+
+We collect a lot of hidden items in the route, so it's useful to know where most
+of them are. I try to have images any time you need to pick something up, but
+[here][4] is a good catalog of the hidden items through the game.
+
 ## Before Staring (Split 0)
 
   * Clear any existing save file by pressing Up + B + Select on the game title
@@ -192,6 +204,7 @@ reward after all.
   * **Lass**
     * Thrash x3
   * Get the hidden Ether in the wall, one up and to the right of Lass.
+    ![Hidden Ether](Hidden_Ether_Bill's_House.png)
   * Say YES to Bill, heal to full, and Escape Rope back.
   * Head to the Gym.
   * **Jr. Trainer**
@@ -285,6 +298,125 @@ reward after all.
   * Use a repel before entering Rock Tunnel.
   * Use this guide for [Rock Tunnel][3].
 
+## Mr. Fuji (Split 10)
+
+  * Head South from Rock Tunnel and fight the Gambler.
+  * **Gambler**
+    * _TODO_
+    * **NOTE: Use BubbleBeam on the Growlithe if you have good Special, unless
+              you have good attack.
+    * Thrash x3
+  * Take the underground path to Celadon City.
+  * Pickup the hidden Elixir. Bottom row, about 4.5 seconds after the bike music
+    starts.
+  * Mart
+    * 2F
+      * Buy - TM07, 2 Super Potions, 10 Super Repels
+    * 4F
+      * Buy - 1 Poke Doll
+    * 6F
+      * Buy - 1 Fresh Water and 1 Soda Pop
+  * Give the Fresh Water and Soda to the girl for TM13 and TM48
+  * Mart
+    * 6F
+      * Buy - 1 Fresh Water
+    * 5F
+      * Buy - 11 X Accuracy, 3 X Special, 6 X Speed
+  * Take the elevator to 1F, then leave.
+  * Bike west, Cut the bush, then go through the building and to the house to
+    pick up HM02 (Fly).
+  * Menu (After exiting the house)
+    * Swap your slot 2 item with Super Repel.
+    * Teach TM07 (Horn Drill) over Horn Attack.
+    * Use a Super Repel.
+    * Swap your slot 3 item with X Accuracy.
+    * Teach HM02 to your flier.
+    * Teach TM48 (Rock Slide) over BubbleBeam.
+    * Fly to Lavender and walk to the tower.
+  * **Gary**
+    * _TODO_
+    * **NOTE: Use a potion if below 19 HP.**
+    * X Accuracy
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
+  * Use a potion if under 24 HP.
+  * **Channeler** (4th Floor)
+    * _TODO_
+    * Rock Slide
+    * Rock Slide
+  * Get the Elixir immediately after the Channeler.
+  * Get the hidden Elixir on 5F. ![Hidden Elixir](Hidden_Elixir.png)
+  * Take the free heal on 5F.
+  * **Channeler** (6th Floor)
+    * _TODO_
+    * Rock Slide
+  * **Channeler 2** (6th Floor)
+    * _TODO_
+    * Rock Slide
+  * Pick up the Rare Candy that blocks the way, then enter the Ghost battle and
+    escape with the Poke Doll.
+  * **Rocket 1**
+    * _TODO_
+    * ThunderBolt x2/Rock Slide
+  * **Rocket 2**
+    * _TODO_
+    * X Accuracy
+    * Horn Drill
+    * Horn Drill
+  * **Rocket 3**
+    * _TODO_
+    * Thunder Bolt x2/Thrash x3
+  * Talk to Mr. Fuji.
+
+## Silph Co (Split 11)
+
+  * Talk to Mr. Fuji to get the Poke Flute, then Fly to Celadon City.
+  * Use the PokeCenter.
+  * Menu (After leaving the center)
+    * Super Repel
+    * Bike
+  * Head to the Snorlax to the West.
+  * Menu (Tile before Snorlax)
+    * Swap your slot 4 item with X Speed.
+    * Use the PokeFlute.
+  * Snorlax
+    * Run
+  * Pickup the hidden Rare Candy and PP Up.
+    ![Rare Candy](Cycling_Road_Hidden_Rare_Candy.png)
+    ![PP Up](Cycling_Road_Hidden_PP_Up.png)
+  * Menu (After exiting the Cycling Road Building)
+    * Use a Super Repel.
+    * Teach TM13 (Ice Beam) over Rock Slide.
+  * Bike to the Safari Zone, going around the Cut bushes instead of through
+    them.
+  * ![Safari Zone](Safari_Zone.jpg)
+  * If you had 46 or 49 Speed at Lvl 23, get the Carbos in the Second Area.
+  * Menu (At the end of the first hill in the second area)
+    * Super Repel
+    * Swap your slot 5 item with X Special.
+    * Use the PP Up on Horn Drill
+    * Use the Carbos (if you got it).
+  * Get the Full Restore in Area 2.
+  * In Area 4 get the Gold Teeth outside, and HM03 from the guy in the house.
+  * Walk back outside and Dig back to Celadon.
+  * Bike East to Silph Co, giving the fresh water to the guard in the house.
+  * Enter Silph Co.
+
+## (Split 12)
+
+  * Take the elevator to 10F.
+  * Go down and left to fight the Rocket, avoiding the scientist.
+  * **Rocket**
+    * _TODO_
+    * IceBeam x3
+  * If you had 46, 47 or 49 Speed at Lv. 23, get the Carbos (first item below
+    Rocket), and use it immediately.
+  * Get the Rare Candy and TM26 (2nd and 3rd Items).
+
 [1]: http://www.speedrun.com/pkmnredblue/guide/5y94k
 [2]: http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A9mon_Red/Blue/Viridian_Forest_Movement
 [3]: http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A9mon_Red/Blue/Rock_Tunnel
+[4]: http://www.smogon.com/oi/rby_items

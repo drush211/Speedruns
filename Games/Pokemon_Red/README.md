@@ -7,18 +7,23 @@ woke up from a coma and have other things to worry about.
 
   * TODO
 
+## Discord
+
+Information to join the discord chat can be found [here][4].
+
 ## Guides
 
-  * [Nidoking No RNG][1]
+  * [Any% Glitchless][1]
 
 ## Splits
 
-  * [Nidoking No RNG][2]
+  * [Any% Glitchless][2]
 
 ## Layouts
 
   * [Pokemon Red Layout][3]
 
-[1]: ./Guides/Nidoking_No_RNG.md
-[2]: ./Splits/Nidoking_No_RNG.lss
+[1]: ./Guides/Any%_Glitchless.md
+[2]: ./Splits/Pokémon_Red_Any%25_Glitchless.lss
 [3]: ./Layouts/Pokemon_Red.lsl
+[4]: http://forums.pokemonspeedruns.com/viewtopic.php?t=492
