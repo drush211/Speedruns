@@ -51,7 +51,7 @@ reward after all.
   * Pick up the antidote on the way up.
   * Heal to 10+ HP for Weedle Guy and pick up the potion before him.
     ![Potion](Potion_Before_Weedle_Guy.png)
-  * *Weedle Guy*
+  * **Weedle Guy**
     * _Weedle Lvl 9_
     * Tail Whip x2, Tackle x4-6. If you get poisoned, wait until after the fight
       to use the Antidote. If you fall below 7 HP, use a Potion.
@@ -67,14 +67,79 @@ reward after all.
       back in.
     * Onyx - Bubble 2-3x. If Onyx uses Bide on the turn you swap Squirtle in,
              then tail whip twice, followed by bubble.
-    * _Perfect Lv. 8 stats are 16 Attack, 14 Defense, 15 Speed and 13 Special.
-      The worst stats are 14/11/13/11_
+  * [Level 8 Nidoran Stat Ranges][3]
 
 ## Mt Moon (Split 4)
 
   * Change the battle style to Set.
   * Mart
     * Buy - 10 Potions
+  * Head to Mt. Moon
+  * **_Finish enemies with tackle when it will kill. You need to save 1 horn
+    attack here._**
+  * **Bug Catcher 1**
+    * _TODO_
+    * Leer/Horn Attack/Horn Attack
+    * Leer/Horn Attack/Horn Attack
+    * Leer/Horn Attack/Horn Attack
+  * _Save before Youngster if you are in a race_
+  * **Youngster**
+    * _TODO_
+    * Leer/Horn Attack/Horn Attack
+    * Leer/Horn Attack/Horn Attack
+  * At the start of the next fight swap Horn Attack with Leer so that it is in
+    move slot 1.
+  * **Bug Catcher 2**
+    * _TODO_
+    * Horn Attack x2
+    * Horn Attack x3
+    * Horn Attack x2
+    * Horn Attack x2
+  * **Bug Catcher 3**
+    * _TODO_
+    * Horn Attack x2
+    * Horn Attack x4
+  * Catch a Spearow or a Pidgey in the grass patch ahead. Use Poison Sting to
+    weaken Lv. 5 Spearows, Horn Attack to weaken Lv. 8 Pidgeys and Tackle to
+    weaken everything else.
+  * Use the Pokemon Center.
+  * Follow the path.
+    ![1F](Mt_Moon_1F.png)
+    ![B1F](Mt_Moon_B1F.png)
+    ![B2F](Mt_Moon_B2F.png)
+  * _If you see a Paras catch it. Horn Attack to weaken (Tackle if Lvl
+    difference is 8)._
+  * Pick up TM12 (Water Gun) to the left.
+  * **Super Nerd**
+    * _TODO_
+    * Horn Attack x3
+    * Horn Attack, Horn Attack, Poison Sting
+  * Pick up the Rare Candy and Escape Rope.
+  * **Lass**
+    * _TODO_
+    * Horn Attack x3
+    * Horn Attack x2
+    * _You should reach Lvl 16 and evolve here._
+  * Teach Water Gun over Leer.
+  * **Hiker**
+    * _TODO_
+    * Water Gun x3
+  * Pick up the Moon Stone.
+  * Use the Moon Stone 1 step before fighting the Rocket.
+  * **Rocket**
+    * _TODO_
+    * Horn Attack/Poison Sting
+    * Horn Attack x2
+  * **Super Nerd**
+    * _TODO_
+    * Horn Attack x2
+    * Horn Attack x2
+    * Horn Attack x2-3
+  * Select the Helix Fossil
+  * Exit the Cave
+
+# Nugget Bridge (Split 5)
+
   
 
 [1]: http://www.speedrun.com/pkmnredblue/guide/5y94k
