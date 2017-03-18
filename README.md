@@ -40,6 +40,11 @@ best, but it at least might be a starting point for you.
   * [Information][1]
   * Disc 1 Routed, no runs.
 
+### Pokemon Red
+
+  * [Information][12]
+  * In progress of Routing.
+
 ### X-Men Arcade
 
   * [Information][3]
@@ -65,3 +70,4 @@ best, but it at least might be a starting point for you.
 [9]: ./Youtube/README.md
 [10]: ./Games/Final_Fantasy_7/README.md
 [11]: https://www.youtube.com/watch?v=ePJBYBclvQI&list=PL-CRp6MFmk96Y8AdtiIHZlD8MllrAqxWr
+[12]: ./Games/Pokemon_Red/README.md
