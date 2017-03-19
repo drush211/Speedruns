@@ -405,7 +405,7 @@ of them are. I try to have images any time you need to pick something up, but
   * Bike East to Silph Co, giving the fresh water to the guard in the house.
   * Enter Silph Co.
 
-## (Split 12)
+## Giovanni (Split 12)
 
   * Take the elevator to 10F.
   * Go down and left to fight the Rocket, avoiding the scientist.
@@ -415,6 +415,271 @@ of them are. I try to have images any time you need to pick something up, but
   * If you had 46, 47 or 49 Speed at Lv. 23, get the Carbos (first item below
     Rocket), and use it immediately.
   * Get the Rare Candy and TM26 (2nd and 3rd Items).
+  * Take the stairs to 9F.
+  * Once on 9F, teach HM03 (Surf) to Squirtle, deleting Tail Whip if necessary,
+    and TM26 (Earthquake) to Nidoking over Thrash.
+  * Hug the east wall, then the south wall, then take the teleporter to 5F.
+  * Go down to fight the Rocket on 5F (Earthquake).
+  * Go right to pick up the card key.
+  * Take the teleporter to 9F, then take it back to 5F, then open the door to
+    your left.
+  * Take the teleporter to 3F.
+  * Walk right, then up, then open the door to your left, and take the
+    teleporter to 7F.
+  * Once on 7F, walk one step up, then left to meet Gary.
+  * **Gary**
+    * _TODO_
+    * X Accuracy
+    * X Speed
+    * Horn Drill
+    * Horn Drill
+    * Earthquake
+    * Earthquake
+    * Horn Drill
+  * Take the teleporter to 11F.
+  * **Rocket**
+    * _TODO_
+    * IceBeam
+    * Earthquake
+    * IceBeam
+  * **Giovanni**
+    * _TODO_
+    * X Accuracy
+    * Horn Drill
+    * Horn Drill
+    * Ice Beam
+    * Horn Drill
+
+## Koga (Split 13)
+ 
+  * Dig back to Celadon, then Fly to Fuchsia and walk to the gym.
+  * Go as far right as you can, then up, then talk to the Juggler blocking your
+    path.
+  * **Juggler**
+    * _TODO_
+    * Earthquake
+    * Earthquake
+    * Earthquake
+    * Earthquake
+  * Menu
+    * Elixir
+    * Rare Candy (Lvl 40)
+    * Heal to ~60 HP
+  * Hug the east wall, then the north wall, then go down and let the second
+    Juggler see you.
+  * **Juggler 2**
+    * _TODO_
+    * Earthquake
+    * Earthquake/Thunderbolt
+  * **Koga**
+    * _TODO_
+    * Earthquake
+    * Earthquake
+    * Earthquake
+    * Play the PokeFlute until Weezing uses SelfDestruct, hopefully killing you.
+      Not dying is only a minor time loss.
+  * If you managed your items correctly you should skip getting a TM from Koga.
+
+## Blaine (Split 14)
+
+  * Bike East to the Warden's house for HM04 (Strength), then Fly to Pallet
+    Town.
+  * Menu
+    * Super Repel
+    * 2 Rare Candy (Revive and Lvl 43)
+    * Bike
+  * Head to the water then surf South to Cinnabar Mansion.
+  * Head straight up and take the stairs.
+  * On the next floor, go right five steps, then go up and take the stairs.
+  * On the next floor, go down to activate the switch, then continue down to
+    fall through the hole.
+  * After falling, go left and down to dodge the Scientist. If you had 46, 47,
+    49 or 50 Speed at Lv. 23, get the Carbos item ball. Then take the stairs to
+    the right.
+  * Menu (After taking the stairs)
+    * Super Repel
+    * Teach HM04 to Squirtle over Tackle.
+    * Use the Carbos if you got it.
+  * Activate the switch to the left, then follow the path to the northeast
+    corner to activate the second switch.
+  * Get the Rare Candy item ball in the room after the second switch.
+  * Get the hidden Rare Candy.
+    ![Rare Candy](Cinnabar_Mansion_Rare_Candy.png)
+  * Use both Rare Candy (Lvl 45).
+  * Get the Secret Key, then Dig out and Fly back to Cinnabar.
+  * Bike to the Gym.
+  * Questions: ABBBAB
+  * **Blaine**
+    * _TODO_
+    * X Accuracy
+    * Earthquake
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
+
+## Double Gym (Split 15)
+
+  * Dig out.
+  * If you had 46-51 Speed at Lv. 23, bike to the Celadon Gym now. If you had
+    52-53 Speed, bike to the Saffron Gym.
+  * **_Celadon Gym_**
+  * Hug the left wall, then Cut the bush in the top-left corner.
+  * **Beauty**
+    * _TODO_
+    * IceBeam
+  * **Erika**
+    * _TODO_
+    * IceBeam
+    * IceBeam
+    * IceBeam
+  * Walk out, then Fly to Saffron (if you already did Sabrina, Fly to Viridian).
+  * **_Saffron Gym_**
+  * Teleporters: Top-Left, Bottom-Left, Bottom-Left
+  * If you had 46-48 Speed at Lv. 23, heal to 50+ HP with normal Potions (and
+    save if you're in a race).
+  * **Sabrina**
+    * _TODO_
+    * **NOTE: Use an X Speed on Mr. Mime if you had 46-48 Speed at Lv. 23.**
+    * Earthquake
+    * Earthquake
+    * Earthquake
+    * Earthquake
+  * Dig out, then Fly to Viridian (if you didn't do Erika, bike to Erika's gym).
+
+## Giovanni 2 (Split 16)
+
+  * Bike to the Gym.
+  * Go left 2, then up to fight the first required trainer.
+  * **Cooltrainer**
+    * _TODO_
+    * IceBeam
+  * Continue left, then save before the next fight.
+  * **BlackBelt**
+    * _TODO_
+    * X Accuracy
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
+  * Exit and re-enter the gym to reset Blackbelt's position and clear the path
+    to Giovanni.
+  * Use an Elixir.
+  * **Giovanni**
+    * _TODO_
+    * IceBeam
+    * IceBeam
+    * Earthquake
+    * Earthquake
+    * IceBeam/IceBeam
+
+## Gary (Split 17)
+
+  * Use a Super Repel, then bike West to Victory Road.
+  * **Gary**
+    * _TODO_
+    * **NOTE: Use X Speed instead of X Special if you had 46-48 Speed OR hit any
+              extra trainers**
+    * X Accuracy
+    * X Special
+    * IceBeam/IceBeam
+    * IceBeam
+    * Thunderbolt
+    * Earthquake
+    * Earthquake
+    * Horn Drill
+
+## Victory Road (Split 18)
+
+  * Bike toward Victory Road.
+  * Super Repel after leaving the water.
+  * ![1F](Victory_Road_1F.png)
+  * ![2F](Victory_Road_2F.png)
+  * ![3F](Victory_Road_3F.png)
+  * Use Strength upon entering.
+  * Push the boulder on the left onto the switch on the right, then bike to the
+    ladder in the top-left corner.
+  * Use Strength again on 2F.
+  * Push the boulder below onto the switch.
+  * Bike up the steps so you're hugging the north edge, then use a Super Repel.
+  * Bike right, then down the steps, then right and up to the ladder.
+  * Use Strength again 3F.
+  * Push the boulder up 2 and left a bunch, then onto the switch.
+  * Bike to the boulder in the bottom-right corner, push it down the hole, then
+    go down the hole.
+  * Use Strength one last time, use your last Super Repel, then get on your bike
+    and push the boulder onto the switch in the bottom-left.
+  * Bike back to where you fell down, and follow the ladders to the exit.
+
+## Lorelei (Split 19)
+
+  * Buy 5 Full Restores (Can Skip if you have 2).
+  * **Lorelei**
+    * _TODO_
+    * Switch to the Flier.
+    * X Accuracy
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
+
+## Bruno (Split 20)
+
+  * Elixir before the fight. Save if in a race.
+  * **Bruno**
+    * _TODO_
+    * X Accuracy
+    * IceBeam
+    * Horn Drill
+    * Horn Drill
+    * IceBeam
+    * Horn Drill
+
+## Agatha (Split 21)
+
+  * Heal to Full.
+  * **Agatha**
+    * _TODO_
+    * **NOTE: If you get put to sleep, use the Poke Flute immediately. If you
+              get Hazed, you lose your X Accuracy, so IB x2 Golbat and EQ
+              Arbok.**
+    * X Accuracy
+    * X Speed
+    * Earthquake
+    * Horn Drill
+    * Earthquake
+    * Horn Drill
+    * Earthquake
+
+## Lance (Split 22)
+
+  * Stop at least two steps before Lance. Heal to 150+ HP, use the Ether on Horn
+    Drill and save.
+  * **Lance**
+    * _TODO_
+    * **NOTE: Use a second X Special on the second Dragonair if you had <44
+              Special at Lv. 23 
+    * X Special
+    * Thunderbolt
+    * X Speed
+    * IceBeam
+    * IceBeam
+    * IceBeam
+    * IceBeam
+
+## Champion (Split 23)
+
+  * Heal to 55+ HP.
+  * **Gary**
+    * _TODO_
+    * **NOTE: If Pidgeot charges Sky Attack on turn 1, use a Full Restore.**
+    * X Speed
+    * X Accuracy
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
+    * Horn Drill
 
 [1]: http://www.speedrun.com/pkmnredblue/guide/5y94k
 [2]: http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A9mon_Red/Blue/Viridian_Forest_Movement
