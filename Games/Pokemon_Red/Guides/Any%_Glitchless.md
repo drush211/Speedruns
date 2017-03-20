@@ -1,6 +1,7 @@
 # Pokemon Red
 
-Any% run using an emulator currently. I've based my notes off of the ones found
+Any% run using an emulator currently (I own the 3DS Digital Version, but don't
+want to get the hookups for it). I've based my notes off of the ones found
 [here][1].
 
 ## Useful General Information
