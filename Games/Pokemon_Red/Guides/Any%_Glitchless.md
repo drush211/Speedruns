@@ -33,7 +33,8 @@ of them are. I try to have images any time you need to pick something up, but
 ## Gary 1 (Split 1)
 
   * Give yourself and rival a one character name.
-  * Withdraw potion from the PC in your home.
+  * Withdraw potion from the PC in your home (Top Floor).
+  * Wander to the grass North of town to be stopped by Professor Oak.
   * Choose Squirtle (2nd pokeball) and give it a one character name.
   * **Gary**
     * _Bulbasaur Lvl 5_
@@ -42,22 +43,23 @@ of them are. I try to have images any time you need to pick something up, but
 
 ## Nidoran (Split 2)
 
-  * Head to Viridian City.
+  * Head North to Viridian City.
   * Fight a Lvl 2-3 Rattata or Pidgey for the experience. You need this for
     bubble to fight Brock.
-  * Get Oak's Parcel from the Mart, then head back to Pallet Town to return it.
-    Walk behind Oak to save some steps from Gary.
+  * Get Oak's Parcel from the Mart on the East side of town, then head back to
+    Pallet Town to return it. Walk behind Oak to save some steps from Gary.
   * Head back to Viridian City.
   * Mart
     * Buy - 8 PokeBalls
-  * Head west to Route 22.
-  * Catch a Lvl 3 or 4 Nidoran (Male) and give it a one character name.
-    * Tackle Lvl 3 Nidorans once before PokeBall. Lvl 4 just chuck a PokeBall at
-      unless low on balls, then tackle twice.
+  * Head West to Route 22.
+  * Catch a Lvl 3 or 4 Nidoran (Male) in the first grassy area you see and give
+    it a one character name. Tackle Lvl 3 Nidorans once before PokeBall. Lvl 4
+    just chuck a PokeBall at unless low on balls, then tackle twice.
 
 ## Brock (Split 3)
 
-  * Pick up the hidden tree potion north of Viridian City.
+  * Pick up the hidden tree potion North of Viridian City. It's at the Cut bush
+    just past the old man you see on the North side of town.
   * Head to Viridian Forest.
   * Use this [map][2] to get through the forest with minimal battles.
   * Pick up the antidote on the way up.
@@ -90,25 +92,25 @@ of them are. I try to have images any time you need to pick something up, but
   * **_Finish enemies with tackle when it will kill. You need to save 1 horn
     attack here._**
   * **Bug Catcher 1**
-    * _TODO_
+    * _Caterpie Lvl 10, Weedle Lvl 10, Caterpie Lvl 10_
     * Leer/Horn Attack/Horn Attack
     * Leer/Horn Attack/Horn Attack
     * Leer/Horn Attack/Horn Attack
   * _Save before Youngster if you are in a race_
   * **Youngster**
-    * _TODO_
+    * _Rattata Lvl 11, Ekans Lvl 11_
     * Leer/Horn Attack/Horn Attack
     * Leer/Horn Attack/Horn Attack
   * At the start of the next fight swap Horn Attack with Leer so that it is in
     move slot 1.
   * **Bug Catcher 2**
-    * _TODO_
+    * _Weedle Lvl 9, Kakuna Lvl 9, Caterpie Lvl 9, Metapod Lvl 9_
     * Horn Attack x2
     * Horn Attack x3
     * Horn Attack x2
     * Horn Attack x2
   * **Bug Catcher 3**
-    * _TODO_
+    * _Caterpie Lvl 11, Metapod Lvl 11_
     * Horn Attack x2
     * Horn Attack x4
   * Catch a Spearow or a Pidgey in the grass patch ahead. Use Poison Sting to
@@ -123,27 +125,29 @@ of them are. I try to have images any time you need to pick something up, but
     difference is 8)._
   * Pick up TM12 (Water Gun) to the left.
   * **Super Nerd**
-    * _TODO_
+    * _Magnemite Lvl 11, Voltorb Lvl 11_
     * Horn Attack x3
-    * Horn Attack, Horn Attack, Poison Sting
+    * Horn Attack/Horn Attack/Poison Sting
   * Pick up the Rare Candy and Escape Rope.
   * **Lass**
-    * _TODO_
+    * _Oddish Lvl 11, Bellsprout Lvl 11_
     * Horn Attack x3
     * Horn Attack x2
     * _You should reach Lvl 16 and evolve here._
   * Teach Water Gun over Leer.
   * **Hiker**
-    * _TODO_
-    * Water Gun x3
+    * _Geodude Lvl 10, Geodude Lvl 10, Onix Lvl 10_
+    * Water Gun
+    * Water Gun
+    * Water Gun
   * Pick up the Moon Stone.
   * Use the Moon Stone 1 step before fighting the Rocket.
   * **Rocket**
-    * _TODO_
+    * _Rattata Lvl 13, Zubat Lvl 13_
     * Horn Attack/Poison Sting
     * Horn Attack x2
   * **Super Nerd**
-    * _TODO_
+    * _Grimer Lvl 12, Voltorb Lvl 12, Koffing Lvl 12_
     * Horn Attack x2
     * Horn Attack x2
     * Horn Attack x2-3
@@ -156,79 +160,94 @@ of them are. I try to have images any time you need to pick something up, but
   * Get the hidden Rare Candy behind the top-left house.
     ![Candy](Cerulean_Rare_Candy.png)
   * **Gary 2**
-    * _TODO_
+    * _Pigeotto Lvl 18, Abra Lvl 15, Rattata Lvl 17, Bulbasaur Lvl 17_
     * **NOTE: If you get sand attacked, switch to your flier and let it die.**
     * Horn Attack x3
     * Horn Attack
     * Horn Attack/Poison Sting
     * Horn Attack x2
   * **Bug Catcher**
-    * _TODO_
+    * _Caterpie Lvl 14, Weedle Lvl 14_
     * Horn Attack/Poison Sting
     * Horn Attack
   * **Lass**
-    * _TODO_
+    * _Pidgey Lvl 14, Nidoran (Female) Lvl 14_
     * **NOTE: Keep in if sand attacked.**
     * Horn Attack/Poison Sting
     * Horn Attack x2
   * **Youngster**
-    * _TODO_
+    * _Rattata Lvl 14, Ekans Lvl 14, Zubat Lvl 14_
     * Horn Attack
     * Horn Attack x2
     * Horn Attack x2
   * Use your 2 Rare Candies to get to Lvl 23. Note your stats to reference
     later, and teach Thrash over Poison Sting
   * **Lass**
-    * _TODO_
-    * Thrash x3
+    * _Pidgey Lvl 16, Nidoran (Female) Lvl 16_
+    * Thrash
+    * Thrash (cont)
   * **Jr. Trainer**
-    * _TODO_
+    * _Mankey Lvl 18_
     * Thrash
   * **Rocket**
-    * _TODO_
+    * _Ekans Lvl 15, Zubat Lvl 15_
     * Thrash
+    * Thrash (cont)
 
 ## Misty (Split 6)
 
   * Head to Bill's House.
   * Fight the bottom Hiker.
   * **Hiker**
-    * _TODO_
-    * ???
+    * _Onix Lvl 17_
+    * Water Gun
+    * _Should reach Level 24._
   * **Lass**
-    * _TODO_
-    * Thrash x2
+    * _Nidoran (Male) Lvl 15, Nidoran (Female) Lvl 15_
+    * Thrash
+    * Thrash (cont)
   * **Jr. Trainer**
-    * _TODO_
-    * Thrash x2
+    * _Rattata Lvl 14, Ekans Lvl 14_
+    * Thrash
+    * Thrash (cont)
   * **Lass**
-    * Thrash x3
+    * _Oddish Lvl 13, Pidgey Lvl 13, Oddish Lvl 13_
+    * Thrash
+    * Thrash (cont)
+    * Thrash (possibly cont)
   * Get the hidden Ether in the wall, one up and to the right of Lass.
     ![Hidden Ether](Hidden_Ether_Bill's_House.png)
-  * Say YES to Bill, heal to full, and Escape Rope back.
+  * Say YES to Bill and then go to the cell separator.
+  * Talk to Bill again to get the S.S. Anne ticket.
+  * Menu
+    * Heal to "full"
+    * Escape Rope
   * Head to the Gym.
   * **Jr. Trainer**
-    * _TODO_
-    * Thrash x2
+    * _Goldeen Lvl 19_
+    * Thrash/Thrash (cont)
+    * _Reach Lvl 25_
   * If you have bad Attack (<52 at Lv. 23) and bad Speed (also <52), change the
     battle style to Shift before fighting Misty.
   * If you are in a race save before the fight.
   * **Misty**
-    * _TODO_
+    * _Staryu Lvl 18, Starmie Lvl 23_
     * **NOTE: If you get confused from Thrash, sacrifice one of your other
               pokemon, and heal Nidoking while he is out. If you used Shift
               strats, send out Squirtle for Starmie, and use Bubble until you
               get the speedfall.
     * Thrash
-    * Thrash x3
+    * Thrash (cont)/Thrash (possibly cont)/Thrash (possibly cont)
 
 ## Gary 3 (Split 7)
 
   * If you used Shift strats on Misty, change the battle style back to Set.
   * Walk through the house on the top right and fight the Rocket.
   * **Rocket**
-    * _TODO_
-    * Thrash x3
+    * _Machop Lvl 17, Drowzee Lvl 17_
+    * Thrash/Thrash (cont)
+    * Thrash (possibly cont)
+    * _Reach Lvl 26 after Machop_
   * Head South to go to Vermillion City.
   * Enter the building in the Southeast Corner and take the stairs.
   * Pickup the Full Restore.
@@ -239,24 +258,31 @@ of them are. I try to have images any time you need to pick something up, but
   * Walk through the left grass to avoid the Bug Catcher on the right.
   * Heal to 16+ HP for the female Jr. Trainer.
   * **Jr. Trainer**
-    * _TODO_
-    * Thrash x3
+    * _Pidgey Lvl 16, Pidgey Lvl 16, Pidgey Lvl 16_
+    * Thrash
+    * Thrash (cont)
+    * Thrash (possibly cont)
   * Heal to 13+ HP for the male Jr. Trainer.
   * **Jr. Trainer**
-    * _TODO_
-    * Thrash x2
+    * _Spearow Lvl 16, Raticate Lvl 16_
+    * Thrash
+    * Thrash (cont)
   * Mart
-    * Sell - TM34, Nugger, Antidote
+    * Sell - TM34, Nugget, Antidote
     * Buy - 3 Repel
   * Go to the S.S. Anne.
-  * Heal to 35+ HP for Gary, and teach BubbleBeam over Tackle.
+  * Once you are on the S.S. Anne, head to the stairs all the way to the left,
+    then on the next floor head down until you can go right, then go all the
+    way to the right (minus 1 block), then head up to fight Gary.
+  * Heal to 35+ HP for Gary, and teach TM11 (BubbleBeam) over Tackle.
   * **Gary**
-    * _TODO_
+    * _Pidgeotto Lvl 19, Raticate Lvl 16, Kadabra Lvl 18, Ivysaur Lvl 20_
     * **NOTE: If you get sand attacked switch to your weakest pokemon.**
     * Horn Attack/BubbleBeam
     * BubbleBeam x2
     * Thrash
-    * Thrash x2
+    * Thrash (cont)/Thrash (possibly cont)
+    * _Reach Lvl 27 after Pidgeotto_
 
 ## Lt. Surge (Split 8)
 
@@ -270,31 +296,37 @@ of them are. I try to have images any time you need to pick something up, but
   * Cut the bush and enter the Gym.
   * Select the right Trash Cans to pass. ![Cans](Surge_Cans.png)
   * **Surge**
-    * _TODO_
+    * _Voltorb Lvl 21, Pikachu Lvl 18, Raichu Lvl 24_
     * Horn Attack/BubbleBeam
     * Thrash
-    * Thrash x2
+    * Thrash/Thrash (cont)
+    * _Reach Lvl 28 after Voltorb_
 
 ## Rock Tunnel (Split 9)
 
   * Go to the house above the gym to get the bike voucher, then Dig back to
     Cerulean.
-  * Go pick up the bike from the bike shop.
+  * Go pick up the bike from the bike shop (down and to the left of the center).
   * Menu (After leaving the shop)
     * Swap your slot 2 item with the bike.
     * Teach Thunderbolt (TM24) over Water Gun.
     * Get on the Bike.
-  * Head to Route 9 (need to cut 2 bushes).
+  * Head to Route 9 by going down and to the right. (need to cut 2 bushes).
   * **Jr. Trainer**
-    * _TODO_
+    * _Oddish Lvl 18, Bellsprout Lvl 18, Oddish Lvl 18, Bellsprout Lvl 18_
     * **NOTE: If you get confused and are at low HP, switch to your weakest
               slave, then immediately switch Nidoking back in. If you get put to
               sleep, use your Full Restore.
-    * Thrash x4
+    * Thrash
+    * Thrash (cont)
+    * Thrash (poss cont)
+    * Thrash (poss cont)
+    * _Reach Lvl 29 after Oddish 2_
   * **Bug Catcher**
-    * _TODO_
+    * _Caterpie Lvl 20, Weedle Lvl 20, Venonant Lvl 20_
     * Thunderbolt
-    * Thrash x3
+    * Thrash
+    * Thrash (cont)
   * Use a repel before entering Rock Tunnel.
   * Use this guide for [Rock Tunnel][3].
 
