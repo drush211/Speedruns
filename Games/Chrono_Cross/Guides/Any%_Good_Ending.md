@@ -545,7 +545,7 @@ You can find general knowledge that will be useful with any route you take
   * Rename Harle to H
   * Head all the way down, and enter the pit at the bottom. No switches need to
     be hit.
-  * Head out of the marsh, and back to Opassa Beach.
+  * Head out of the marsh, and back to Opassa Beach and use the Astral Amulet.
   * Menu
     * Harle (Equip) - Remove Mythril Mail (Skip if dropped by Viper)
     * Lynx (Equip) - Mythril Mail/Dragoon Gauntlet/Dragoon Gauntlet/Ivory Helmet
@@ -589,7 +589,7 @@ You can find general knowledge that will be useful with any route you take
   * Menu
     * Lynx (Elements) - Remove All,
                         Level 2 HealAll/HealAll/Blackout,
-                        Level 1 (B)/Cure/TurnBlue/Strengthen/TurnWhite/WeakMinded/AeroBlaster,
+                        Level 1 (B)/TurnBlue/Strengthen/TurnWhite/WeakMinded/AeroBlaster/Cure,
                         Level 4 Magnify,
                         Level 6 IceBlast
     * Harle (Elements) - Remove All,
@@ -614,10 +614,10 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 1/Strengthen Lagoonate
     * Harle - 1/Turnblack Lagoonate
     * Lagoonate - 1/3
-    * Lynx - 2/2/2
-    * Lagoon - 3/3
-    * Lynx - 2/2/2
-    * Lagoon - 3/3
+    * Lynx - 1/2/2
+    * Lagoon - 2/3
+    * Lynx - 1/2/2
+    * Lagoon - 2/3
     * _Mythril Helmet_ (Common/Rare)
 
 ## Garai (Split 24)
@@ -649,7 +649,7 @@ You can find general knowledge that will be useful with any route you take
   * [**Garai (2086/6)**][30]
     * **Early dopple strat**
     * Sprigg - 1/2/2/WKnight
-    * Harle - 1/1/1 until Diminish
+    * Harle - 1/1/1/1/Diminish
     * WKnight - 2/3
     * Lynx - 1/1/Strengthen WKnight
     * Harle - 1/TurnBlack
@@ -659,15 +659,15 @@ You can find general knowledge that will be useful with any route you take
     * Heal with Consumables
     * **Late dopple strat**
     * Sprigg - 1/x (until Garai attack)
-    * Harle - 1/1/1 until Diminish
+    * Harle - 1/1/1/1/Diminish
     * Sprigg - 1/x/WKnight
     * Lynx - 1/1/2/Strengthen WKnight
     * WKnight - 3/3
     * Harle - 1/TurnBlack (HealAll-2 if needed)
     * Lynx - 2
-    * WKnight - 3/3
+    * WKnight - 1/3
     * Lynx - 2/2/GlideHook
-    * WKnight - 3/3
+    * WKnight - 1/3
     * Heal with Consumables
     * _Dragoon's Honor_ (Common/Rare)
 
@@ -684,7 +684,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 1/TurnWhite Lynx
     * Harle - 1/1/1 up to Level 4
     * WKnight - 3/3
-    * Harle - Panacea
+    * Harle - Panacea WKnight
     * Lynx - 1/2/2
     * WKnight - 3/3
     * _Nimble_ (Common)
@@ -704,14 +704,14 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 1 (get to Level 3 if AntiBlack on Harle)
     * Harle - 1/1/1 until Level 4
     * Defend until StrongMinded
-    * Lynx - Strengthen
+    * Lynx - Strengthen WKnight
     * Defend all, then Lynx Blackout Harle if necessary
     * Harle 1/1/1 until Diminish
     * WKnight - 3/3
     * Lynx - 1/2/2
     * WKnight - 2/3
     * Lynx - 1/1/2/Glidehook
-    * WKnight - 3/3
+    * WKnight - 2/3
     * _Dreamer's Scarf_ (Common/Rare)
 
 ## The Sewers (Split 27)

@@ -404,7 +404,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Thunder Bolt x2/Thrash x3
   * Talk to Mr. Fuji.
 
-## Silph Co (Split 11)
+## Sylph Co (Split 11)
 
   * Talk to Mr. Fuji to get the Poke Flute, then Fly to Celadon City.
   * Use the PokeCenter.
