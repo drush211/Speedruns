@@ -726,19 +726,24 @@ You can find general knowledge that will be useful with any route you take
   * Menu
     * Lynx (Equip) - Stone Swallow
     * Harle (Equip) - Dreamer Scarf
-  * Head into Termina and go to the Bar. Go into the back and find the dragoons.
-    Change Karsh to K
-  * Head to Viper Manor and enter to the left to talk to Norris. Go down the
-    stairs to the left and enter the sewers.
+  * Head into Termina and go to the Bar. Have to go through Fossil Valley, and
+    watch out, because a Shadow Cat can pop out at the end. Go into the back and
+    find the dragoons. Change Karsh to K.
+  * Head to Viper Manor, take a left at the entrance, and enter the door on the
+    left to talk to Norris. Go down the stairs to the left and enter the sewers.
   * Go knock the barrel off on the right side. Then go knock the other barrel
     off and pick up the humour. Up the stairs and tighten the wheel. back out
     and circle around to go up the ladder.
-  * Go back to the left and down the drain again. TODO learn this section.
+  * Go back to the sewer entrance you first came down and go down again. Head
+    across the bridge, then head up and to the left to turn the wheel. Then go
+    to the right and turn the other wheel. Now back to the other screen, and
+    through the water to open the valve on the next screen. Then go up the
+    ladder.
   * Move Sprigg to first.
   * [**Roachester (1307/7)**][33]
-    * Sprigg - 2/2/1/WKnight
+    * Sprigg - 1/2/2/WKnight
     * Lynx - 1/Strengthen
-    * Harle - Defend/TurnRed/WKnight
+    * Harle - Defend/TurnRed WKnight
     * WKnight - 1/3
     * Lynx - 1/2/2
     * Harle - Defend
@@ -747,9 +752,10 @@ You can find general knowledge that will be useful with any route you take
 
 ## Hell's Kitchen (Split 28)
 
+  * Take the door to the right.
   * [**Hell's Cook (2940/8)**][34]
     * Sprigg - 1/2/2/WKnight
-    * Lynx - 1/1/Strengthen
+    * Lynx - 1/1/Strengthen WKnight
     * Harle - 1/1/TurnBlue WKnight
     * WKnight - 3/3
     * Harle - EagleEye Lynx
@@ -763,8 +769,9 @@ You can find general knowledge that will be useful with any route you take
 
 ## Definitely not a Cyborg (Split 29)
 
-  * Move Lynx to first.
-  * Soldier fight - Harle 1s until Level 7 then Lunairetic
+  * Move Lynx to first, and head up.
+  * Soldier fight - Harle 1s until Level 7 then Lunairetic. Finish with Lynx if
+    needed.
   * [**Grobyc (2940/7)**][35]
     * Definitely not Cyborg backwards
     * Sprigg - 1/2/2/WKnight
@@ -777,7 +784,7 @@ You can find general knowledge that will be useful with any route you take
     * WKnight - 3/3
     * Lynx - 1/2/3
     * WKnight - 3/3
-    * Lynx - 2/3
+    * Lynx - 1/2/3
     * WKnight - 3/3
     * _Defender_ (Common)
     * _FreeFall_ (Rare)
