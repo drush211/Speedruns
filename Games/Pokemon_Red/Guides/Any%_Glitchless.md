@@ -329,8 +329,15 @@ of them are. I try to have images any time you need to pick something up, but
     * Thunderbolt
     * Thrash
     * Thrash (cont)
-  * Use a repel before entering Rock Tunnel.
-  * Use this guide for [Rock Tunnel][3].
+  * Follow the map to get through, yellow is for repel, blue is for trainer.
+    ![Rock Tunnel 1F](Rock_Tunnel_1F.png)
+    ![Rock Tunnel 2F](Rock_Tunnel_2F.png)
+  * Use a Repel Immediately after you enter before moving.
+  * Use a second Repel soon after you make the second right turn after battling
+    the Jr.TrainerF on 2F.
+  * Use a third Repel as you're standing next to the Hiker, then talk to him to
+    battle him.
+  * All trainers battled are talked to as it's faster.
 
 ## Mr. Fuji (Split 10)
 
