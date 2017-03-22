@@ -21,5 +21,18 @@ the damage boost to equal that out.
     * Serge - 2/2/3
     * Glenn - Defend
     * Serge - Defend
-    * Leena - 1/1//1/IceBlast
+    * Leena - 1/1/1/IceBlast
     * Glenn - 3/3
+
+## Alternative Fight for High Strength Serge/Glenn (18/18)
+
+  * **Karsh/Zoah/Marcy (388/8 457/11 285/6)**
+    * Leena - 1/TurnRed Karsh
+    * Gleen - 1/2 Zoah
+    * Serge - 1/2 Karsh/X-Strike Marcy
+    * Leena - 1/1/1/1/1/Aquaball
+    * Glenn - 1/2/2/Magnify (Expecting Gyronimo around here)
+    * Serge - 2/2/3 Karsh
+    * Leena - IceBlast Karsh
+    * Serge - BushBasher
+    * Glenn - 2

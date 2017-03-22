@@ -6,7 +6,8 @@ TODO
 
 ## Strategy Concept
 
-Get Sprigg to turn into Lagoonate and then hit him as hard as possible.
+Get Sprigg to turn into Lagoonate and then hit him as hard as possible. Radius
+has higher evade than normal, so your %s will 10% lower than normal.
 
 ## Scripted Fight
 

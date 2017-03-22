@@ -62,7 +62,8 @@ of them are. I try to have images any time you need to pick something up, but
   * Pick up the hidden tree potion North of Viridian City. It's at the Cut bush
     just past the old man you see on the North side of town.
   * Head to Viridian Forest.
-  * Use this [map][2] to get through the forest with minimal battles.
+  * Follow the path to get through the forest with minimal battles.
+    ![Path](Viridian_Forest_Path.png)
   * Pick up the antidote on the way up.
   * Heal to 10+ HP for Weedle Guy and pick up the potion before him.
     ![Potion](Potion_Before_Weedle_Guy.png)
@@ -715,6 +716,5 @@ of them are. I try to have images any time you need to pick something up, but
     * Horn Drill
 
 [1]: http://www.speedrun.com/pkmnredblue/guide/5y94k
-[2]: http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A9mon_Red/Blue/Viridian_Forest_Movement
 [3]: http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A9mon_Red/Blue/Rock_Tunnel
 [4]: http://www.smogon.com/oi/rby_items
