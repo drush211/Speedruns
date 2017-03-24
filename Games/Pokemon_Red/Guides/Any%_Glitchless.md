@@ -351,10 +351,33 @@ of them are. I try to have images any time you need to pick something up, but
   * Use a third Repel as you're standing next to the Hiker, then talk to him to
     battle him.
   * All trainers battled are talked to as it's faster.
+  * **Pokemaniac**
+    * _Cubone Lvl 23, Slowpoke Lvl 23_
+    * Bubblebeam
+    * Thunderbolt
+  * **Pokemaniac**
+    * _Slowpoke Lvl 25_
+    * Thunderbolt
+    * _Reach Lvl 30_
+  * **Jr. Trainer**
+    * _Oddish Lvl 22, Bulbasaur Lvl 22_
+    * Thrash
+    * Thrash (cont)
+  * **Hiker**
+    * _Geodude Lvl 21, Geodude Lvl 21, Graveler Lvl 21_
+    * Bubblebeam
+    * Bubblebeam
+    * Bubblebeam
+  * **Jr. Trainer**
+    * _Meowth Lvl 20, Oddish Lvl 20, Pidgey Lvl 20_
+    * Thrash
+    * Thrash (cont)
+    * Thrash (possibly cont)
+    * _Reach Lvl 31_
 
 ## Mr. Fuji (Split 11)
 
-  * Head South from Rock Tunnel and fight the Gambler.
+  * Head Southwest from Rock Tunnel and fight the Gambler.
   * **Gambler**
     * _TODO_
     * **NOTE: Use BubbleBeam on the Growlithe if you have good Special, unless
@@ -388,7 +411,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Teach TM48 (Rock Slide) over BubbleBeam.
     * Fly to Lavender and walk to the tower.
   * **Gary**
-    * _TODO_
+    * _Pidgeotto Lvl 25, Gyarados Lvl 23, Growlithe Lvl 22, Kadabra Lvl 20, Ivysaur Lvl 25_
     * **NOTE: Use a potion if below 19 HP.**
     * X Accuracy
     * Horn Drill
@@ -396,33 +419,41 @@ of them are. I try to have images any time you need to pick something up, but
     * Horn Drill
     * Horn Drill
     * Horn Drill
+    * _Reach Lvl 32_
   * Use a potion if under 24 HP.
   * **Channeler** (4th Floor)
-    * _TODO_
+    * _Gastly Lvl 23, Gastly Lvl 23_
     * Rock Slide
     * Rock Slide
-  * Get the Elixir immediately after the Channeler.
+    * _Reach Lvl 33_
+  * Get the Elixir immediately beneath the Channeler.
   * Get the hidden Elixir on 5F. ![Hidden Elixir](Hidden_Elixir.png)
   * Take the free heal on 5F.
   * **Channeler** (6th Floor)
-    * _TODO_
+    * _Gastly Lvl 24_
     * Rock Slide
   * **Channeler 2** (6th Floor)
-    * _TODO_
+    * _Gastly Lvl 24_
     * Rock Slide
   * Pick up the Rare Candy that blocks the way, then enter the Ghost battle and
     escape with the Poke Doll.
   * **Rocket 1**
-    * _TODO_
-    * ThunderBolt x2/Rock Slide
+    * _Zubat Lvl 25, Zubat Lvl 25, Golbat Lvl 25_
+    * Thunderbolt
+    * Thunderbolt
+    * Rock Slide
+    * _Reach Lvl 34_
   * **Rocket 2**
-    * _TODO_
+    * _Koffing Lvl 26, Drowzee Lvl 26_
     * X Accuracy
     * Horn Drill
     * Horn Drill
   * **Rocket 3**
-    * _TODO_
-    * Thunder Bolt x2/Thrash x3
+    * _Zubat Lvl 23, Rattata Lvl 23, Raticate Lvl 23, Zubat Lvl 23_
+    * Thunderbolt
+    * Thunderbolt
+    * Thrash
+    * Thrash (cont)
   * Talk to Mr. Fuji.
 
 ## Sylph Co (Split 12)
