@@ -5,20 +5,30 @@ GameBoy remake.
 
 ## Runners to Watch
 
-  * TODO
+  * [EvilAsh25][1]
+  * [StarOfViolence][2]
+  * [RPG Limit Break][6]
+
+## Discord
+
+  * [Discord][7]
 
 ## Guides
 
-  * [Any %][1]
+  * [Any %][3]
 
 ## Splits
 
-  * [Any %][2]
+  * [Any %][4]
 
 ## Layouts
 
-  * [Dragon Warrior Layout][3]
+  * [Dragon Warrior Layout][5]
 
-[5]: ./Guides/Any%25.md
-[6]: ./Splits/Dragon_Warrior.lss
-[7]: ./Layouts/Dragon_Warrior.lsl
+[1]: https://www.twitch.tv/evilash25
+[2]: https://www.twitch.tv/starofviolence
+[3]: ./Guides/Any%25.md
+[4]: ./Splits/Dragon_Warrior.lss
+[5]: ./Layouts/Dragon_Warrior.lsl
+[6]: https://www.twitch.tv/rpglimitbreak
+[7]: https://discordapp.com/invite/2rdpkGS
