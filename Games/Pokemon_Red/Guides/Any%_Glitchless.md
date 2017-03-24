@@ -34,13 +34,13 @@ of them are. I try to have images any time you need to pick something up, but
 ## Gary 1 (Split 1)
 
   * Give yourself and rival a one character name.
-  * Withdraw potion from the PC in your home (Top Floor).
   * Wander to the grass North of town to be stopped by Professor Oak.
   * Choose Squirtle (2nd pokeball) and give it a one character name.
   * **Gary**
     * _Bulbasaur Lvl 5_
     * Tail whip, then spam tackle. If growled on turn 1, then do a 2nd tail
       whip. Use a potion if under 5 HP.
+    * _Reach Lvl 6_
 
 ## Nidoran (Split 2)
 
@@ -48,7 +48,8 @@ of them are. I try to have images any time you need to pick something up, but
   * Fight a Lvl 2-3 Rattata or Pidgey for the experience. You need this for
     bubble to fight Brock.
   * Get Oak's Parcel from the Mart on the East side of town, then head back to
-    Pallet Town to return it. Walk behind Oak to save some steps from Gary.
+    Pallet Town to return it. Walk to the left of Oak to save some steps from
+    Gary.
   * Head back to Viridian City.
   * Mart
     * Buy - 8 PokeBalls
@@ -65,12 +66,14 @@ of them are. I try to have images any time you need to pick something up, but
   * Follow the path to get through the forest with minimal battles.
     ![Path](Viridian_Forest_Path.png)
   * Pick up the antidote on the way up.
-  * Heal to 10+ HP for Weedle Guy and pick up the potion before him.
-    ![Potion](Potion_Before_Weedle_Guy.png)
+  * Heal to 10+ HP for Weedle Guy and for safety you can pick up the potion
+    before him. ![Potion](Potion_Before_Weedle_Guy.png)
   * **Weedle Guy**
     * _Weedle Lvl 9_
-    * Tail Whip x2, Tackle x4-6. If you get poisoned, wait until after the fight
-      to use the Antidote. If you fall below 7 HP, use a Potion.
+    * **NOTE: If you get poisoned, wait until after the fight to use the
+              Antidote. If you fall below 7 HP, use a Potion.**
+    * Tail Whip/Tail Whip/Tackle/Tackle/Tackle/Tackle
+    * _Reach Lvl 8 (Squirtle)_
   * Switch Nidoran to the front.
   * Heal to 17+ HP.
   * Heal poison if necessary.
@@ -78,18 +81,19 @@ of them are. I try to have images any time you need to pick something up, but
   * **Brock**
     * _Geodude Lvl 12, Onyx Lvl 14_
     * Immediately switch in Squirtle.
-    * Geodude - Bubble 2-3x
-    * Switch in Nidoran after killing Geodude, then immediately switch Squirtle
-      back in.
-    * Onyx - Bubble 2-3x. If Onyx uses Bide on the turn you swap Squirtle in,
-             then tail whip twice, followed by bubble.
+    * Bubble/Bubble/Bubble
+    * **Switch in Nidoran after killing Geodude, then immediately switch
+        Squirtle back in. If Onyx uses Bide on the turn you swap Squirtle in,
+        then tail whip twice, followed by bubble.**
+    * Bubble/Bubble/Bubble
+    * _Reach Lvl 8_
   * [Level 8 Nidoran Stat Ranges][3]
 
-## Mt Moon (Split 4)
+## Enter Mt Moon (Split 4)
 
   * Change the battle style to Set.
   * Mart
-    * Buy - 10 Potions
+    * Buy - 7 Potions
   * Head to Mt. Moon
   * **_Finish enemies with tackle when it will kill. You need to save 1 horn
     attack here._**
@@ -97,28 +101,37 @@ of them are. I try to have images any time you need to pick something up, but
     * _Caterpie Lvl 10, Weedle Lvl 10, Caterpie Lvl 10_
     * Leer/Horn Attack/Horn Attack
     * Leer/Horn Attack/Horn Attack
-    * Leer/Horn Attack/Horn Attack
+    * Horn Attack/Horn Attack/Tackle
+    * _Reach Lvl 10_
   * _Save before Youngster if you are in a race_
+  * Probably want to potion to full health here as Rattata can be tough.
   * **Youngster**
     * _Rattata Lvl 11, Ekans Lvl 11_
+    * Horn Attack/Horn Attack/Tackle
     * Leer/Horn Attack/Horn Attack
-    * Leer/Horn Attack/Horn Attack
+    * _Reach Lvl 12_
   * At the start of the next fight swap Horn Attack with Leer so that it is in
     move slot 1.
   * **Bug Catcher 2**
     * _Weedle Lvl 9, Kakuna Lvl 9, Caterpie Lvl 9, Metapod Lvl 9_
-    * Horn Attack x2
-    * Horn Attack x3
-    * Horn Attack x2
-    * Horn Attack x2
+    * Horn Attack/Horn Attack
+    * Horn Attack/Horn Attack/Horn Attack
+    * Horn Attack/Horn Attack
+    * Horn Attack/Horn Attack/Tackle
+    * _Reach Lvl 13_
   * **Bug Catcher 3**
     * _Caterpie Lvl 11, Metapod Lvl 11_
-    * Horn Attack x2
-    * Horn Attack x4
+    * Horn Attack/Horn Attack
+    * Horn Attack/Horn Attack
+    * _Reach Lvl 14_
   * Catch a Spearow or a Pidgey in the grass patch ahead. Use Poison Sting to
     weaken Lv. 5 Spearows, Horn Attack to weaken Lv. 8 Pidgeys and Tackle to
     weaken everything else.
   * Use the Pokemon Center.
+  * Enter Mt. Moon
+
+## Exit Mt. Moon (Split 5)
+
   * Follow the path.
     ![1F](Mt_Moon_1F.png)
     ![B1F](Mt_Moon_B1F.png)
@@ -156,7 +169,7 @@ of them are. I try to have images any time you need to pick something up, but
   * Select the Helix Fossil
   * Exit the Cave
 
-# Nugget Bridge (Split 5)
+# Nugget Bridge (Split 6)
 
   * Head to Cerulean City and use the Pokemon Center.
   * Get the hidden Rare Candy behind the top-left house.
@@ -196,7 +209,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Thrash
     * Thrash (cont)
 
-## Misty (Split 6)
+## Misty (Split 7)
 
   * Head to Bill's House.
   * Fight the bottom Hiker.
@@ -241,7 +254,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Thrash
     * Thrash (cont)/Thrash (possibly cont)/Thrash (possibly cont)
 
-## Gary 3 (Split 7)
+## Gary 3 (Split 8)
 
   * If you used Shift strats on Misty, change the battle style back to Set.
   * Walk through the house on the top right and fight the Rocket.
@@ -286,7 +299,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Thrash (cont)/Thrash (possibly cont)
     * _Reach Lvl 27 after Pidgeotto_
 
-## Lt. Surge (Split 8)
+## Lt. Surge (Split 9)
 
   * Get HM01 from the Captain, then head to the Gym.
   * If you have Spearow and no Paras/Oddish, trade the Spearow for Farfetch'd
@@ -304,7 +317,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Thrash/Thrash (cont)
     * _Reach Lvl 28 after Voltorb_
 
-## Rock Tunnel (Split 9)
+## Rock Tunnel (Split 10)
 
   * Go to the house above the gym to get the bike voucher, then Dig back to
     Cerulean.
@@ -339,7 +352,7 @@ of them are. I try to have images any time you need to pick something up, but
     battle him.
   * All trainers battled are talked to as it's faster.
 
-## Mr. Fuji (Split 10)
+## Mr. Fuji (Split 11)
 
   * Head South from Rock Tunnel and fight the Gambler.
   * **Gambler**
@@ -412,7 +425,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Thunder Bolt x2/Thrash x3
   * Talk to Mr. Fuji.
 
-## Sylph Co (Split 11)
+## Sylph Co (Split 12)
 
   * Talk to Mr. Fuji to get the Poke Flute, then Fly to Celadon City.
   * Use the PokeCenter.
@@ -446,7 +459,7 @@ of them are. I try to have images any time you need to pick something up, but
   * Bike East to Silph Co, giving the fresh water to the guard in the house.
   * Enter Silph Co.
 
-## Giovanni (Split 12)
+## Giovanni (Split 13)
 
   * Take the elevator to 10F.
   * Go down and left to fight the Rocket, avoiding the scientist.
@@ -491,7 +504,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Ice Beam
     * Horn Drill
 
-## Koga (Split 13)
+## Koga (Split 14)
  
   * Dig back to Celadon, then Fly to Fuchsia and walk to the gym.
   * Go as far right as you can, then up, then talk to the Juggler blocking your
@@ -521,7 +534,7 @@ of them are. I try to have images any time you need to pick something up, but
       Not dying is only a minor time loss.
   * If you managed your items correctly you should skip getting a TM from Koga.
 
-## Blaine (Split 14)
+## Blaine (Split 15)
 
   * Bike East to the Warden's house for HM04 (Strength), then Fly to Pallet
     Town.
@@ -558,7 +571,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Horn Drill
     * Horn Drill
 
-## Double Gym (Split 15)
+## Double Gym (Split 16)
 
   * Dig out.
   * If you had 46-51 Speed at Lv. 23, bike to the Celadon Gym now. If you had
@@ -587,7 +600,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Earthquake
   * Dig out, then Fly to Viridian (if you didn't do Erika, bike to Erika's gym).
 
-## Giovanni 2 (Split 16)
+## Giovanni 2 (Split 17)
 
   * Bike to the Gym.
   * Go left 2, then up to fight the first required trainer.
@@ -612,7 +625,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Earthquake
     * IceBeam/IceBeam
 
-## Gary (Split 17)
+## Gary (Split 18)
 
   * Use a Super Repel, then bike West to Victory Road.
   * **Gary**
@@ -628,7 +641,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Earthquake
     * Horn Drill
 
-## Victory Road (Split 18)
+## Victory Road (Split 19)
 
   * Bike toward Victory Road.
   * Super Repel after leaving the water.
@@ -650,7 +663,7 @@ of them are. I try to have images any time you need to pick something up, but
     and push the boulder onto the switch in the bottom-left.
   * Bike back to where you fell down, and follow the ladders to the exit.
 
-## Lorelei (Split 19)
+## Lorelei (Split 20)
 
   * Buy 5 Full Restores (Can Skip if you have 2).
   * **Lorelei**
@@ -663,7 +676,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Horn Drill
     * Horn Drill
 
-## Bruno (Split 20)
+## Bruno (Split 21)
 
   * Elixir before the fight. Save if in a race.
   * **Bruno**
@@ -675,7 +688,7 @@ of them are. I try to have images any time you need to pick something up, but
     * IceBeam
     * Horn Drill
 
-## Agatha (Split 21)
+## Agatha (Split 22)
 
   * Heal to Full.
   * **Agatha**
@@ -691,7 +704,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Horn Drill
     * Earthquake
 
-## Lance (Split 22)
+## Lance (Split 23)
 
   * Stop at least two steps before Lance. Heal to 150+ HP, use the Ether on Horn
     Drill and save.
@@ -707,7 +720,7 @@ of them are. I try to have images any time you need to pick something up, but
     * IceBeam
     * IceBeam
 
-## Champion (Split 23)
+## Champion (Split 24)
 
   * Heal to 55+ HP.
   * **Gary**
