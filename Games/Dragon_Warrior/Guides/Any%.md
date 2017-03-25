@@ -94,7 +94,7 @@ NOTE: Time starts after name is selected, and enter hit.
   * **Golem**
     * Use the Pixie Flute to keep him asleep and stay healed.
 
-## Dragon Grind (Split 6)
+## Dragon Loop (Split 6)
 
   * Use all herbs to clear up inventory, and then go drop off all items except
     the sword/shield/armor and 2 keys.
@@ -114,7 +114,7 @@ NOTE: Time starts after name is selected, and enter hit.
     dragon again. Once you are level 13 you can cast return to speedy leave the
     castle. Should be level 14 by the last dragon.
   * Head to the keys shop and max out your keys. Then go talk to the guy past
-    the deadly steps and die on them (Princess in tow). 
+    the deadly steps and die on them. 
   * Head to the nearby town and max out on repellents (top right item shop
     (needs key)).
   * Cast Return to land outside the castle.

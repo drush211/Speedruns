@@ -2,7 +2,7 @@
 
 Any% run using an emulator currently (I own the 3DS Digital Version, but don't
 want to get the hookups for it). I've based my notes off of the ones found
-[here][1].
+[here][1], and a [WR][7] run by [Gunnermaniac][8].
 
 ## Useful General Information
 
@@ -376,20 +376,19 @@ of them are. I try to have images any time you need to pick something up, but
     * Thrash (possibly cont)
     * _Reach Lvl 31_
 
-## Mr. Fuji (Split 11)
+## Gary 4 (Split 11)
 
-  * Head Southwest from Rock Tunnel and fight the Gambler.
+  * Head towards the underground tunnel to get to Celadon City.
   * **Gambler**
-    * _TODO_
-    * **NOTE: Use BubbleBeam on the Growlithe if you have good Special, unless
-              you have good attack.
-    * Thrash x3
+    * _Growlithe Lvl 24, Vulpix Lvl 24_
+    * Bubblebeam
+    * Thrash
   * Take the underground path to Celadon City.
-  * Pickup the hidden Elixir. Bottom row, about 4.5 seconds after the bike music
-    starts.
+  * Pickup the hidden Elixir. 2nd to bottom row, about 4.5 seconds after the
+    bike music starts.
   * Mart
     * 2F
-      * Buy - TM07, 2 Super Potions, 10 Super Repels
+      * Buy - TM07 (Guy on the Right), 10 Super Repels, 2 Super Potions
     * 4F
       * Buy - 1 Poke Doll
     * 6F
@@ -399,7 +398,7 @@ of them are. I try to have images any time you need to pick something up, but
     * 6F
       * Buy - 1 Fresh Water
     * 5F
-      * Buy - 11 X Accuracy, 3 X Special, 6 X Speed
+      * Buy - (Guy on the Left)11 X Accuracy, 3 X Special, 6 X Speed
   * Take the elevator to 1F, then leave.
   * Bike west, Cut the bush, then go through the building and to the house to
     pick up HM02 (Fly).
@@ -421,18 +420,21 @@ of them are. I try to have images any time you need to pick something up, but
     * Horn Drill
     * Horn Drill
     * _Reach Lvl 32_
+
+## Poke Flute (Split 12)
+
   * Use a potion if under 24 HP.
   * **Channeler** (4th Floor)
     * _Gastly Lvl 23, Gastly Lvl 23_
     * Rock Slide
     * Rock Slide
-    * _Reach Lvl 33_
   * Get the Elixir immediately beneath the Channeler.
   * Get the hidden Elixir on 5F. ![Hidden Elixir](Hidden_Elixir.png)
   * Take the free heal on 5F.
   * **Channeler** (6th Floor)
     * _Gastly Lvl 24_
     * Rock Slide
+    * _Reach Lvl 33_
   * **Channeler 2** (6th Floor)
     * _Gastly Lvl 24_
     * Rock Slide
@@ -443,23 +445,24 @@ of them are. I try to have images any time you need to pick something up, but
     * Thunderbolt
     * Thunderbolt
     * Rock Slide
-    * _Reach Lvl 34_
   * **Rocket 2**
     * _Koffing Lvl 26, Drowzee Lvl 26_
     * X Accuracy
     * Horn Drill
     * Horn Drill
+    * _Reach Lvl 34_
   * **Rocket 3**
     * _Zubat Lvl 23, Rattata Lvl 23, Raticate Lvl 23, Zubat Lvl 23_
     * Thunderbolt
-    * Thunderbolt
     * Thrash
     * Thrash (cont)
+    * Thrash (possibly cont)
   * Talk to Mr. Fuji.
+  * Talk to Mr. Fuji again to get the Poke Flute
 
-## Sylph Co (Split 12)
+## Sylph Co (Split 13)
 
-  * Talk to Mr. Fuji to get the Poke Flute, then Fly to Celadon City.
+  * Fly to Celadon City.
   * Use the PokeCenter.
   * Menu (After leaving the center)
     * Super Repel
@@ -470,7 +473,11 @@ of them are. I try to have images any time you need to pick something up, but
     * Use the PokeFlute.
   * Snorlax
     * Run
-  * Pickup the hidden Rare Candy and PP Up.
+  * Dodge the bikers, then go down and to the right. You want to be 4 pillars
+    from the left for the upcoming Rare Candy.
+  * Pickup the hidden Rare Candy.
+  * Stick to the far right, and after the 2nd biker move one frame left and
+    pick up the PP Up. Can go straight down from there.
     ![Rare Candy](Cycling_Road_Hidden_Rare_Candy.png)
     ![PP Up](Cycling_Road_Hidden_PP_Up.png)
   * Menu (After exiting the Cycling Road Building)
@@ -491,21 +498,26 @@ of them are. I try to have images any time you need to pick something up, but
   * Bike East to Silph Co, giving the fresh water to the guard in the house.
   * Enter Silph Co.
 
-## Giovanni (Split 13)
+## Giovanni (Split 14)
 
   * Take the elevator to 10F.
   * Go down and left to fight the Rocket, avoiding the scientist.
   * **Rocket**
-    * _TODO_
-    * IceBeam x3
+    * _Machoke Lvl 33_
+    * X-Accuracy
+    * Horn Drill
   * If you had 46, 47 or 49 Speed at Lv. 23, get the Carbos (first item below
     Rocket), and use it immediately.
   * Get the Rare Candy and TM26 (2nd and 3rd Items).
   * Take the stairs to 9F.
-  * Once on 9F, teach HM03 (Surf) to Squirtle, deleting Tail Whip if necessary,
-    and TM26 (Earthquake) to Nidoking over Thrash.
+  * Once on 9F, teach HM03 (Surf) to Squirtle, and TM26 (Earthquake) to Nidoking
+    over Thrash.
   * Hug the east wall, then the south wall, then take the teleporter to 5F.
-  * Go down to fight the Rocket on 5F (Earthquake).
+  * Go down to fight the Rocket on 5F.
+    * **Rocket**
+    * _Arbok Lvl 33_
+    * Earthquake
+    * _Reach Lvl 35_
   * Go right to pick up the card key.
   * Take the teleporter to 9F, then take it back to 5F, then open the door to
     your left.
@@ -514,80 +526,84 @@ of them are. I try to have images any time you need to pick something up, but
     teleporter to 7F.
   * Once on 7F, walk one step up, then left to meet Gary.
   * **Gary**
-    * _TODO_
-    * X Accuracy
+    * _Pidgeot Lvl 37, Gyarados Lvl 38, Growlithe Lvl 35, Alakazam Lvl 35, Venusaur_
     * X Speed
+    * X Accuracy
+    * X Special
+    * Thunderbolt
+    * Thunderbolt
     * Horn Drill
-    * Horn Drill
-    * Earthquake
     * Earthquake
     * Horn Drill
   * Take the teleporter to 11F.
   * **Rocket**
-    * _TODO_
+    * _Cubone Lvl 32, Drowzee Lvl 32, Marowak Lvl 32_
     * IceBeam
     * Earthquake
     * IceBeam
+    * _Reach Lvl 37_
   * **Giovanni**
-    * _TODO_
+    * _Nidorino Lvl 37, Kangaskhan Lvl 35, Rhyhorn Lvl 37, Nidoqueen Lvl 41_
     * X Accuracy
     * Horn Drill
     * Horn Drill
     * Ice Beam
     * Horn Drill
+    * _Reach Lvl 38_
 
-## Koga (Split 14)
+## Koga (Split 15)
  
   * Dig back to Celadon, then Fly to Fuchsia and walk to the gym.
   * Go as far right as you can, then up, then talk to the Juggler blocking your
     path.
   * **Juggler**
-    * _TODO_
+    * _Drowzee Lvl 31, Drowzee Lvl 31, Kadabra Lvl 31, Drowzee Lvl 31_
     * Earthquake
     * Earthquake
     * Earthquake
     * Earthquake
+    * _Reach Lvl 39_
   * Menu
     * Elixir
-    * Rare Candy (Lvl 40)
     * Heal to ~60 HP
   * Hug the east wall, then the north wall, then go down and let the second
     Juggler see you.
   * **Juggler 2**
-    * _TODO_
+    * _Drowzee Lvl 34, Hypno Lvl 34_
     * Earthquake
     * Earthquake/Thunderbolt
   * **Koga**
-    * _TODO_
+    * _Koffing Lvl 37, Muk Lvl 39, Koffing Lvl 37, Weezing Lvl 43_
     * Earthquake
     * Earthquake
     * Earthquake
     * Play the PokeFlute until Weezing uses SelfDestruct, hopefully killing you.
       Not dying is only a minor time loss.
+    * _Reach Lvl 40_
   * If you managed your items correctly you should skip getting a TM from Koga.
 
-## Blaine (Split 15)
+## Blaine (Split 16)
 
   * Bike East to the Warden's house for HM04 (Strength), then Fly to Pallet
     Town.
   * Menu
     * Super Repel
-    * 2 Rare Candy (Revive and Lvl 43)
+    * Teach Strength (HM04) to Squirtle.
+    * 3 Rare Candy (Revive and Lvl 43)
     * Bike
   * Head to the water then surf South to Cinnabar Mansion.
   * Head straight up and take the stairs.
   * On the next floor, go right five steps, then go up and take the stairs.
   * On the next floor, go down to activate the switch, then continue down to
-    fall through the hole.
+    fall through the hole. Take 1 step down and use another Super Repel.
   * After falling, go left and down to dodge the Scientist. If you had 46, 47,
     49 or 50 Speed at Lv. 23, get the Carbos item ball. Then take the stairs to
     the right.
   * Menu (After taking the stairs)
-    * Super Repel
-    * Teach HM04 to Squirtle over Tackle.
     * Use the Carbos if you got it.
   * Activate the switch to the left, then follow the path to the northeast
     corner to activate the second switch.
+  * **With a God Nido you can skip these Rare Candies**
   * Get the Rare Candy item ball in the room after the second switch.
   * Get the hidden Rare Candy.
     ![Rare Candy](Cinnabar_Mansion_Rare_Candy.png)
@@ -596,14 +612,14 @@ of them are. I try to have images any time you need to pick something up, but
   * Bike to the Gym.
   * Questions: ABBBAB
   * **Blaine**
-    * _TODO_
+    * _Growlithe Lvl 42, Ponyta Lvl 40, Rapidash Lvl 42, Arcanine Lvl 47_
     * X Accuracy
     * Earthquake
     * Horn Drill
     * Horn Drill
     * Horn Drill
 
-## Double Gym (Split 16)
+## Double Gym (Split 17)
 
   * Dig out.
   * If you had 46-51 Speed at Lv. 23, bike to the Celadon Gym now. If you had
@@ -611,10 +627,10 @@ of them are. I try to have images any time you need to pick something up, but
   * **_Celadon Gym_**
   * Hug the left wall, then Cut the bush in the top-left corner.
   * **Beauty**
-    * _TODO_
+    * _Exeggcute Lvl 26_
     * IceBeam
   * **Erika**
-    * _TODO_
+    * _Victreebel Lvl 29, Tangela Lvl 24, Vileplume Lvl 29_
     * IceBeam
     * IceBeam
     * IceBeam
@@ -624,7 +640,7 @@ of them are. I try to have images any time you need to pick something up, but
   * If you had 46-48 Speed at Lv. 23, heal to 50+ HP with normal Potions (and
     save if you're in a race).
   * **Sabrina**
-    * _TODO_
+    * _Kadabra Lvl 38, Mr. Mime Lvl 37, Venomoth Lvl 38, Alakazam Lvl 43_
     * **NOTE: Use an X Speed on Mr. Mime if you had 46-48 Speed at Lv. 23.**
     * Earthquake
     * Earthquake
@@ -632,12 +648,14 @@ of them are. I try to have images any time you need to pick something up, but
     * Earthquake
   * Dig out, then Fly to Viridian (if you didn't do Erika, bike to Erika's gym).
 
-## Giovanni 2 (Split 17)
+## Giovanni 2 (Split 18)
 
+  * You should be between Lvl 45 and 47 depending on what kind of Nido and run
+    you are doing.
   * Bike to the Gym.
   * Go left 2, then up to fight the first required trainer.
   * **Cooltrainer**
-    * _TODO_
+    * _Rhyhorn Lvl 43_
     * IceBeam
   * Continue left, then save before the next fight.
   * **BlackBelt**
@@ -657,7 +675,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Earthquake
     * IceBeam/IceBeam
 
-## Gary (Split 18)
+## Gary (Split 19)
 
   * Use a Super Repel, then bike West to Victory Road.
   * **Gary**
@@ -673,7 +691,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Earthquake
     * Horn Drill
 
-## Victory Road (Split 19)
+## Victory Road (Split 20)
 
   * Bike toward Victory Road.
   * Super Repel after leaving the water.
@@ -695,7 +713,7 @@ of them are. I try to have images any time you need to pick something up, but
     and push the boulder onto the switch in the bottom-left.
   * Bike back to where you fell down, and follow the ladders to the exit.
 
-## Lorelei (Split 20)
+## Lorelei (Split 21)
 
   * Buy 5 Full Restores (Can Skip if you have 2).
   * **Lorelei**
@@ -708,7 +726,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Horn Drill
     * Horn Drill
 
-## Bruno (Split 21)
+## Bruno (Split 22)
 
   * Elixir before the fight. Save if in a race.
   * **Bruno**
@@ -720,7 +738,7 @@ of them are. I try to have images any time you need to pick something up, but
     * IceBeam
     * Horn Drill
 
-## Agatha (Split 22)
+## Agatha (Split 23)
 
   * Heal to Full.
   * **Agatha**
@@ -736,7 +754,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Horn Drill
     * Earthquake
 
-## Lance (Split 23)
+## Lance (Split 24)
 
   * Stop at least two steps before Lance. Heal to 150+ HP, use the Ether on Horn
     Drill and save.
@@ -752,7 +770,7 @@ of them are. I try to have images any time you need to pick something up, but
     * IceBeam
     * IceBeam
 
-## Champion (Split 24)
+## Champion (Split 25)
 
   * Heal to 55+ HP.
   * **Gary**
@@ -768,5 +786,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Horn Drill
 
 [1]: http://www.speedrun.com/pkmnredblue/guide/5y94k
+[2]: https://www.youtube.com/watch?v=PR1pviH6HOk&t=3069s
 [3]: http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A9mon_Red/Blue/Rock_Tunnel
 [4]: http://www.smogon.com/oi/rby_items
+[5]: https://www.twitch.com/gunnermaniac
