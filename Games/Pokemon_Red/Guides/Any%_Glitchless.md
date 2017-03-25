@@ -132,40 +132,35 @@ of them are. I try to have images any time you need to pick something up, but
 
 ## Exit Mt. Moon (Split 5)
 
-  * Follow the path.
+  * Follow the path (no Water Gun).
     ![1F](Mt_Moon_1F.png)
     ![B1F](Mt_Moon_B1F.png)
     ![B2F](Mt_Moon_B2F.png)
   * _If you see a Paras catch it. Horn Attack to weaken (Tackle if Lvl
     difference is 8)._
-  * Pick up TM12 (Water Gun) to the left.
   * **Super Nerd**
     * _Magnemite Lvl 11, Voltorb Lvl 11_
-    * Horn Attack x3
+    * Horn Attack/Horn Attack/Horn Attack
     * Horn Attack/Horn Attack/Poison Sting
+    * _Reach Lvl 15_
   * Pick up the Rare Candy and Escape Rope.
   * **Lass**
     * _Oddish Lvl 11, Bellsprout Lvl 11_
-    * Horn Attack x3
-    * Horn Attack x2
+    * Horn Attack/Horn Attack/Horn Attack
+    * Horn Attack/Horn Attack
     * _You should reach Lvl 16 and evolve here._
-  * Teach Water Gun over Leer.
-  * **Hiker**
-    * _Geodude Lvl 10, Geodude Lvl 10, Onix Lvl 10_
-    * Water Gun
-    * Water Gun
-    * Water Gun
   * Pick up the Moon Stone.
   * Use the Moon Stone 1 step before fighting the Rocket.
   * **Rocket**
     * _Rattata Lvl 13, Zubat Lvl 13_
     * Horn Attack/Poison Sting
-    * Horn Attack x2
+    * Horn Attack/Horn Attack
   * **Super Nerd**
     * _Grimer Lvl 12, Voltorb Lvl 12, Koffing Lvl 12_
-    * Horn Attack x2
-    * Horn Attack x2
-    * Horn Attack x2-3
+    * Horn Attack/Horn Attack
+    * Horn Attack/Horn Attack
+    * Horn Attack/Horn Attack/Horn Attack
+    * _Reach Lvl 17_
   * Select the Helix Fossil
   * Exit the Cave
 
@@ -177,10 +172,11 @@ of them are. I try to have images any time you need to pick something up, but
   * **Gary 2**
     * _Pigeotto Lvl 18, Abra Lvl 15, Rattata Lvl 17, Bulbasaur Lvl 17_
     * **NOTE: If you get sand attacked, switch to your flier and let it die.**
-    * Horn Attack x3
+    * Horn Attack/Horn Attack/Horn Attack
     * Horn Attack
     * Horn Attack/Poison Sting
-    * Horn Attack x2
+    * Horn Attack/Horn Attack
+    * _Reach Lvl 19_
   * **Bug Catcher**
     * _Caterpie Lvl 14, Weedle Lvl 14_
     * Horn Attack/Poison Sting
@@ -189,14 +185,13 @@ of them are. I try to have images any time you need to pick something up, but
     * _Pidgey Lvl 14, Nidoran (Female) Lvl 14_
     * **NOTE: Keep in if sand attacked.**
     * Horn Attack/Poison Sting
-    * Horn Attack x2
+    * Horn Attack/Horn Attack
   * **Youngster**
     * _Rattata Lvl 14, Ekans Lvl 14, Zubat Lvl 14_
     * Horn Attack
-    * Horn Attack x2
-    * Horn Attack x2
-  * Use your 2 Rare Candies to get to Lvl 23. Note your stats to reference
-    later, and teach Thrash over Poison Sting
+    * Horn Attack/Horn Attack
+    * Horn Attack/Horn Attack
+    * _Reach Lvl 20_
   * **Lass**
     * _Pidgey Lvl 16, Nidoran (Female) Lvl 16_
     * Thrash
@@ -204,6 +199,9 @@ of them are. I try to have images any time you need to pick something up, but
   * **Jr. Trainer**
     * _Mankey Lvl 18_
     * Thrash
+    * _Reach Lvl 21_
+  * Use your 2 Rare Candies to get to Lvl 23. Note your stats to reference
+    later, and teach Thrash over Poison Sting
   * **Rocket**
     * _Ekans Lvl 15, Zubat Lvl 15_
     * Thrash
@@ -212,11 +210,12 @@ of them are. I try to have images any time you need to pick something up, but
 ## Misty (Split 7)
 
   * Head to Bill's House.
-  * Fight the bottom Hiker.
+  * Fight the top Hiker.
   * **Hiker**
-    * _Onix Lvl 17_
-    * Water Gun
-    * _Should reach Level 24._
+    * _Machop Lvl 15, Geodude Lvl 15_
+    * Thrash
+    * Thrash (cont)/Thrash (possibly cont)
+  * Pick up the hidden elixir just above the hicker.
   * **Lass**
     * _Nidoran (Male) Lvl 15, Nidoran (Female) Lvl 15_
     * Thrash
@@ -225,6 +224,7 @@ of them are. I try to have images any time you need to pick something up, but
     * _Rattata Lvl 14, Ekans Lvl 14_
     * Thrash
     * Thrash (cont)
+    * _Reach Lvl 24_
   * **Lass**
     * _Oddish Lvl 13, Pidgey Lvl 13, Oddish Lvl 13_
     * Thrash
@@ -241,7 +241,6 @@ of them are. I try to have images any time you need to pick something up, but
   * **Jr. Trainer**
     * _Goldeen Lvl 19_
     * Thrash/Thrash (cont)
-    * _Reach Lvl 25_
   * If you have bad Attack (<52 at Lv. 23) and bad Speed (also <52), change the
     battle style to Shift before fighting Misty.
   * If you are in a race save before the fight.
@@ -253,6 +252,7 @@ of them are. I try to have images any time you need to pick something up, but
               get the speedfall.
     * Thrash
     * Thrash (cont)/Thrash (possibly cont)/Thrash (possibly cont)
+    * _Reach Lvl 25_
 
 ## Gary 3 (Split 8)
 
@@ -262,7 +262,7 @@ of them are. I try to have images any time you need to pick something up, but
     * _Machop Lvl 17, Drowzee Lvl 17_
     * Thrash/Thrash (cont)
     * Thrash (possibly cont)
-    * _Reach Lvl 26 after Machop_
+    * _Reach Lvl 26_
   * Head South to go to Vermillion City.
   * Enter the building in the Southeast Corner and take the stairs.
   * Pickup the Full Restore.
@@ -283,21 +283,21 @@ of them are. I try to have images any time you need to pick something up, but
     * Thrash
     * Thrash (cont)
   * Mart
-    * Sell - TM34, Nugget, Antidote
+    * Sell - Nugget
     * Buy - 3 Repel
   * Go to the S.S. Anne.
   * Once you are on the S.S. Anne, head to the stairs all the way to the left,
     then on the next floor head down until you can go right, then go all the
     way to the right (minus 1 block), then head up to fight Gary.
-  * Heal to 35+ HP for Gary, and teach TM11 (BubbleBeam) over Tackle.
+  * Heal to 35+ HP for Gary.
   * **Gary**
     * _Pidgeotto Lvl 19, Raticate Lvl 16, Kadabra Lvl 18, Ivysaur Lvl 20_
     * **NOTE: If you get sand attacked switch to your weakest pokemon.**
-    * Horn Attack/BubbleBeam
-    * BubbleBeam x2
+    * Horn Attack/Horn Attack
+    * Horn Attack/Horn Attack
     * Thrash
     * Thrash (cont)/Thrash (possibly cont)
-    * _Reach Lvl 27 after Pidgeotto_
+    * _Reach Lvl 27_
 
 ## Lt. Surge (Split 9)
 
@@ -305,6 +305,7 @@ of them are. I try to have images any time you need to pick something up, but
   * If you have Spearow and no Paras/Oddish, trade the Spearow for Farfetch'd
     (Dux) in the house above the cut bush blocking the gym.
   * Menu (On the tile before the Cut bush)
+    * Teach Bubblebeam (TM11) over Leer.
     * Swap your slot 1 item with Repel.
     * Teach Cut (HM01) to your Cut slave.
     * Teach Dig (TM28) to Paras or Squirtle if you don't have Paras.
@@ -312,10 +313,10 @@ of them are. I try to have images any time you need to pick something up, but
   * Select the right Trash Cans to pass. ![Cans](Surge_Cans.png)
   * **Surge**
     * _Voltorb Lvl 21, Pikachu Lvl 18, Raichu Lvl 24_
-    * Horn Attack/BubbleBeam
     * Thrash
-    * Thrash/Thrash (cont)
-    * _Reach Lvl 28 after Voltorb_
+    * Thrash (cont)
+    * Thrash (possibly cont)/Thrash (possibly cont)
+    * _Reach Lvl 28_
 
 ## Rock Tunnel (Split 10)
 
@@ -324,7 +325,7 @@ of them are. I try to have images any time you need to pick something up, but
   * Go pick up the bike from the bike shop (down and to the left of the center).
   * Menu (After leaving the shop)
     * Swap your slot 2 item with the bike.
-    * Teach Thunderbolt (TM24) over Water Gun.
+    * Teach Thunderbolt (TM24) over Poison String.
     * Get on the Bike.
   * Head to Route 9 by going down and to the right. (need to cut 2 bushes).
   * **Jr. Trainer**
@@ -336,12 +337,12 @@ of them are. I try to have images any time you need to pick something up, but
     * Thrash (cont)
     * Thrash (poss cont)
     * Thrash (poss cont)
-    * _Reach Lvl 29 after Oddish 2_
   * **Bug Catcher**
     * _Caterpie Lvl 20, Weedle Lvl 20, Venonant Lvl 20_
     * Thunderbolt
     * Thrash
     * Thrash (cont)
+    * _Reach Lvl 29_
   * Follow the map to get through, yellow is for repel, blue is for trainer.
     ![Rock Tunnel 1F](Rock_Tunnel_1F.png)
     ![Rock Tunnel 2F](Rock_Tunnel_2F.png)
