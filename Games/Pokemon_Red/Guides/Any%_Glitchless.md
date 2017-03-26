@@ -659,27 +659,29 @@ of them are. I try to have images any time you need to pick something up, but
     * IceBeam
   * Continue left, then save before the next fight.
   * **BlackBelt**
-    * _TODO_
+    * _Machoke Lvl 38, Machop Lvl 38, Machoke Lvl 38_
     * X Accuracy
     * Horn Drill
     * Horn Drill
     * Horn Drill
+    * _Reach Lvl 46_
   * Exit and re-enter the gym to reset Blackbelt's position and clear the path
     to Giovanni.
   * Use an Elixir.
   * **Giovanni**
-    * _TODO_
+    * _Rhyhorn Lvl 45, Dugtrio Lvl 42, Nidoqueen Lvl 44, Nidoking Lvl 45, Rhydon Lvl 50_
     * IceBeam
     * IceBeam
     * Earthquake
     * Earthquake
     * IceBeam/IceBeam
+    * _Reach Lvl 47_
 
 ## Gary (Split 19)
 
   * Use a Super Repel, then bike West to Victory Road.
   * **Gary**
-    * _TODO_
+    * _Pidgeot Lvl 47, Rhyhorn Lvl 45, Gyarados Lvl 45, Growlithe Lvl 47, Alakazam Lvl 50, Venusaur Lvl 53_
     * **NOTE: Use X Speed instead of X Special if you had 46-48 Speed OR hit any
               extra trainers**
     * X Accuracy
@@ -690,6 +692,7 @@ of them are. I try to have images any time you need to pick something up, but
     * Earthquake
     * Earthquake
     * Horn Drill
+    * _Reach Lvl 48_
 
 ## Victory Road (Split 20)
 
@@ -717,7 +720,7 @@ of them are. I try to have images any time you need to pick something up, but
 
   * Buy 5 Full Restores (Can Skip if you have 2).
   * **Lorelei**
-    * _TODO_
+    * _Dewgong Lvl 54, Cloyster Lvl 53, Slowbro Lvl 54, Jynx Lvl 56, Lapras Lvl 56_
     * Switch to the Flier.
     * X Accuracy
     * Horn Drill
@@ -725,56 +728,59 @@ of them are. I try to have images any time you need to pick something up, but
     * Horn Drill
     * Horn Drill
     * Horn Drill
+    * _Reach Lvl 50_
 
 ## Bruno (Split 22)
 
   * Elixir before the fight. Save if in a race.
   * **Bruno**
-    * _TODO_
+    * _Onix Lvl 53, Hitmonchan Lvl 55, Hitmonlee Lvl 55, Onix Lvl 56, Machamp Lvl 58_
     * X Accuracy
     * IceBeam
     * Horn Drill
     * Horn Drill
     * IceBeam
     * Horn Drill
+    * _Reach Lvl 51_
 
 ## Agatha (Split 23)
 
   * Heal to Full.
   * **Agatha**
-    * _TODO_
+    * _Gengar Lvl 56, Golbat Lvl 56, Haunter Lvl 55, Arbok Lvl 58, Gengar Lvl 60_
     * **NOTE: If you get put to sleep, use the Poke Flute immediately. If you
               get Hazed, you lose your X Accuracy, so IB x2 Golbat and EQ
               Arbok.**
-    * X Accuracy
     * X Speed
     * Earthquake
-    * Horn Drill
+    * Ice Beam/Ice Beam
     * Earthquake
-    * Horn Drill
     * Earthquake
+    * Earthquake
+    * _Reach Lvl 52_
 
 ## Lance (Split 24)
 
   * Stop at least two steps before Lance. Heal to 150+ HP, use the Ether on Horn
     Drill and save.
   * **Lance**
-    * _TODO_
+    * _Gyarados Lvl 58, Dragonair Lvl 56, Dragonair Lvl 56, Aerodactyl Lvl 60, Dragonite Lvl 62_
     * **NOTE: Use a second X Special on the second Dragonair if you had <44
               Special at Lv. 23 
     * X Special
     * Thunderbolt
+    * Ice Beam
     * X Speed
-    * IceBeam
-    * IceBeam
-    * IceBeam
-    * IceBeam
+    * Ice Beam
+    * Ice Beam
+    * Ice Beam
+    * _Reach Lvl 53_
 
 ## Champion (Split 25)
 
-  * Heal to 55+ HP.
+  * Heal to 55+ HP. Use an Elixir as well.
   * **Gary**
-    * _TODO_
+    * _Pidgeot Lvl 61, Alakazam Lvl 59, Rhydon Lvl 61, Gyarados Lvl 61, Arcanine Lvl 63, Venusaur Lvl 65_
     * **NOTE: If Pidgeot charges Sky Attack on turn 1, use a Full Restore.**
     * X Speed
     * X Accuracy
@@ -784,6 +790,10 @@ of them are. I try to have images any time you need to pick something up, but
     * Horn Drill
     * Horn Drill
     * Horn Drill
+
+## Hall of Fame (Split 26)
+
+  * Split after fade out into credits.
 
 [1]: http://www.speedrun.com/pkmnredblue/guide/5y94k
 [2]: https://www.youtube.com/watch?v=PR1pviH6HOk&t=3069s
