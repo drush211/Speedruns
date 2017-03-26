@@ -789,7 +789,7 @@ You can find general knowledge that will be useful with any route you take
     * _Defender_ (Common)
     * _FreeFall_ (Rare)
 
-## It's that Damned Solt and Peppor Again (Split 30)
+## Fucking Dario... (Split 30)
 
   * **Guillot (1051/9)**
     * Harle - EagleEye Lynx
@@ -818,9 +818,6 @@ You can find general knowledge that will be useful with any route you take
     * Karsh - 3
     * _Denadorite/Denadorite_ (Common)
     * _Stone Vest/Stone Mail_ (Rare)
-
-## Dario and Earth Dragon (Split 31)
-
   * Head to Hermit's Hideaway
   * Go talk to Riddel and rename her to R.
   * Once you have access to Marcy, put her in the party, then add Riddel
@@ -847,7 +844,7 @@ You can find general knowledge that will be useful with any route you take
     * Lynx (Equip) - Stone Vest/Dragoon Gauntlet/Dragoon Gauntlet
     * Marcy (Equip) - Magic Ring/Dragoon's Honor
     * Lynx (Elements) - Level 1 replace TurnWhite with Revive/TurnRed (add)
-    * Marcy (Elements) - Level 1 TurnRed/Strengthen/EagleEye/WeakMinded/WeakMinded,
+    * Marcy (Elements) - Level 1 TurnRed/Strengthen/EagleEye/WeakMinded/WeakMinded/Genius,
                          Level 4 IceBlast/IceBlast/IceBlast/IceBlast/IceBlast
                          (both last IceBlasts are optional if Mag > 20),
                          Level 5 - IceBlast/IceBlast,
@@ -870,8 +867,9 @@ You can find general knowledge that will be useful with any route you take
     * Marcy - 1/1/1 until maxed/IceBlast
     * Marcy repeat since you have Dario in a loop.
     * _Dreamer's Scarf_ (Common/Rare)
-  * No split there. Yeah I know that is crazy you don't get a star for that
-    right?
+
+## Earth Dragon (Split 31)
+
   * Switch Riddel for Fargo
   * Menu
     * Lynx (Equip) - Mastermune/Remove Dreamer's Scarf
@@ -893,7 +891,7 @@ You can find general knowledge that will be useful with any route you take
     when it gets in position to be exploded.
   * **RockRoach**
     * Marcy - EagleEye Lynx
-    * Fargo - 1/TurnGreen Lynx
+    * Fargo - TurnGreen Lynx
     * Lynx - 3/3
     * Fargo - 2/2/2
     * Lynx - 3/3
@@ -1115,14 +1113,14 @@ You can find general knowledge that will be useful with any route you take
 ## Vita Unus (Split 38)
 
   * Up the elevator, and head to the top of the fort.
-  * Cutscene 1:45
+  * Cutscene 1:45 (have to mash until it starts)
   * Menu
     * Serge (Equip) - Dragoon's Gauntlet/Dragoon's Gauntlet/Power Seal
     * Fargo (Equip) - Elbow Pad (Remove Dreamer's Scarf)
     * Marcy (Equip) - Dreamer's Scarf (Remove Magic Ring)
   * Head to the Dead Sea Ruins, and enter the Fate Distortion.
   * Disk Swap
-  * Do the islands in the order Upper Right, Lower Right, back to where we
+  * Do the islands in the order Upper Right, Lower Left, back to where we
     started. (Counter Clockwise)
   * [**Vita Unus (2375/7)**][45]
     * Serge - 1/2/2

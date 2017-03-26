@@ -3,7 +3,32 @@
 Any % run on Emulator. I own the game on IPad, but that's not exactly a runnable
 form. I've based my route off of a speed run from an [RPG Limit Break][1] run.
 
-NOTE: Time starts after name is selected, and enter hit.
+## General Information
+
+### Level Guide
+
+| Level | Experience | Spell        |
+|-------|------------|--------------|
+| 1     | 0          | ---          |
+| 2     | 7          | ---          |
+| 3     | 23         | Heal         |
+| 4     | 47         | Hurt         |
+| 5     | 110        | ---          |
+| 6     | 220        | ---          |
+| 7     | 450        | Sleep        |
+| 8     | 800        | ---          |
+| 9     | 1,300      | Radiant      |
+| 10    | 2,000      | Stopspell    |
+| 11    | 2,900      | ---          |
+| 12    | 4,000      | Outside      |
+| 13    | 5,500      | Return       |
+| 14    | 7,500      | ---          |
+| 15    | 10,000     | Repel        |
+| 16    | 13,000     | ---          |
+| 17    | 16,000     | Healmore     |
+| 18    | 19,000     | ---          |
+
+**NOTE: Time starts after name (Gyre) is selected, and enter hit.**
 
 ## Pixie Flute (Split 1)
 
@@ -18,8 +43,10 @@ NOTE: Time starts after name is selected, and enter hit.
     * Accessory - Dragon Scale
   * Leave town.
   * Walk along forests and mountains (increased encounter rate) to get in fights
-    to gain levels and head to Kol (North East part of the map). If you fight a
-    Spooky you should use a torch, Scorpion run away.
+    to gain levels and head to Kol (North East part of the map). You should stay
+    in close until you get to Lvl 2 via Red Slime and Slime creatures.
+  * After you get to Lvl 2 you can move towards Kol and use a torch if you need
+    to kill a stronger monster.
   * Enter Kol and pickup the PixieFlute from in front of the guy just below the
     pool.
 
@@ -30,24 +57,28 @@ NOTE: Time starts after name is selected, and enter hit.
   * Menu
     * Equip - Clothing
     * Strength Seed.
-  * Leave Kol and head to Garinham (North West part of the map). You should get
-    to Level 4 before entering.
-  * Stay at the inn.
+  * Die to the damaging floor, and warp back to the castle.
+  * Leave Kol and head West. You should get to Level 4 before crossing the
+    bridge. After crossing the bridge fight a couple of fights using Fireball,
+    and then head to Kol (North).
   * Item Shop (Top Left) - Dragon Scale/Torch/Herbs until item slots are full.
-  * Head to the Moutain Cave. ![Mountain Cave](./Mountain_Cave_Map.gif)
-  * Use a torch.
+  * Head to the Western Cave.
+    ![Western Cave 1](Western_Cave_1.gif)
+    ![Western Cave 2](Western_Cave_2.gif)
+  * You can fight Magicians, but should Fireball anything else.
+  * Use a torch. **Skip this if doing choker first.**
   * Head to the 2nd floor, and pick up the Strength Seed. Use it, then pick up
     the Mystic Nut and use it also. Stay on the second floor and pick up the
-    iron shield as well.
+    iron shield as well. You must come out of this with a full set of items for
+    the next part.
   * Go to the Choker chest and don't discard any items until you get it. RNG as
     far as when it will show up, but you can keep trying as long as you don't
     free up a spot in the inventory.
 
-## Iron Armor (Split 3)
+## Level 7 (Split 3)
 
   * Pick up the chest with 570G in the room to the left.
-  * Fight enemies trying to get to level 6. At level 6 die and return to the
-    castle.
+  * Fight enemies trying die and return to the castle.
   * Use the warp wing to teleport outside.
   * Head to the swamp cave fighting any enemy you come across.
   * Go through the cave and go to Rimuldar. Go to the "secret" area at the top
@@ -56,21 +87,12 @@ NOTE: Time starts after name is selected, and enter hit.
   * Exit the city and re-enter. Go to the inn and use 2 keys to get the life
     acorn in the bottom right. Use it and stay at the inn.
   * Weapon Shop (Top Right)
-    * Sell - Club/Choker/Dragon Scale
-    * Buy - Iron Sword
+    * Sell - Club/Choker
+    * Buy - Steel Sword
   * Grab the warp wing from the drawers to the left of the Weapon Shop, then
     talk to the merchant above the shop.
   * Shop
     * Buy - 2 warp wings/Herbs until you run out of space
-  * Grind just outside of town for 1000G + herb money, healing with herbs when
-    necessary.
-  * Shop
-    * Buy - Herbs
-    * Sell - Cloth Armor
-    * Buy - Iron Armor
-
-## Level 9 (Split 4)
-
   * Use a warp wing.
   * Enter the castle and go to the treasure room. Open the chest with the mystic
     nut (2nd from bottom) and use it. Then open all of the other chests. Use the
@@ -80,21 +102,28 @@ NOTE: Time starts after name is selected, and enter hit.
   * Talk to the sage and get the stone. Then use a warp wing to skip the
     dialogue.
   * Head to Garinham.
-  * Stay at the inn, then enter the locked door above the inn. Take the torch
-    and 680G chests (top right/left). Then enter the cave.
-  * Grab the 3 chests with a Life Acorn, Key, and money.
-  * Pick up the Shiny Harp, and use it to get into fights to get to Lvl 9, then
-    take a death.
+  * Stay at the inn.
+  * Weapon Shop
+    * Buy - Chain Mail
+  * Enter the locked door above the inn. Take the torch in the top right chest.
+    Then enter the cave.
+    ![Grave of Garin](Grave_of_Garin_Map.png)
+  * Use the torch on the first floor, and grab the 3 chests with a Life Acorn,
+    Key, and money.
+  * Pick up the Shiny Harp, and use it to get into fights to get to Lvl 7, then
+    keep fighting without healing until you take a death.
 
 ## Golem (Split 5)
 
   * Use a warp wing to leave.
   * Head to Cantlin. You should fight battles with weak enemies and metal slimes
     only. If unsure, run.
-  * **Golem**
+  * **Golem (135 HP)**
     * Use the Pixie Flute to keep him asleep and stay healed.
+    * You can usually do 2 turns before he wakes up, and you should be doing
+      somewhere between 12-15 damage, so you can likely assume 10 hits to kill.
 
-## Dragon Loop (Split 6)
+## Dragon Loop (Split 6) 43:00
 
   * Use all herbs to clear up inventory, and then go drop off all items except
     the sword/shield/armor and 2 keys.
