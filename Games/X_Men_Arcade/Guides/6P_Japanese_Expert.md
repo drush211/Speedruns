@@ -173,7 +173,8 @@ forward instead of back which is faster as well.
   * Kill the congregated group and continue right.
   * Move past the first wave of 5 enemies, then ult the next group.
   * Ult the far right.
-  * Wait for the sentinels to come in, then ult the group. Die on the next screen.
+  * Wait for the sentinels to come in, then ult the group. Die on the next
+    screen.
   * Ult when the fifth tank-man comes out.
   * Move towards the middle and ult when you can clear down to 5.
   * **Juggernaut**

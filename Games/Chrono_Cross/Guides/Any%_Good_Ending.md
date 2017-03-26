@@ -1164,7 +1164,7 @@ You can find general knowledge that will be useful with any route you take
     the robot and cross the area to extend the bridge. Head up the ladder and
     through the door at the top. Go Right, then up the stairs to floor 2. Head
     to the room with the map and enable security lock 2. Now take the elevator
-    to floor 2. To the right, and start the scientist conversation.
+    to floor 4. To the right, and start the scientist conversation.
   * Head down the elevator back to the first floor. Take the entrance to the
     left, and talk to the scientist on the dock.
   * Back to floor 4, and enter the room to the left. Now move the mech fully to
@@ -1237,7 +1237,7 @@ You can find general knowledge that will be useful with any route you take
     collapsing bridge on the upper left. Now go through and talk to the creepy
     talking head thing.
   * Continue up and take the coral ladder up. And circle to the right then head
-    down, then up again and take the exit on the right.
+    down, then all the way up again and take the exit on the right.
   * Careful on this screen as these enemies chase you. Head up the ladder, then
     to the next ladder, then left to the next one. Keep heading up to the top.
   * Knock down both totems, then cross them to the next room. Head up and to the
@@ -1348,7 +1348,7 @@ You can find general knowledge that will be useful with any route you take
       * Glenn - Get Serge to 5 Stamina/Strengthen Serge
       * Fargo - EagleEye Serge
       * Serge - 3 then 3
-      * **_Phase (Red)_**
+      * **_Phase 3 (Red)_**
       * Glenn - TurnBlue Serge
       * Fargo - 1/1/1 until Serge 6 Stamina/Vigora Serge
       * Serge - 3 then 3
@@ -1379,8 +1379,8 @@ You can find general knowledge that will be useful with any route you take
   * Head to Divine Dragon Falls. Altars to get Chrono Cross.
   * Menu
     * Serge (Elements) - Level 1 Chrono Cross
-  * To Opassa Beach and go to the other world. Go to the purple vapor, and
-    select the time egg to start the fight.
+  * To Opassa Beach and go to another world. Go to the purple vapor, and select
+    the time egg to start the fight.
   * [**Time Devourer (10)**][56]
     * Serge - 1/1/1 (Get to Lvl 3)
     * Glenn - 1 (Get to Lvl 2)
