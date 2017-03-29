@@ -28,11 +28,13 @@ form. I've based my route off of a speed run from an [RPG Limit Break][1] run.
 | 17    | 16,000     | Healmore     |
 | 18    | 19,000     | ---          |
 
-**NOTE: Time starts after name (Gyre) is selected, and enter hit.**
+**NOTE: Time starts after name (DRsh) is selected, and enter hit.**
 
 ## Pixie Flute (Split 1)
 
-  * Name your character Gyre for stat manipulation towards more strength.
+  * [Name][Naming Information] your character Gyre for stat manipulation towards
+    more strength and HP. Take a look at the name guide to modify the name to
+    your liking if you wish.
   * Grab the first 3 chests, and the pot downstairs to the right.
   * Enter the town to the right of the castle.
   * Weapons Shop - Club
@@ -118,7 +120,7 @@ form. I've based my route off of a speed run from an [RPG Limit Break][1] run.
   * Use a warp wing to leave.
   * Head to Cantlin. You should fight battles with weak enemies and metal slimes
     only. If unsure, run.
-  * **Golem (153 HP)**
+  * **[Golem][Golem Info] (153 HP)**
     * Use the Pixie Flute to keep him asleep and stay healed.
     * You can usually do 2 turns before he wakes up, and you should be doing
       somewhere between 12-15 damage, so you can likely assume 10 hits to kill.
@@ -196,3 +198,5 @@ form. I've based my route off of a speed run from an [RPG Limit Break][1] run.
 
 [1]: https://www.youtube.com/watch?v=umtL8f2YkY0
 [2]: ./DragonLord_Castle.gif
+[Golem Info]: ./golem.md
+[Naming Information]: ./GBC_Names.ods
