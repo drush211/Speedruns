@@ -99,7 +99,7 @@ form. I've based my route off of a speed run from an [RPG Limit Break][1] run.
     agility seed when you get it. Replenish your keys in the upper right of the
     castle, then go to the sages room.
   * Open both drawers for items and use the Life Acorn.
-  * Talk to the sage and get the stone. Then use a warp wing to skip the
+  * Talk to the sage and get the sun stone. Then use a warp wing to skip the
     dialogue.
   * Head to Garinham.
   * Stay at the inn.
@@ -113,69 +113,85 @@ form. I've based my route off of a speed run from an [RPG Limit Break][1] run.
   * Pick up the Shiny Harp, and use it to get into fights to get to Lvl 7, then
     keep fighting without healing until you take a death.
 
-## Golem (Split 5)
+## Golem (Split 4)
 
   * Use a warp wing to leave.
   * Head to Cantlin. You should fight battles with weak enemies and metal slimes
     only. If unsure, run.
-  * **Golem (135 HP)**
+  * **Golem (153 HP)**
     * Use the Pixie Flute to keep him asleep and stay healed.
     * You can usually do 2 turns before he wakes up, and you should be doing
       somewhere between 12-15 damage, so you can likely assume 10 hits to kill.
+    * _Exp Given 2500_
 
-## Dragon Loop (Split 6) 43:00
+## Dragon Loop Lvl 13 (3 Dragons) (Split 5)
 
   * Use all herbs to clear up inventory, and then go drop off all items except
     the sword/shield/armor and 2 keys.
-  * Go to the inn and pick up the Defense seed from the drawers then use it.
+  * Go to the inn and pick up the Defense seed from the drawers.
     Stay at the inn, then go across and buy a full set of keys.
-  * Go down from the key seller, and open the drawers for a mystic nut, then use
-    it.
+  * Go down from the key seller, and open the drawers for a mystic nut.
   * Go to the item shop and buy a warp wing.
-  * Go to the bottom shop and buy repellent. Use 1, then fill your inventory
-    with the rest. Use the warp wing.
-  * Head to the swamp cave (using repellent where necessary), and cast radiant.
-    Then go and fight the dragon.
-  * **Dragon**
-    * Do 2 attacks, then alternate between heal/attack unless the dragon misses
-      or your health becomes too low.
+  * Go to the bottom shop and buy repellent. Use 1, the mystic nut, the defense
+    seed, then fill your inventory with the rest. Use the warp wing.
+  * Head to the swamp cave (using repellent 3 steps out of the top damage
+    tiles), and cast radiant. Then go and fight the dragon.
+  * **Dragon (170 HP)**
+    * Start with 2 attacks, then heal if you are at or around 30 HP. You should
+      be doing somewhere between 16-21 per attack, so it's safe to assume 10
+      attacks to kill.
+    * _Exp Given 900_
   * Cast outside, then die to the swamp and repeat the last steps to fight the
     dragon again. Once you are level 13 you can cast return to speedy leave the
-    castle. Should be level 14 by the last dragon.
-  * Head to the keys shop and max out your keys. Then go talk to the guy past
-    the deadly steps and die on them. 
+    castle.
+
+## Dragon Loop Lvl 15 (7 Dragons) (Split 6)
+
   * Head to the nearby town and max out on repellents (top right item shop
     (needs key)).
   * Cast Return to land outside the castle.
+  * Go fight the Dragon, then head to the keys shop and max out your keys. Then
+    go to the deadly steps and die on them.
+  * Fight the Dragon 3 more times to get to level 15.
+
+## Dragon Loop Lvl 16 (11 Dragons) (Split 7)
+
+  * Cast outside, then repel, then die to the damage tiles.
   * Go fight the Dragon again, and repeat this until level 16.
+  * After Dragon fight 9 replenish keys back at the castle.
 
-## The Loto Armor (Split 7)
+## The Loto Armor (Split 8)
 
-  * Go to the Northern Cave and pickup the Sun Stone.
-  * Go to Rimuldar and fight the MadKnight guarding the armor.
-  * **MadKnight**
-    * Just keep attacking and praying no sleep or death.
+  * Fight 1 more Dragon, then go pick up your items from the town. Scale, keys,
+    harp, and the Sun Stone.
+  * Fight the Dragon again, then go pick up the RainStaff to the NorthEast of
+    here.
+  * Cast Return and head to Rimuldar and fight the MadKnight guarding the armor.
+  * **MadKnight (67 HP)**
+    * Cast StopSpell.
+    * Just keep attacking, casting HealMore if you really need it.
+  * Pick up and equip the Loto Armor.
 
-## Lvl 18 (Split 8)
+## Lvl 18 (Split 9)
 
   * Go to the swamp under Caitlin and grab the Loto Seal.
-  * Get to Lvl 17 and then die to return to the castle (slightly faster then
-    going to the inn for MP).
   * Go to the Southern Cave with the RainStaff and the Sun Stone to create the
     Rainbow Droplet to cross the bridge.
-  * Go back to Rimuldar to max out with herbs.
+  * Go back to Rimuldar to max out with herbs and a torch. Also stay at the inn.
   * Go to the DragonLord's castle.
-  * Go get the Loto Sword. ![DragonLord Castle Map][2]
+  * Go get the Loto Sword.
+    ![DragonLord Castle Map][2]
   * Fight enemies until you reach Lvl 18 making your way down to the DragonLord
     floor. Pick up the bottom right and middle left chest and use the items.
 
-## DragonLord (Split 9)
+## DragonLord (Split 10)
 
   * Once Lvl 18, return to the city to max out on herbs and a couple torches.
   * Head back to the DragonLord's castle and head to fight him.
-  * **DragonLord**
-    * ???
-  * **DragonLord Dragon Form**
+  * **DragonLord (HP 204)**
+    * You need what is basically 6 attacks (34-40 per hit), and his healmore
+      spell takes away basically 2 of them (really 2+). Crits count as 3 hits.
+  * **DragonLord Dragon Form (HP 361)**
     * ???
 
 [1]: https://www.youtube.com/watch?v=umtL8f2YkY0
