@@ -22,6 +22,7 @@ are really any memorable characters, but definitely some memorable moments.
 
 ## Splits
 
+  * [Defeat Lynx][10]
   * [Any % Good Ending][6]
 
 ## Layouts
@@ -37,3 +38,4 @@ are really any memorable characters, but definitely some memorable moments.
 [7]: ./Layouts/Chrono_Cross.lsl
 [8]: https://www.twitch.tv/evilash25
 [9]: https://discordapp.com/invite/0XU29pWZvyu0YCVH
+[10]: ./Splits/Defeat_Lynx.lss

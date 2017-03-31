@@ -192,9 +192,11 @@ form. I've based my route off of a speed run from an [RPG Limit Break][1] run.
   * Head back to the DragonLord's castle and head to fight him.
   * **DragonLord (HP 204)**
     * You need what is basically 6 attacks (34-40 per hit), and his healmore
-      spell takes away basically 2 of them (really 2+). Crits count as 3 hits.
+      spell takes away 2 of them (really 2+). Crits count as 3 hits.
   * **DragonLord Dragon Form (HP 361)**
-    * ???
+    * Go in a 1-2-3-4 cycle here, where 1 and 2 are strong attacks, 3 is a weak,
+      and 4 is a medium/strong. As long as you control your HP here, you should
+      be able to handle this fight pretty easily (assuming MP isn't an issue).
 
 [1]: https://www.youtube.com/watch?v=umtL8f2YkY0
 [2]: ./DragonLord_Castle.gif
