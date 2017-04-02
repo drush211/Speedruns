@@ -11,6 +11,11 @@ are the ones I take for learning to speed run.
 The most important part is picking a game you actually want to run. If you don't
 like the game you might as well call it.
 
+## Game Boy Specific Section
+
+Go to this [link][GB Speed Running Explained] to find information about running
+Game Boy games.
+
 ## Find a Marathon Run
 
 The first thing I do when I have a game I want to run is go and find a marathon
@@ -63,3 +68,5 @@ ready to have any kind of good time since this is the first time you are running
 the game, but you've pretty much capped what you can do without just running the
 game. Doing full runs will build your stamina, and also expose areas where you
 really need more practice.
+
+[GB Speed Running Explained]: http://gbrunners.com/game-boy-speedrunning-explained

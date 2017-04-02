@@ -120,7 +120,7 @@ form. I've based my route off of a speed run from an [RPG Limit Break][1] run.
   * Use a warp wing to leave.
   * Head to Cantlin. You should fight battles with weak enemies and metal slimes
     only. If unsure, run.
-  * **[Golem][Golem Info] (153 HP)**
+  * **[Golem][Golem Info] (150 HP)**
     * Use the Pixie Flute to keep him asleep and stay healed.
     * You can usually do 2 turns before he wakes up, and you should be doing
       somewhere between 12-15 damage, so you can likely assume 10 hits to kill.
@@ -138,7 +138,7 @@ form. I've based my route off of a speed run from an [RPG Limit Break][1] run.
     seed, then fill your inventory with the rest. Use the warp wing.
   * Head to the swamp cave (using repellent 3 steps out of the top damage
     tiles), and cast radiant. Then go and fight the dragon.
-  * **Dragon (170 HP)**
+  * **Dragon (165 HP)**
     * Start with 2 attacks, then heal if you are at or around 30 HP. You should
       be doing somewhere between 16-21 per attack, so it's safe to assume 10
       attacks to kill.
@@ -172,31 +172,37 @@ form. I've based my route off of a speed run from an [RPG Limit Break][1] run.
   * **MadKnight (67 HP)**
     * Cast StopSpell.
     * Just keep attacking, casting HealMore if you really need it.
-  * Pick up and equip the Loto Armor.
+  * Pick up the Loto Armor.
 
 ## Lvl 18 (Split 9)
 
+  * Menu
+    * Equip the Loto Armor, and Dequip the Iron Shield.
   * Go to the swamp under Caitlin and grab the Loto Seal.
+  * Take off the Loto Armor and fight until you die.
+  * Go fight the Dragon, then die.
+  * Pick up 2 keys, then go fight the Dragon again.
   * Go to the Southern Cave with the RainStaff and the Sun Stone to create the
     Rainbow Droplet to cross the bridge.
   * Go back to Rimuldar to max out with herbs and a torch. Also stay at the inn.
   * Go to the DragonLord's castle.
   * Go get the Loto Sword.
     ![DragonLord Castle Map][2]
-  * Fight enemies until you reach Lvl 18 making your way down to the DragonLord
-    floor. Pick up the bottom right and middle left chest and use the items.
+  * Fight enemies going through here to reach level 18. Flee fights with
+    RockGolem, BlueDragon, and AxeKnight. RedDragon is what you are hoping for.
 
 ## DragonLord (Split 10)
 
   * Once Lvl 18, return to the city to max out on herbs and a couple torches.
   * Head back to the DragonLord's castle and head to fight him.
-  * **DragonLord (HP 204)**
+  * **DragonLord (HP 200)**
     * You need what is basically 6 attacks (34-40 per hit), and his healmore
       spell takes away 2 of them (really 2+). Crits count as 3 hits.
-  * **DragonLord Dragon Form (HP 361)**
+  * **DragonLord Dragon Form (HP 350)**
     * Go in a 1-2-3-4 cycle here, where 1 and 2 are strong attacks, 3 is a weak,
       and 4 is a medium/strong. As long as you control your HP here, you should
-      be able to handle this fight pretty easily (assuming MP isn't an issue).
+      be able to handle this fight with a bit of good luck on speed. You need
+      probably around 12-13 hits assuming 27 damage each time.
 
 [1]: https://www.youtube.com/watch?v=umtL8f2YkY0
 [2]: ./DragonLord_Castle.gif
