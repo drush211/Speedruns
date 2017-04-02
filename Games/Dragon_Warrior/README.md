@@ -7,6 +7,7 @@ GameBoy remake.
 
   * [EvilAsh25][1]
   * [StarOfViolence][2]
+  * [Gyre][Gyre]
   * [RPG Limit Break][6]
 
 ## Discord
@@ -26,9 +27,10 @@ GameBoy remake.
   * [Dragon Warrior Layout][5]
 
 [1]: https://www.twitch.tv/evilash25
+[Gyre]: https://www.twitch.tv/gyre
 [2]: https://www.twitch.tv/starofviolence
 [3]: ./Guides/Any%25.md
-[4]: ./Splits/Dragon_Warrior.lss
+[4]: ./Splits/Dragon_Warrior_1_GBC_Any%25.lss
 [5]: ./Layouts/Dragon_Warrior.lsl
 [6]: https://www.twitch.tv/rpglimitbreak
 [7]: https://discordapp.com/invite/2rdpkGS
