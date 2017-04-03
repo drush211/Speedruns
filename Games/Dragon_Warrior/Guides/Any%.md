@@ -30,9 +30,9 @@ right before RPG Limit Break.
 | 17    | 16,000     | Healmore     |
 | 18    | 19,000     | ---          |
 
-### Thread Counter
+### Threat Counter
 
-For each step you take, the thread counter will rise. This includes steps in
+For each step you take, the threat counter will rise. This includes steps in
 town. You can utilize this to force encounters out of town earlier than you
 normally would get them from just walking around.
 
@@ -241,4 +241,4 @@ normally would get them from just walking around.
 [2]: ./DragonLord_Castle.gif
 [Golem Info]: ./golem.md
 [Naming Information]: ./GBC_Names.ods
-[Evil Ash] http://twitch.tv/evilash25
+[Evil Ash]: http://twitch.tv/evilash25
