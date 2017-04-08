@@ -1,6 +1,9 @@
 # Intellij Files
 .idea/*
 
+# StreamLabs Files
+/OBS/StreamLabs/*
+
 # Media Files
 StreamFiles/*
 Recordings/*

@@ -150,9 +150,9 @@ normally would get them from just walking around.
     * Use the Pixie Flute to keep him asleep and stay healed.
     * You can usually do 2 turns before he wakes up, and you should be doing
       somewhere between 12-15 damage, so you can likely assume 10 hits to kill.
-    * _Exp Given 2500_
+    * _Exp Given 2500 -> 3300 Total_
 
-## Dragon Loop Lvl 13 (3 Dragons) (Split 5)
+## Dragon Loop: Level 12 (1 Dragon) (Split 5)
 
   * Use all herbs to clear up inventory, and then go drop off all items except
     the sword/shield/armor and 2 keys.
@@ -166,54 +166,73 @@ normally would get them from just walking around.
     tiles), and cast radiant. Then go and fight the dragon. Note you can't use
     a repellent in the cave.
   * **Dragon (165 HP)**
-    * Start with 2 attacks, then heal if you are at or around 30 HP. You should
-      be doing somewhere between 16-21 per attack, so it's safe to assume 10
-      attacks to kill.
-    * _Exp Given 900_
-  * Cast outside, then die to the swamp and repeat the last steps to fight the
-    dragon again. Once you are level 13 you can cast return to speedy leave the
-    castle.
+    * You should be around 60-65 HP.
+    * Start with 2 attacks, then heal if you are at or around 30 HP.
+    * You should be doing somewhere between 16-21 per attack, so it's safe to
+      assume 10 attacks to kill.
+    * _Exp Given 950 -> 4250 Total_
 
-## Dragon Loop Lvl 15 (7 Dragons) (Split 6)
+## Dragon Loop: Level 13 (3 Dragons) (Split 6)
+
+  * Dragon - 8 attacks
+  * Cast outside, then die to the swamp.
+  * Head to the dragon and repeat the last steps again. Should be 8 attacks this
+    time. Fight him twice.
+  * _Exp Given 1900 -> 6150 Total_
+
+## Dragon Loop: Level 14 (5 Dragons) (Split 7)
 
   * Head to the nearby town and max out on repellents (top right item shop
     (needs key)).
-  * Cast Return to land outside the castle.
-  * Go fight the Dragon, then head to the keys shop and max out your keys. Then
-    go to the deadly steps and die on them.
-  * Fight the Dragon 3 more times to get to level 15.
+  * Dragon - 7 attacks
+  * Fight the dragon.
+  * Head to the keys shop and max out your keys, then die to the damage steps
+    there.
+  * Go fight the Dragon again.
+  * _Exp Given 1900 -> 8050 Total_
 
-## Dragon Loop Lvl 16 (11 Dragons) (Split 7)
+## Dragon Loop: Lvl 15 (7 Dragons) (Split 8)
+
+  * Dragon - 7 Attacks
+  * Fight the dragon twice.
+  * _Exp Given 1900 -> 9950 Total_
+
+## Dragon Loop: Refill those Keys (9 Dragons) (Split 9)
 
   * Menu
     * Un-Equip the Iron Shield
     * Cast Outside
   * Once outside die to the damage tiles.
-  * Go fight the Dragon again, and repeat this until level 16.
   * After Dragon fight 9 replenish keys back at the castle.
+  * _Exp Given 1900 -> 11850 Total_
 
-## The Loto Armor (Split 8)
+## Dragon Loop Lvl 16 (11 Dragons) (Split 10)
 
-  * Fight 1 more Dragon, then go pick up your items from the town. Scale, keys,
-    harp, and the Sun Stone.
-  * Fight the Dragon again (Lvl 17), then go pick up the RainStaff to the
-    NorthEast of here.
-  * Cast Return and head to Rimuldar and fight the MadKnight guarding the armor.
+  * Fight the Dragon 2 more times.
+  * _Exp Given 1900 -> 13750 Total_
+
+## Dragon Loop: Lvl 17 (14 Dragons) (Split 11)
+
+  * Fight the Dragon 2 more times.
+  * Go pick up your items from the town. Scale, keys, harp, and the Sun Stone.
+  * Now go fight the Dragon again.
+  * _Exp Given 2850 -> 16600 Total_
+
+## The Loto Seal (Split 12)
+
+  * Go pick up the RainStaff to the NorthEast of here.
+  * Cast Return and head to the Ruined City and fight the MadKnight guarding the
+    armor.
   * **MadKnight (67 HP)**
     * Cast StopSpell.
     * Just keep attacking, casting HealMore if you really need it.
   * Pick up the Loto Armor.
-
-## Lvl 18 (Split 9)
-
-  * Menu
-    * Un-equip the Iron Shield.
-    * Heal if necessary (should be around 80-100 HP)
-  * Go to the swamp under Caitlin and grab the Loto Seal.
-  * Fight until you die.
   * Menu
     * Equip the Loto Armor.
-  * Go fight the Dragon.
+  * Go to the swamp under Caitlin and grab the Loto Seal.
+
+## DragonLord's Castle (Split 13)
+
   * Go to the Southern Cave with the RainStaff and the Sun Stone to create the
     Rainbow Droplet to cross the bridge.
   * Go back to Rimuldar to max out with herbs and a torch. Also stay at the inn.
@@ -224,18 +243,21 @@ normally would get them from just walking around.
   * Fight enemies going through here to reach level 18. Flee fights with
     RockGolem, BlueDragon, and AxeKnight. RedDragon is what you are hoping for.
 
-## DragonLord (Split 10)
+## DragonLord 1 (Split 14)
 
-  * Once Lvl 18, return to the city to max out on herbs and a couple torches.
-  * Head back to the DragonLord's castle and head to fight him.
   * **DragonLord (HP 200)**
     * You need what is basically 6 attacks (34-40 per hit), and his healmore
       spell takes away 2 of them (really 2+). Crits count as 3 hits.
+
+## DragonLord 1 (Split 15)
+
   * **DragonLord Dragon Form (HP 350)**
     * Go in a 1-2-3-4 cycle here, where 1 and 2 are strong attacks, 3 is a weak,
       and 4 is a medium/strong. As long as you control your HP here, you should
       be able to handle this fight with a bit of good luck on speed. You need
       probably around 12-13 hits assuming 27 damage each time.
+  * Return to the castle.
+  * Time ends when the king finishes talking to you.
 
 [1]: https://www.youtube.com/watch?v=umtL8f2YkY0
 [2]: ./DragonLord_Castle.gif

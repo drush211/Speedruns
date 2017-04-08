@@ -38,6 +38,12 @@ You can test your stream, watch chat, see sample video, etc... This should
 definitely be up during your stream (on a side monitor) so that you can keep
 track of everything that is happening.
 
+## Creating an Overlay
+
+Checkout this [video][Overlay Video] for information on how to create a solid
+overlay to use when streaming.
+
 [1]: http://www.gameshow.net/
 [2]: https://www.amazon.com/gp/product/B004FHO5Y6/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
 [3]: https://www.amazon.com/gp/product/B00G9QTUVE/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1
+[Overlay Video]: https://www.youtube.com/watch?v=EoiuHWvc8K8
