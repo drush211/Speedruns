@@ -111,7 +111,7 @@ normally would get them from just walking around.
     normal. Go to the inn and use 2 keys to get the life acorn in the bottom
     right. Use it and stay at the inn.
   * Weapon Shop (Top Right)
-    * Sell - Club/Choker
+    * Sell - Club/Choker/Cloth
     * Buy - Steel Sword
   * Grab the warp wing from the drawers to the left of the Weapon Shop, then
     talk to the merchant above the shop.
@@ -119,12 +119,14 @@ normally would get them from just walking around.
     * Buy - 2 warp wings/Herbs until you run out of space
   * Use a warp wing.
   * Enter the castle and go to the treasure room. Open the chest with the mystic
-    nut (2nd from bottom) and use it. Then open all of the other chests. Use the
-    agility seed when you get it. Replenish your keys in the upper right of the
-    castle, then go to the sages room.
-  * Open both drawers for items and use the Life Acorn.
-  * Talk to the sage and get the sun stone. Then use a warp wing to skip the
-    dialogue.
+    nut (2nd from bottom) and agility seed (bottom), and use them. Then open all
+    of the other chests. Replenish your keys in the upper right of the castle,
+    then go to the sages room.
+  * Open right drawer for the Life Acorn.
+  * Talk to the sage and get the sun stone.
+  * Menu
+    * Life Acorn
+    * Warp wing to skip the dialogue.
   * Head to Garinham.
   * Stay at the inn.
   * Weapon Shop
@@ -157,7 +159,7 @@ normally would get them from just walking around.
   * Use all herbs to clear up inventory, and then go drop off all items except
     the sword/shield/armor and 2 keys.
   * Go to the inn and pick up the Defense seed from the drawers.
-    Stay at the inn, then go across and buy a full set of keys.
+    Stay at the inn, then go across and buy a full set of keys (5).
   * Go down from the key seller, and open the drawers for a mystic nut.
   * Go to the item shop and buy a warp wing.
   * Go to the bottom shop and buy repellent. Use 1, the mystic nut, the defense
