@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>34</AttemptCount>
+  <AttemptCount>38</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="03/29/2017 01:15:34" isStartedSynced="True" ended="03/29/2017 02:39:09" isEndedSynced="True" />
     <Attempt id="2" started="03/31/2017 00:43:53" isStartedSynced="True" ended="03/31/2017 00:43:56" isEndedSynced="True" />
@@ -34,6 +34,12 @@
     <Attempt id="12" started="04/08/2017 01:00:55" isStartedSynced="True" ended="04/08/2017 01:13:53" isEndedSynced="True" />
     <Attempt id="13" started="04/08/2017 01:15:38" isStartedSynced="True" ended="04/08/2017 01:19:56" isEndedSynced="True" />
     <Attempt id="14" started="04/08/2017 01:20:21" isStartedSynced="True" ended="04/08/2017 02:39:11" isEndedSynced="True" />
+    <Attempt id="15" started="04/08/2017 22:24:33" isStartedSynced="True" ended="04/08/2017 22:27:20" isEndedSynced="True" />
+    <Attempt id="16" started="04/08/2017 22:27:41" isStartedSynced="True" ended="04/08/2017 22:32:33" isEndedSynced="True" />
+    <Attempt id="17" started="04/08/2017 22:33:04" isStartedSynced="True" ended="04/08/2017 22:37:02" isEndedSynced="True" />
+    <Attempt id="18" started="04/08/2017 22:37:29" isStartedSynced="True" ended="04/09/2017 00:19:11" isEndedSynced="True">
+      <RealTime>01:41:42.3110000</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -41,11 +47,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:04:46.7610000</RealTime>
+          <RealTime>00:04:05.6110000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:39.0430000</RealTime>
+        <RealTime>00:04:05.6110000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="14">
@@ -54,6 +60,12 @@
         <Time id="12">
           <RealTime>00:05:10.5700000</RealTime>
         </Time>
+        <Time id="0">
+          <RealTime>00:04:46.7610000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:04:05.6110000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -61,7 +73,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:17:35.5990000</RealTime>
+          <RealTime>00:14:53.7570000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -83,6 +95,9 @@
         <Time id="14">
           <RealTime>00:10:07.9140000</RealTime>
         </Time>
+        <Time id="18">
+          <RealTime>00:10:48.1460000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -90,7 +105,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:29:31.5870000</RealTime>
+          <RealTime>00:27:29.7200000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -112,6 +127,9 @@
         <Time id="14">
           <RealTime>00:12:43.3400000</RealTime>
         </Time>
+        <Time id="18">
+          <RealTime>00:12:35.9630000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -119,7 +137,7 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:38:13.0940000</RealTime>
+          <RealTime>00:36:36.0990000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -138,20 +156,28 @@
         <Time id="14">
           <RealTime>00:27:01.0320000</RealTime>
         </Time>
+        <Time id="18">
+          <RealTime>00:09:06.3790000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Dragon Loop: Lvl 12 (1 Dragon)</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:41:34.5890000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:08:00.7150000</RealTime>
+        <RealTime>00:04:58.4900000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="14">
           <RealTime>00:08:00.7150000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:04:58.4900000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -159,14 +185,19 @@
       <Name>Dragon Loop: Lvl 13 (3 Dragons)</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:44:37.9280000</RealTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:35.3470000</RealTime>
+        <RealTime>00:03:03.3390000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="14">
           <RealTime>00:04:35.3470000</RealTime>
+        </Time>
+        <Time id="18">
+          <RealTime>00:03:03.3390000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -174,82 +205,154 @@
       <Name>Dragon Loop: Lvl 14 (5 Dragons)</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:50:50.7560000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:06:12.8280000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:06:12.8280000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Dragon Loop: Lvl 15 (7 Dragons)</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:56:01.1220000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:05:10.3660000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:05:10.3660000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Dragon Loop: Refill those Keys (9 Dragons)</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:00:23.0130000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:04:21.8910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:04:21.8910000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Dragon Loop: Lvl 16 (11 Dragons)</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:05:09.7630000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:04:46.7500000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:04:46.7500000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Dragon Loop: Lvl 17 (14 Dragons)</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:16:06.6560000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:10:56.8930000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:10:56.8930000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>The Loto Seal</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:19:49.9690000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:03:43.3130000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:03:43.3130000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>DragonLord's Castle</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:26:13.0640000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:06:23.0950000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:06:23.0950000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>DragonLord 1</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:39:23.3370000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:13:10.2730000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:13:10.2730000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>The End</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:41:42.3110000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:02:18.9740000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="18">
+          <RealTime>00:02:18.9740000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />
