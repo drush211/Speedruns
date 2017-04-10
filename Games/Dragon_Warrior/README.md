@@ -17,6 +17,7 @@ GameBoy remake.
 ## Guides
 
   * [Any %][3]
+  * [Condensed Notes][Condensed Notes]
 
 ## Splits
 
@@ -34,3 +35,4 @@ GameBoy remake.
 [5]: ./Layouts/Dragon_Warrior.lsl
 [6]: https://www.twitch.tv/rpglimitbreak
 [7]: https://discordapp.com/invite/2rdpkGS
+[Condensed Notes]: ./Guides/Condensed_Lvl_17_Route.md
