@@ -205,10 +205,8 @@ normally would get them from just walking around.
     * Un-Equip the Iron Shield
     * Cast Outside
   * Once outside die to the damage tiles.
-  * Fight the dragon twice. It should take 5-6 hits to kill the dragon assuming
-    30+ per hit. Really just count your damage +/-30. For example if you have
-    a 34, you are +4, 29 you are -1. If these numbers get to +15 you have him in
-    5, if they don't you need 6 hits.
+  * Fight the dragon twice. Heal before casting radiant in the cave, and mash
+    your 6 hits out.
   * After Dragon fight 9 replenish keys back at the castle.
   * _Exp Given 1900 -> 11850 Total_
 
@@ -217,22 +215,19 @@ normally would get them from just walking around.
   * Fight the Dragon 2 more times.
   * _Exp Given 1900 -> 13750 Total_
 
-## Dragon Loop: Lvl 17 (14 Dragons) (Split 11)
+## Dragon Loop: Just before Lvl 17 (13 Dragons) (Split 11)
 
-  * Fight the Dragon 2 more times. Using the same +30 counting above.
-  * Go pick up your items from the town. Scale, keys, harp, and the Sun Stone.
-  * Now go fight the Dragon again. **NOTE:** If your exp is close to getting you
-    17, you can forego this fight and go to the next section. You won't have
-    healmore, so you will need sleep luck against MadKnight.
-  * _Exp Given 2850 -> 16600 Total_
+  * Fight the Dragon 2 more times. 5 hits, use an item once, don't heal before
+    radiant..
 
 ## The Loto Seal (Split 12)
 
+  * Go pick up your items from the town. Scale, keys, harp, and the Sun Stone.
   * Go pick up the RainStaff to the NorthEast of here.
+  * If you are more than 1200 exp away from Lvl 17, go fight the dragon.
   * Cast Return and head to the Ruined City and fight the MadKnight guarding the
     armor.
   * **MadKnight (67 HP)**
-    * Cast StopSpell.
     * Just keep attacking, casting HealMore if you really need it.
   * Pick up the Loto Armor.
   * Menu
@@ -247,14 +242,7 @@ normally would get them from just walking around.
   * Go to the DragonLord's castle.
   * Go get the Loto Sword.
     ![DragonLord Castle Map][2]
-  * Equip the Loto Sword in the next fight.
-  * Fight enemies going through here to reach level 18. Flee fights with
-    RockGolem, BlueDragon, and AxeKnight. RedDragon is what you are hoping for.
-    **NOTE:** You can also just flee from everyone and try to take the
-              dragonlord at Lvl 17. You do need to come in to the castle at Lvl
-              17 with full MP however. If you do this, you most likely need a
-              critical or the best luck possible. If you do that, add 1 to the
-              needed attacks down below.
+  * Equip the Loto Sword in the DL fight.
 
 ## DragonLord 1 (Split 14)
 
