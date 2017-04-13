@@ -38,7 +38,7 @@ normally would get them from just walking around.
 
 **NOTE: Time starts after name (DRsh) is selected, and enter hit.**
 
-## Pixie Flute (Split 1)
+## Level 4 (Split 1)
 
   * [Name][Naming Information] your character Gyre for stat manipulation towards
     more strength and HP. Take a look at the name guide to modify the name to
@@ -61,9 +61,6 @@ normally would get them from just walking around.
     have low HP, and can die to the damage tiles in there.
   * Enter Kol and pickup the PixieFlute from in front of the guy just below the
     pool.
-
-## Choker (Split 2)
-
   * Open the drawers to the far right (Clothes) and 2nd from the left (Strength
     seed).
   * Die to the damaging floor, and warp back to the castle.
@@ -74,8 +71,12 @@ normally would get them from just walking around.
     * Strength Seed (if you roll a 1 reset and try again)
     * Equip - Clothing
   * Leave Kol and head West. You should get to Level 4 before crossing the
-    bridge. After crossing the bridge fight a couple of fights using Fireball,
-    and then head to Kol (North).
+    bridge.
+
+## Choker (Split 2)
+
+  * After crossing the bridge fight a couple of fights using Fireball, and then
+    head to Kol (North).
   * Item Shop (Top Left)
     * Max out on herbs, and buy torches until you have 2.
   * Head to the Western Cave.
@@ -165,18 +166,25 @@ normally would get them from just walking around.
   * Go to the bottom shop and buy repellent. Use 1, the mystic nut, the defense
     seed, then fill your inventory with the rest. Use the warp wing.
   * Head to the swamp cave (using repellent 3 steps out of the top damage
-    tiles), and cast radiant. Then go and fight the dragon. Note you can't use
+    tiles), and cast heal, then radiant. Then go and fight the dragon. Note you can't use
     a repellent in the cave.
   * **Dragon (165 HP)**
     * You should be around 60-65 HP.
     * Start with 2 attacks, then heal if you are at or around 30 HP.
     * You should be doing somewhere between 16-21 per attack, so it's safe to
       assume 10 attacks to kill.
+    * **Script**
+      * 3 Attacks
+      * 3 Heals
+      * 2 Attacks
+      * 3 Heals
+      * 2 Attacks
+      * 2 Heals
+      * 3 Attacks
     * _Exp Given 950 -> 4250 Total_
 
 ## Dragon Loop: Level 13 (3 Dragons) (Split 6)
 
-  * Dragon - 8 attacks
   * Cast outside, then die to the swamp.
   * Head to the dragon and repeat the last steps again. Should be 8 attacks this
     time. Fight him twice.
@@ -186,8 +194,7 @@ normally would get them from just walking around.
 
   * Head to the nearby town and max out on repellents (top right item shop
     (needs key)).
-  * Dragon - 7 attacks
-  * Fight the dragon.
+  * Fight the dragon. 7 attacks, heal before radiant.
   * Head to the keys shop and max out your keys, then die to the damage steps
     there.
   * Go fight the Dragon again.
@@ -195,8 +202,7 @@ normally would get them from just walking around.
 
 ## Dragon Loop: Lvl 15 (7 Dragons) (Split 8)
 
-  * Dragon - 7 Attacks
-  * Fight the dragon twice.
+  * Fight the dragon twice. 6-7 attacks, heal before radiant.
   * _Exp Given 1900 -> 9950 Total_
 
 ## Dragon Loop: Refill those Keys (9 Dragons) (Split 9)
@@ -205,8 +211,8 @@ normally would get them from just walking around.
     * Un-Equip the Iron Shield
     * Cast Outside
   * Once outside die to the damage tiles.
-  * Fight the dragon twice. Heal before casting radiant in the cave, and mash
-    your 6 hits out.
+  * Fight the dragon twice. Don't heal before casting radiant in the cave, and
+    mash your 6 hits out.
   * After Dragon fight 9 replenish keys back at the castle.
   * _Exp Given 1900 -> 11850 Total_
 
@@ -215,16 +221,16 @@ normally would get them from just walking around.
   * Fight the Dragon 2 more times.
   * _Exp Given 1900 -> 13750 Total_
 
-## Dragon Loop: Just before Lvl 17 (13 Dragons) (Split 11)
+## Dragon Loop: Rainbow Staff (13 Dragons) (Split 11)
 
   * Fight the Dragon 2 more times. 5 hits, use an item once, don't heal before
-    radiant..
-
-## The Loto Seal (Split 12)
-
+    radiant.
   * Go pick up your items from the town. Scale, keys, harp, and the Sun Stone.
   * Go pick up the RainStaff to the NorthEast of here.
   * If you are more than 1200 exp away from Lvl 17, go fight the dragon.
+
+## Level 17 and the Seal (Split 12)
+
   * Cast Return and head to the Ruined City and fight the MadKnight guarding the
     armor.
   * **MadKnight (67 HP)**
@@ -233,6 +239,7 @@ normally would get them from just walking around.
   * Menu
     * Equip the Loto Armor.
   * Go to the swamp under Caitlin and grab the Loto Seal.
+  * Fight until Level 17
 
 ## DragonLord's Castle (Split 13)
 
