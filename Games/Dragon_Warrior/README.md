@@ -16,7 +16,8 @@ GameBoy remake.
 
 ## Guides
 
-  * [Any %][3]
+  * [Level 17 Guide][Level 17 Guide]
+  * [Level 18 Guide][Level 18 Guide]
   * [Condensed Notes][Condensed Notes]
 
 ## Splits
@@ -30,9 +31,10 @@ GameBoy remake.
 [1]: https://www.twitch.tv/evilash25
 [Gyre]: https://www.twitch.tv/gyre
 [2]: https://www.twitch.tv/starofviolence
-[3]: ./Guides/Any%25.md
 [4]: ./Splits/Dragon_Warrior_1_GBC_Any%25.lss
 [5]: ./Layouts/Dragon_Warrior.lsl
 [6]: https://www.twitch.tv/rpglimitbreak
 [7]: https://discordapp.com/invite/2rdpkGS
 [Condensed Notes]: ./Guides/Condensed_Lvl_17_Route.md
+[Level 17 Guide]: ./Guides/Any%25_Lvl_17.md
+[Level 18 Guide]: ./Guides/Any%25_Lvl_18.md
