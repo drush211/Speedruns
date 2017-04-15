@@ -51,6 +51,10 @@ best, but it at least might be a starting point for you.
   * [Tutorial][11]
   * [PB][8]
 
+## Tutorials
+
+  * [Basic Information][Tutorial]
+
 ## Twitch
 
   * [Basic Information][6]
@@ -71,3 +75,4 @@ best, but it at least might be a starting point for you.
 [10]: ./Games/Final_Fantasy_7/README.md
 [11]: https://www.youtube.com/watch?v=ePJBYBclvQI&list=PL-CRp6MFmk96Y8AdtiIHZlD8MllrAqxWr
 [12]: ./Games/Pokemon_Red/README.md
+[Tutorial]: ./Tutorials/README.md
