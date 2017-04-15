@@ -184,15 +184,26 @@ normally would get them from just walking around.
       * 2 Attacks
       * 3 Heals
       * 2 Attacks
-      * 2 Heals
+      * 3 Heals (Can 2 heal if you feel like you will go first)
       * 3 Attacks
     * _Exp Given 950 -> 4250 Total_
 
 ## Dragon Loop: Level 13 (3 Dragons) (Split 6)
 
   * Cast outside, then die to the swamp.
-  * Head to the dragon and repeat the last steps again. Should be 8 attacks this
-    time. Fight him twice. And return the 2nd time instead of dying.
+  * Head to the dragon healing before radiant. Should be 8 attacks this time,
+    but it can also be 9. The script below is setup for 9 attacks, as I think
+    safety and quick inputs is more important than risking it and guessing.
+    Fight him twice using the same steps. And return the 2nd time instead of
+    dying.
+  * **Script**
+    * 3 Attacks
+    * 3 Heals
+    * 2 Attacks
+    * 2 Heals
+    * 2 Attacks
+    * 2 Heals
+    * 2 Attacks
   * _Exp Given 1900 -> 6150 Total_
 
 ## Dragon Loop: Level 14 (5 Dragons) (Split 7)
@@ -200,12 +211,22 @@ normally would get them from just walking around.
   * Head to the nearby town and max out on repellents (top right item shop
     (needs key)). Then head to the keys shop and max out your keys, then die to
     the damage steps there.
-  * Fight the dragon twice. 7 attacks, heal before radiant.
+  * Fight the dragon twice. 7-8 attacks, heal before radiant.
+    * **Script**
+      * 3 Attacks
+      * 3 Heals
+      * 2 Attacks
+      * 3 Heals
+      * 3 Attacks
   * _Exp Given 1900 -> 8050 Total_
 
 ## Dragon Loop: Lvl 15 (7 Dragons) (Split 8)
 
   * Fight the dragon twice. 6-7 attacks, heal before radiant.
+  * **Script**
+    * 4 Attacks
+    * 1 Heal
+    * 3 Attacks
   * _Exp Given 1900 -> 9950 Total_
 
 ## Dragon Loop: Refill those Keys (8 Dragons) (Split 9)
@@ -248,7 +269,8 @@ normally would get them from just walking around.
 
   * Go to the Southern Cave with the RainStaff and the Sun Stone to create the
     Rainbow Droplet to cross the bridge.
-  * Go back to Rimuldar to max out with herbs and a torch. Also stay at the inn.
+  * Go back to Rimuldar and buy a key. Step outside and cast repel.
+  * Re-enter to max out with herbs and a torch. Also stay at the inn.
   * Go to the DragonLord's castle.
   * Go get the Loto Sword.
     ![DragonLord Castle Map][2]

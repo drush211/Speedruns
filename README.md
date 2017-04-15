@@ -63,6 +63,7 @@ best, but it at least might be a starting point for you.
 ## Twitch
 
   * [Basic Information][6]
+  * [Bot Info][Twitch Bot]
 
 ## Youtube
 
@@ -83,3 +84,4 @@ best, but it at least might be a starting point for you.
 [Tutorial]: ./Tutorials/README.md
 [Stream Goals]: ./StreamGoals/README.md
 [Stream Goals 2017]: ./StreamGoals/2017.md
+[Twitch Bot]: ./Twitch/Bot/README.md
