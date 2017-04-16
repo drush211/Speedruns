@@ -213,11 +213,9 @@ normally would get them from just walking around.
     the damage steps there.
   * Fight the dragon twice. 7-8 attacks, heal before radiant.
     * **Script**
-      * 3 Attacks
-      * 3 Heals
-      * 2 Attacks
-      * 3 Heals
-      * 3 Attacks
+      * 4 Attacks
+      * 3 Heals (Full Health)
+      * 4 Attacks
   * _Exp Given 1900 -> 8050 Total_
 
 ## Dragon Loop: Lvl 15 (7 Dragons) (Split 8)
