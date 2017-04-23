@@ -1,7 +1,7 @@
 # Any % No 64
 
-These [notes][1] are based off the ones that [The_Roth][2] has and an [AGDQ][3]
-speedrun.
+These [notes][1] are based off the ones that [The_Roth][2] has and a Paladin
+tutorial found [here][Paladin Tutorial].
 
 ## General Notes
 
@@ -35,7 +35,7 @@ You can only cast magic in battles though.
 ### General Info
 
   * Try to predict which character acts next, sometimes you can hold A to attack
-    immediately
+    immediately.
   * Remember where you are when you get encounters so you can start walking
     straight away.
   * Hold X while walking to enter the menu without delay.
@@ -70,12 +70,16 @@ get really fast times.
 
   * Mash text until you speak to the king and are kicked out.
   * Head down the stairs and get the right most treasure chest for a tent.
-  * Head to Cecil's chamber taking the extra step to the right on the chair if
-    you are on the correct seed. If you don't know what that means just go to
-    bed.
-  * Go to chocobo forest, and pick up a chocobo to take to the Cave of Mist.
-  * Go through the cavern until you fight the Mist Dragon
-  * **Mist Dragon (465 HP)**
+  * Head to Cecil's chamber (Upper Left Tower) taking the extra step to the
+    right on the chair if you are on the correct seed. If you don't know what
+    that means just go to bed.
+  * Menu
+    * Custom - Battle Speed and Battle Message to 1 (Fastest)
+  * Go to chocobo forest (SouthEast of the castle), and pick up a chocobo to
+    take to the Cave of Mist. If doing [Carrot Strat][Carrot Strat] pick up the
+    carrot here as well.
+  * Go through the cavern until you fight the Mist Dragon.
+  * **[Mist Dragon][Mist Dragon] (465 HP)**
     * Kain jump and Cecil attack until Dragon turns to mist. 3rd jump by Kain
       might be better off as a standard attack.
     * Kain jump after waiting for [audio cue][4] to make sure Dragon is back
@@ -85,10 +89,10 @@ get really fast times.
       package is.
     * After Kain lands continue having Kain jump and Cecil attack until the
       Dragon is dead.
-  * [Mist Skip!][5]
-  * Enter Mist Village, and go to the Weapon Shop. Use an item glitch to sell
-    the shadow shields that aren't actually there to max out your GP. Use that
-    to buy 10 Dancing Daggers.
+  * [Mist Skip!][Mist Skip]
+  * Enter Mist Village, and go to the Weapon Shop. Sell the duplicated shields
+    that are in the top left empty item slot. Use that to buy 10 Dancing
+    Daggers.
   * Go up to the house in the top left corner of the town, and enter the
     fireplace to go grab the Tiara (Top Left chest) and the Change Rod (Very
     Bottom Chest by itself).
@@ -97,12 +101,14 @@ get really fast times.
 
 ## Octomamm (Split 2)
 
-  * 
+  * https://youtu.be/XWEME9ciC3Y?t=1055
 
 ## Antlion (Split 3)
 
 [1]: https://docs.google.com/document/d/1Q-tdhzzETGhkT8XUzaw0GbFWTqGCaAQzrz-HWNJEfZs/edit
 [2]: https://www.twitch.tv/the_roth
-[3]: https://www.youtube.com/watch?v=mkr_jvEzP6g
+[Paladin Tutorial]: https://www.youtube.com/watch?v=XWEME9ciC3Y
 [4]: https://youtu.be/mkr_jvEzP6g?t=2171
-[5]: ./Mist_Skip.md
+[Mist Skip]: https://youtu.be/XWEME9ciC3Y?t=787
+[Carrot Strat]: ./Carrot_Strat.md
+[Mist Dragon]: ./Mist_Dragon.md
