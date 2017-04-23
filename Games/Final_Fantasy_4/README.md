@@ -13,12 +13,11 @@ and an overall great Super Nintendo game.
 
 ## Guides
 
-  * [Any % No 64][5]
-  * [Paladin %][6]
+  * [Paladin Guide][Paladin Guide]
 
 ## Splits
 
-  * [Any % No 64][7]
+  * [Paladin][Paladin Splits]
 
 ## Layouts
 
@@ -28,7 +27,6 @@ and an overall great Super Nintendo game.
 [2]: https://www.twitch.tv/creatively
 [3]: https://www.twitch.tv/directory/game/Final%20Fantasy%20IV
 [4]: https://www.twitch.tv/rpglimitbreak
-[5]: ./Guides/Any_%25_No_64.md
-[6]: ./Guides/Paladin%25.md
+[5]: ./Guides/Paladin_Run.md
 [7]: ./Splits/Final_Fantasy_IV_Paladin.lss
 [8]: ./Layouts/Final_Fantasy_4.lsl.lsl
