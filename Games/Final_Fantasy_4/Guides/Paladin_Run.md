@@ -118,7 +118,7 @@ get really fast times.
   * Head through the dungeon until you get to the room with a treasure chest on
     a bridge. Grab the Darkness Sword.
   * Continue going through until Octomamm.
-  * **[Octomamm]**
+  * **Octomamm**
     * Switch Cecil's weapon to the Darkness Sword.
     * Cecil - Attack
     * Tellah - Lit-1
@@ -134,7 +134,7 @@ get really fast times.
     * Change
   * Head to the castle to watch it get destroyed. Go in and find Anna to trigger
     the greatest cutscene ever created by man.
-  * With Edward in toe head up and to the right to the Antlion Cave.
+  * With Edward in tow head up and to the right to the Antlion Cave.
   * While going through you can pick up the life potion in the treasure chest
     along the normal step path if you think you might need it.
   * **Antlion**
