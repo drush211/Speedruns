@@ -19,6 +19,7 @@ GameBoy remake.
   * [Level 17 Guide][Level 17 Guide]
   * [Level 18 Guide][Level 18 Guide]
   * [Condensed Notes][Condensed Notes]
+  * [SFC Race Guide][SFC Race Guide]
 
 ## Splits
 
@@ -38,3 +39,4 @@ GameBoy remake.
 [Condensed Notes]: ./Guides/Condensed_Lvl_17_Route.md
 [Level 17 Guide]: ./Guides/Any%25_Lvl_17.md
 [Level 18 Guide]: ./Guides/Any%25_Lvl_18.md
+[SFC Race Guide]: https://docs.google.com/document/d/1DZH4hj81wt41y50C1B5dbS74nJHkPrmn2ti9SNRhcjo
