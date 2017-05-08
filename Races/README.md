@@ -13,5 +13,15 @@ in other areas as well, but hasn't been tested.
 Program used to show times and splits of 2 runners. More info can be found
 [here][DualSplit].
 
+## How to Restream
+
+  * [Restream Info][Restream Info]
+
+## Games
+
+  * [Dragon Warrior 1][DW1 Info]
+
 [General Layout]: ./Layouts/Default_Race_Layout.png
 [DualSplit]: ./DualSplit.md
+[DW1 Info]: ./Games/Dragon_Warrior_1/README.md
+[Restream Info]: ./Restream.md

@@ -118,6 +118,49 @@
             "deinterlace_mode": 0,
             "enabled": true,
             "flags": 0,
+            "hotkeys": {},
+            "id": "window_capture",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Runner Stream 2",
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "cursor": false,
+                "window": "fd#3A//0 - VLC media player:QWidget:vlc.exe"
+            },
+            "sync": 0,
+            "volume": 1.0
+        },
+        {
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "window_capture",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Runner Stream 1",
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "window": "fd#3A//0 - VLC media player:QWidget:vlc.exe"
+            },
+            "sync": 0,
+            "volume": 1.0
+        },
+        {
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
                 "libobs.hide_scene_item.Dualsplit": [],
@@ -125,11 +168,15 @@
                 "libobs.hide_scene_item.Overlay": [],
                 "libobs.hide_scene_item.Runner Name 1": [],
                 "libobs.hide_scene_item.Runner Name 2": [],
+                "libobs.hide_scene_item.Runner Stream 2": [],
+                "libobs.hide_scene_item.Window Capture": [],
                 "libobs.show_scene_item.Dualsplit": [],
                 "libobs.show_scene_item.Game Name": [],
                 "libobs.show_scene_item.Overlay": [],
                 "libobs.show_scene_item.Runner Name 1": [],
-                "libobs.show_scene_item.Runner Name 2": []
+                "libobs.show_scene_item.Runner Name 2": [],
+                "libobs.show_scene_item.Runner Stream 2": [],
+                "libobs.show_scene_item.Window Capture": []
             },
             "id": "scene",
             "mixers": 0,
@@ -175,19 +222,19 @@
                         },
                         "bounds_align": 0,
                         "bounds_type": 0,
-                        "crop_bottom": 40,
-                        "crop_left": 10,
-                        "crop_right": 300,
-                        "crop_top": 5,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
                         "name": "Dualsplit",
                         "pos": {
-                            "x": 90.0,
-                            "y": 758.0
+                            "x": 92.0,
+                            "y": 760.0
                         },
                         "rot": 0.0,
                         "scale": {
-                            "x": 1.4437086582183838,
-                            "y": 1.4009902477264404
+                            "x": 0.9128151535987854,
+                            "y": 0.74345546960830688
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -263,6 +310,56 @@
                         "scale": {
                             "x": 1.6238938570022583,
                             "y": 1.8611111640930176
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "name": "Runner Stream 1",
+                        "pos": {
+                            "x": 99.0,
+                            "y": 158.0
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.1209439039230347,
+                            "y": 1.5469613075256348
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "name": "Runner Stream 2",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true

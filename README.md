@@ -51,6 +51,10 @@ best, but it at least might be a starting point for you.
   * [Tutorial][11]
   * [PB][8]
 
+## Races
+
+  * [Information][Race Information]
+
 ## Stream Goals
 
   * [Basic Information][Stream Goals]
@@ -85,3 +89,4 @@ best, but it at least might be a starting point for you.
 [Stream Goals]: ./StreamGoals/README.md
 [Stream Goals 2017]: ./StreamGoals/2017.md
 [Twitch Bot]: ./Twitch/Bot/README.md
+[Race Information]: ./Races/README.md
