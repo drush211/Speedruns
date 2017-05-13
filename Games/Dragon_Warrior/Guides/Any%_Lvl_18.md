@@ -165,10 +165,9 @@ normally would get them from just walking around.
   * Go to the bottom shop and buy repellent. Use 1, the mystic nut, the defense
     seed, then fill your inventory with the rest. Use the warp wing.
   * Head to the swamp cave (using repellent 3 steps out of the top damage
-    tiles), and cast radiant. Then go and fight the dragon. Note you can't use
-    a repellent in the cave.
-  * **Dragon (165 HP)**
-    * You should be around 60-65 HP.
+    tiles), and heal, then cast radiant. Now go and fight the dragon. Note you
+    can't use a repellent in the cave.
+  * **Dragon (153 HP)**
     * Start with 2 attacks, then heal if you are at or around 30 HP.
     * You should be doing somewhere between 16-21 per attack, so it's safe to
       assume 10 attacks to kill.

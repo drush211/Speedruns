@@ -173,8 +173,7 @@ normally would get them from just walking around.
   * Head to the swamp cave (using repellent 3 steps out of the top damage
     tiles), and cast heal, then radiant. Then go and fight the dragon. Note you
     can't use a repellent in the cave.
-  * **Dragon (165 HP)**
-    * You should be around 60-65 HP.
+  * **Dragon (153 HP)**
     * Start with 2 attacks, then heal if you are at or around 30 HP.
     * You should be doing somewhere between 16-21 per attack, so it's safe to
       assume 10 attacks to kill.
