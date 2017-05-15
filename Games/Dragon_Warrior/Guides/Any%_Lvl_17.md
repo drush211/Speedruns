@@ -219,7 +219,7 @@ normally would get them from just walking around.
 
 ## Dragon Loop: Lvl 15 (7 Dragons) (Split 8)
 
-  * Fight the dragon twice. 6-7 attacks, heal before radiant.
+  * Fight the dragon twice. 6-7 attacks, don't heal before radiant.
   * **Script**
     * 4 Attacks
     * 1 Heal
