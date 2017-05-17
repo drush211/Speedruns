@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>118</AttemptCount>
+  <AttemptCount>125</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="03/29/2017 01:15:34" isStartedSynced="True" ended="03/29/2017 02:39:09" isEndedSynced="True" />
     <Attempt id="2" started="03/31/2017 00:43:53" isStartedSynced="True" ended="03/31/2017 00:43:56" isEndedSynced="True" />
@@ -110,6 +110,13 @@
     <Attempt id="86" started="05/08/2017 22:00:20" isStartedSynced="True" ended="05/08/2017 23:28:23" isEndedSynced="True" />
     <Attempt id="87" started="05/13/2017 17:31:01" isStartedSynced="True" ended="05/13/2017 17:31:06" isEndedSynced="True" />
     <Attempt id="88" started="05/13/2017 17:34:44" isStartedSynced="True" ended="05/13/2017 19:04:04" isEndedSynced="True" />
+    <Attempt id="89" started="05/16/2017 23:21:59" isStartedSynced="True" ended="05/16/2017 23:22:05" isEndedSynced="True" />
+    <Attempt id="90" started="05/16/2017 23:22:11" isStartedSynced="True" ended="05/16/2017 23:26:06" isEndedSynced="True" />
+    <Attempt id="91" started="05/16/2017 23:26:25" isStartedSynced="True" ended="05/16/2017 23:44:38" isEndedSynced="True" />
+    <Attempt id="92" started="05/16/2017 23:45:18" isStartedSynced="True" ended="05/16/2017 23:48:59" isEndedSynced="True" />
+    <Attempt id="93" started="05/16/2017 23:49:18" isStartedSynced="True" ended="05/16/2017 23:53:10" isEndedSynced="True" />
+    <Attempt id="94" started="05/16/2017 23:53:32" isStartedSynced="True" ended="05/16/2017 23:57:30" isEndedSynced="True" />
+    <Attempt id="95" started="05/16/2017 23:57:56" isStartedSynced="True" ended="05/17/2017 00:29:25" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -119,7 +126,7 @@
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:06:18.7870000</RealTime>
+        <RealTime>00:06:04.4970000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="47">
@@ -161,76 +168,31 @@
         <Time id="88">
           <RealTime>00:06:18.7870000</RealTime>
         </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Choker</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:05:48.9690000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="47">
-          <RealTime>00:06:02.0320000</RealTime>
+        <Time id="91">
+          <RealTime>00:06:04.4970000</RealTime>
         </Time>
-        <Time id="49">
-          <RealTime>00:06:42.7380000</RealTime>
-        </Time>
-        <Time id="59">
-          <RealTime>00:05:48.9690000</RealTime>
-        </Time>
-        <Time id="72">
-          <RealTime>00:08:05.6190000</RealTime>
-        </Time>
-        <Time id="75">
-          <RealTime>00:06:00.9740000</RealTime>
-        </Time>
-        <Time id="80">
-          <RealTime>00:06:11.1030000</RealTime>
-        </Time>
-        <Time id="86">
-          <RealTime>00:08:19.3880000</RealTime>
-        </Time>
-        <Time id="88">
-          <RealTime>00:07:09.7510000</RealTime>
+        <Time id="95">
+          <RealTime>00:06:23.4020000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Level 7</Name>
+      <Name>Choker (Death Warp)</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:11:36.8740000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="47">
-          <RealTime>00:11:36.8740000</RealTime>
-        </Time>
-        <Time id="49">
-          <RealTime>00:12:12.6950000</RealTime>
-        </Time>
-        <Time id="59">
-          <RealTime>00:13:34.0890000</RealTime>
-        </Time>
-        <Time id="72">
-          <RealTime>00:11:58.6020000</RealTime>
-        </Time>
-        <Time id="80">
-          <RealTime>00:11:55.1580000</RealTime>
-        </Time>
-        <Time id="86">
-          <RealTime>00:13:18.6920000</RealTime>
-        </Time>
-        <Time id="88">
-          <RealTime>00:14:27.5020000</RealTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Shiny Harp (Death Warp)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>Golem</Name>

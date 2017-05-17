@@ -96,11 +96,11 @@ normally would get them from just walking around.
   * Go to the Choker chest and don't discard any items until you get it. RNG as
     far as when it will show up, but you can keep trying as long as you don't
     free up a spot in the inventory.
+  * Pick up the chest with 570G in the room to the left.
+  * Fight enemies trying to die and return to the castle.
 
 ## Level 7 (Split 3)
 
-  * Pick up the chest with 570G in the room to the left.
-  * Fight enemies trying to die and return to the castle.
   * Make sure you save at the king.
   * Menu
     * Strength Seed (If you don't get a 2 or 3 to get you to 5-6 strength from
@@ -235,12 +235,14 @@ normally would get them from just walking around.
   * Fight the dragon once. Don't heal before casting radiant in the cave, and
     mash your 6 hits out.
   * After Dragon fight 8 replenish keys back at the castle.
-  * _Exp Given 1900 -> 11850 Total_
+  * _Exp Given 950 -> 10900 Total_
 
-## Dragon Loop Lvl 16 (11 Dragons) (Split 10)
+## Dragon Loop Lvl 16 (10 Dragons) (Split 10)
 
-  * Fight the Dragon 3 more times.
-  * _Exp Given 1900 -> 13750 Total_
+  * Fight the Dragon 2 more times.
+  * NOTE: Would be a total travesty if you somehow didn't pick up 200 exp
+    from all the walking back and forth and cave fights.
+  * _Exp Given 1900 -> 12800 Total_
 
 ## Dragon Loop: Rainbow Staff (13 Dragons) (Split 11)
 
@@ -248,7 +250,6 @@ normally would get them from just walking around.
     radiant.
   * Go pick up your items from the town. Scale, harp, and the Sun Stone.
   * Go pick up the RainStaff to the NorthEast of here.
-  * If you are more than 1200 exp away from Lvl 17, go fight the dragon.
 
 ## Level 17 and the Seal (Split 12)
 
@@ -260,7 +261,8 @@ normally would get them from just walking around.
   * Menu
     * Equip the Loto Armor.
   * Go to the swamp under Caitlin and grab the Loto Seal.
-  * Fight until Level 17
+  * Fight until Level 17, or if you are exp tracking leave with under 125 needed
+    to get to level 17.
 
 ## DragonLord's Castle (Split 13)
 
