@@ -28,7 +28,8 @@ best, but it at least might be a starting point for you.
 ### Dragon Warrior
 
   * [Information][7]
-  * Game Routed, no runs.
+  * [Tutorial][Dragon Warrior 1 (GBC) Tutorial]
+  * PB - 1:41:42
 
 ### Final Fantasy 7
 
@@ -86,6 +87,7 @@ best, but it at least might be a starting point for you.
 [11]: https://www.youtube.com/watch?v=ePJBYBclvQI&list=PL-CRp6MFmk96Y8AdtiIHZlD8MllrAqxWr
 [12]: ./Games/Pokemon_Red/README.md
 [Tutorial]: ./Tutorials/README.md
+[Dragon Warrior 1 (GBC) Tutorial]: https://www.youtube.com/playlist?list=PL-CRp6MFmk97JeXwAHE6B-8Aa7vsDFNUV
 [Stream Goals]: ./StreamGoals/README.md
 [Stream Goals 2017]: ./StreamGoals/2017.md
 [Twitch Bot]: ./Twitch/Bot/README.md
