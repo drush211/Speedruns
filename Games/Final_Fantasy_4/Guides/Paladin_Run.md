@@ -200,11 +200,12 @@ get really fast times.
       * Edward - Dancing Dagger top guard.
       * Cecil - Attack
       * Yang - Attack
+  * **Kain**
+    * Cecil - Self attack
 
 ## Oh my body (Split 6)
 
-  * **Kain**
-    * Cecil - Self attack
+  * Head to the Inn.
   * Leave Fabul and head to the ship.
   * Shop
     * Armor - 10 Gaea Helmets, 10 Gaea Armor, 10 Silver Armlets
