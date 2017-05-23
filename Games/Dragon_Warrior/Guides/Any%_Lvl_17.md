@@ -282,7 +282,7 @@ normally would get them from just walking around.
       spell takes away 2+ of them. 2 Healmores is basically -5 hits. Crits count
       as ~3 hits.
 
-## DragonLord 1 (Split 15)
+## The End (Split 15)
 
   * **DragonLord Dragon Form (HP 350)**
     * Go in a 1-2-3-4 cycle here, where 1 and 2 are strong attacks, 3 is a weak,
