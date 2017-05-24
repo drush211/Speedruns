@@ -11,6 +11,10 @@ and an overall great Super Nintendo game.
   * [Final Fantasy IV][3]
   * [RPG Limit Break][4]
 
+## Discord
+
+  * [Discord][Discord]
+
 ## Guides
 
   * [Paladin Guide][Paladin Guide]
@@ -27,6 +31,7 @@ and an overall great Super Nintendo game.
 [2]: https://www.twitch.tv/creatively
 [3]: https://www.twitch.tv/directory/game/Final%20Fantasy%20IV
 [4]: https://www.twitch.tv/rpglimitbreak
-[5]: ./Guides/Paladin_Run.md
-[7]: ./Splits/Final_Fantasy_IV_Paladin.lss
+[Discord]: https://discord.gg/waJ9kv
+[Paladin Guide]: ./Guides/Paladin_Run.md
+[Paladin Splits]: ./Splits/Final_Fantasy_IV_Paladin.lss
 [8]: ./Layouts/Final_Fantasy_4.lsl.lsl
