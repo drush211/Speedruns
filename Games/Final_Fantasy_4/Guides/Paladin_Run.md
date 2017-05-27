@@ -13,7 +13,7 @@ For more detailed info, follow the links to the more informative guides.
 Seed 92 references the RNG seed that you can get to ensure favorable encounters
 throughout the run. There are 255 possible seeds, all with different amount of
 steps to take before encountering a battle. 92 has no battles through Mist Dragon
-and then very favorable fights after that as well. This [video][92 Seed Tutorial]
+and then very favorable fights after that as well. This [video][Seed 92 Tutorial]
 can show you how to get seed 92 consistently enough to be useful.
 
 ### Run Buffering
