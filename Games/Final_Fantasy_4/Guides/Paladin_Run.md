@@ -15,7 +15,7 @@ message appears. If you complete an action while this message is displayed your
 party members act earlier in battle (e.g. Fabul fights) and it makes fights
 faster/safer. If the message disappears and you are in the middle of targeting a
 monster, you need to run buffer again right after confirming an action to still
-act earlier.
+act earlier. A Tutorial on this can be found [here][Run Buffering Tutorial].
 
 ### General Info
 
@@ -221,3 +221,4 @@ act earlier.
 [Mist Skip]: https://youtu.be/XWEME9ciC3Y?t=787
 [Carrot Strat]: ./Carrot_Strat.md
 [Mist Dragon]: ./Mist_Dragon.md
+[Run Buffering Tutorial]: https://youtu.be/XWEME9ciC3Y?t=2309
