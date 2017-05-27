@@ -8,6 +8,7 @@ and an overall great Super Nintendo game.
 
   * [The_Roth (World Record Holder)][1]
   * [Creatively][2]
+  * [Neerrm][Neerrm Twitch]
   * [Final Fantasy IV][3]
   * [RPG Limit Break][4]
 
@@ -35,3 +36,4 @@ and an overall great Super Nintendo game.
 [Paladin Guide]: ./Guides/Paladin_Run.md
 [Paladin Splits]: ./Splits/Final_Fantasy_IV_Paladin.lss
 [8]: ./Layouts/Final_Fantasy_4.lsl.lsl
+[Neerrm Twitch]: http://www.twitch.tv/neerrm
