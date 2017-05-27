@@ -17,21 +17,6 @@ faster/safer. If the message disappears and you are in the middle of targeting a
 monster, you need to run buffer again right after confirming an action to still
 act earlier.
 
-### MP Underflow
-
-This forces the game to cast more MP than what you have. Since games only store
-positive numbers in the RAM, you end up having ~ 65500 MP after underflowing.
-You can only cast magic in battles though.
-
-  * Go into Tellah’s Menu and Cast Cure 4 on people until you can’t cast it any
-    more.
-  * Select Cure4 once.
-  * Press down (to hover on the spell Sight – you need 2 MP still).
-  * Press Up + A at the same time.
-  * If done properly you are able to to cast Cure4 on your party (otherwise you
-    will hear the “BRR” sound)
-  * To remove the underflow status, simply use an Ether on Tellah out of battle.
-
 ### General Info
 
   * Try to predict which character acts next, sometimes you can hold A to attack
@@ -51,20 +36,6 @@ You can only cast magic in battles though.
     Black magic.
   * You can act in the menu quicker than you think, i.e. while the boxes are
     sliding around.
-  * Paladin Cecil will take damage for anyone under ¼ HP provided he isn’t
-    Parrying or weakened. You’ll only ever need to Cure2 Cecil during Valvalis
-    or Calbrena. If you ever need to do nothing with Cecil, have him Cover
-    anyone or use an item, never Parry with him.
-
-### Killing People in Boss Fights
-
-The level that characters rejoin your party (i.e. Kain, Yang, Adult Rydia etc)
-is affected by the total experience your party gains over the game, so it’s
-better to kill off people in boss fights to have people join at higher levels.
-We make sure 2 party members are dead for Dark Elf (or MilonZ), Flame Dog and
-Magus Sisters to have Kain rejoin at level 19 which makes Valvalis, Calbrena and
-Golbez really easy. You don’t need to do this but keep it in mind if you want to
-get really fast times.
 
 ## Mist (Split 1)
 
