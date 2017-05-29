@@ -97,7 +97,7 @@ act earlier. A Tutorial on this can be found [here][Run Buffering Tutorial].
   * Head through the dungeon until you get to the room with a treasure chest on
     a bridge. Grab the Darkness Sword.
   * Continue going through until Octomamm.
-  * **Octomamm**
+  * **[Octomamm][Octomamm]**
     * Switch Cecil's weapon to the Darkness Sword.
     * Cecil - Attack
     * Tellah - Lit-1
@@ -229,5 +229,6 @@ act earlier. A Tutorial on this can be found [here][Run Buffering Tutorial].
 [Mist Skip]: https://youtu.be/XWEME9ciC3Y?t=787
 [Carrot Strat]: ./Carrot_Strat.md
 [Mist Dragon]: ./Mist_Dragon.md
+[Octomamm]: ./Octomamm.md
 [Run Buffering Tutorial]: https://youtu.be/XWEME9ciC3Y?t=2309
 [Seed 92 Tutorial]: https://www.youtube.com/watch?v=LpLAoSMNQZk
