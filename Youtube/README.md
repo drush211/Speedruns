@@ -28,4 +28,4 @@ Youtube will not allow you to monetize just you playing a game, but per their
 terms of service, you can monetize things that are informational/educational.
 Therefore it seems like a tutorial or unique content would be able to be
 monetized, as long as you are allowed to post content from the content creator.
-i.e. You aren't doing copyright infringement. 
+i.e. You aren't doing copyright infringement.

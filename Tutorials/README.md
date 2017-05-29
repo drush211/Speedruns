@@ -25,3 +25,22 @@ about, then stick to it as close as possible. I personally run gameplay only
 video, so there isn't a concern of de-syncing from your face or anything. A
 script will help even if you decide to Ad-Lib. You want to stay on topic as much
 as possible, as drifting can really hurt viewing quality.
+
+## Streaming a Tutorial
+
+So this one is a bit complicated if you want to build tutorial videos in the way
+that I do. I try to make sure I have the game audio as backing for my narration,
+and I want the game to seem like it's being played in real time and I'm just
+describing the situation to you. It gives it a more natural feel, but also has
+editing so it doesn't feel like an ad-hoc video. To kill 2 birds with one stone,
+I might do part of the tutorial on my stream. The problem is that I then get my
+audio from the stream, which is usually not what I want in the tutorial. It also
+doesn't make sense to just split the audio as then I have to make a new audio
+file with the correct syncing to the video. The easiest way I've found around
+this, is to use OBS in 2 instances. Unfortunately you can only capture the
+screen on one instance (the stream), but you can capture audio in multiple. This
+means that I can just capture the speaker output and sync the audio video later,
+since it is the exact same audio. So I just have 2 scenes, one for a tutorial w/
+mic, and one for a tutorial w/o a mic. This allows me to build up the tutorial
+in my stream and talk to my viewers, while still having a clean setup to use for
+polishing off the tutorial later.
