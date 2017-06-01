@@ -1,0 +1,743 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Dragon Warrior 1 (GBC)</GameName>
+  <CategoryName>Any%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>133</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/29/2017 01:15:34" isStartedSynced="True" ended="03/29/2017 02:39:09" isEndedSynced="True" />
+    <Attempt id="2" started="03/31/2017 00:43:53" isStartedSynced="True" ended="03/31/2017 00:43:56" isEndedSynced="True" />
+    <Attempt id="3" started="03/31/2017 01:16:21" isStartedSynced="True" ended="03/31/2017 01:25:54" isEndedSynced="True" />
+    <Attempt id="4" started="03/31/2017 01:26:21" isStartedSynced="True" ended="03/31/2017 03:56:15" isEndedSynced="True">
+      <RealTime>02:29:54.0590000</RealTime>
+    </Attempt>
+    <Attempt id="5" started="04/01/2017 22:29:54" isStartedSynced="True" ended="04/02/2017 00:25:55" isEndedSynced="True">
+      <RealTime>01:56:00.8820000</RealTime>
+    </Attempt>
+    <Attempt id="6" started="04/04/2017 00:41:53" isStartedSynced="True" ended="04/04/2017 00:41:58" isEndedSynced="True" />
+    <Attempt id="7" started="04/04/2017 00:42:10" isStartedSynced="True" ended="04/04/2017 00:46:38" isEndedSynced="True" />
+    <Attempt id="8" started="04/04/2017 01:16:47" isStartedSynced="True" ended="04/04/2017 03:08:46" isEndedSynced="True">
+      <RealTime>01:51:59.0230000</RealTime>
+    </Attempt>
+    <Attempt id="9" started="04/08/2017 00:52:32" isStartedSynced="True" ended="04/08/2017 00:55:22" isEndedSynced="True" />
+    <Attempt id="10" started="04/08/2017 00:55:50" isStartedSynced="True" ended="04/08/2017 00:55:54" isEndedSynced="True" />
+    <Attempt id="11" started="04/08/2017 00:56:15" isStartedSynced="True" ended="04/08/2017 01:00:23" isEndedSynced="True" />
+    <Attempt id="12" started="04/08/2017 01:00:55" isStartedSynced="True" ended="04/08/2017 01:13:53" isEndedSynced="True" />
+    <Attempt id="13" started="04/08/2017 01:15:38" isStartedSynced="True" ended="04/08/2017 01:19:56" isEndedSynced="True" />
+    <Attempt id="14" started="04/08/2017 01:20:21" isStartedSynced="True" ended="04/08/2017 02:39:11" isEndedSynced="True" />
+    <Attempt id="15" started="04/08/2017 22:24:33" isStartedSynced="True" ended="04/08/2017 22:27:20" isEndedSynced="True" />
+    <Attempt id="16" started="04/08/2017 22:27:41" isStartedSynced="True" ended="04/08/2017 22:32:33" isEndedSynced="True" />
+    <Attempt id="17" started="04/08/2017 22:33:04" isStartedSynced="True" ended="04/08/2017 22:37:02" isEndedSynced="True" />
+    <Attempt id="18" started="04/08/2017 22:37:29" isStartedSynced="True" ended="04/09/2017 00:19:11" isEndedSynced="True">
+      <RealTime>01:41:42.3110000</RealTime>
+    </Attempt>
+    <Attempt id="19" started="04/09/2017 23:37:32" isStartedSynced="True" ended="04/09/2017 23:58:00" isEndedSynced="True" />
+    <Attempt id="20" started="04/09/2017 23:59:08" isStartedSynced="True" ended="04/09/2017 23:59:11" isEndedSynced="True" />
+    <Attempt id="21" started="04/09/2017 23:59:19" isStartedSynced="True" ended="04/10/2017 00:03:09" isEndedSynced="True" />
+    <Attempt id="22" started="04/10/2017 00:03:41" isStartedSynced="True" ended="04/10/2017 00:07:10" isEndedSynced="True" />
+    <Attempt id="23" started="04/10/2017 00:07:33" isStartedSynced="True" ended="04/10/2017 00:07:34" isEndedSynced="True" />
+    <Attempt id="24" started="04/10/2017 00:07:37" isStartedSynced="True" ended="04/10/2017 00:08:35" isEndedSynced="True" />
+    <Attempt id="25" started="04/10/2017 00:08:58" isStartedSynced="True" ended="04/10/2017 00:13:36" isEndedSynced="True" />
+    <Attempt id="26" started="04/10/2017 00:13:57" isStartedSynced="True" ended="04/10/2017 00:48:53" isEndedSynced="True" />
+    <Attempt id="27" started="04/10/2017 02:02:14" isStartedSynced="True" ended="04/10/2017 02:06:58" isEndedSynced="True" />
+    <Attempt id="28" started="04/10/2017 02:07:21" isStartedSynced="True" ended="04/10/2017 02:26:44" isEndedSynced="True" />
+    <Attempt id="29" started="04/11/2017 00:20:25" isStartedSynced="True" ended="04/11/2017 01:54:22" isEndedSynced="True" />
+    <Attempt id="30" started="04/11/2017 01:57:41" isStartedSynced="True" ended="04/11/2017 01:57:42" isEndedSynced="True" />
+    <Attempt id="31" started="04/11/2017 02:04:57" isStartedSynced="True" ended="04/11/2017 02:10:41" isEndedSynced="True" />
+    <Attempt id="32" started="04/11/2017 02:11:10" isStartedSynced="True" ended="04/11/2017 02:15:23" isEndedSynced="True" />
+    <Attempt id="33" started="04/11/2017 02:15:47" isStartedSynced="True" ended="04/11/2017 02:35:06" isEndedSynced="True" />
+    <Attempt id="34" started="04/12/2017 23:18:58" isStartedSynced="True" ended="04/12/2017 23:20:50" isEndedSynced="True" />
+    <Attempt id="35" started="04/12/2017 23:21:13" isStartedSynced="True" ended="04/12/2017 23:42:33" isEndedSynced="True" />
+    <Attempt id="36" started="04/12/2017 23:43:08" isStartedSynced="True" ended="04/12/2017 23:43:09" isEndedSynced="True" />
+    <Attempt id="37" started="04/12/2017 23:47:28" isStartedSynced="True" ended="04/12/2017 23:52:08" isEndedSynced="True" />
+    <Attempt id="38" started="04/12/2017 23:52:29" isStartedSynced="True" ended="04/13/2017 01:26:22" isEndedSynced="True" />
+    <Attempt id="39" started="04/13/2017 01:38:25" isStartedSynced="True" ended="04/13/2017 01:38:40" isEndedSynced="True" />
+    <Attempt id="40" started="04/13/2017 01:38:55" isStartedSynced="True" ended="04/13/2017 01:39:03" isEndedSynced="True" />
+    <Attempt id="41" started="04/13/2017 01:39:32" isStartedSynced="True" ended="04/13/2017 01:39:40" isEndedSynced="True" />
+    <Attempt id="42" started="04/13/2017 01:43:53" isStartedSynced="True" ended="04/13/2017 01:43:53" isEndedSynced="True" />
+    <Attempt id="43" started="04/13/2017 01:47:05" isStartedSynced="True" ended="04/13/2017 01:50:28" isEndedSynced="True" />
+    <Attempt id="44" started="04/13/2017 01:51:00" isStartedSynced="True" ended="04/13/2017 03:23:47" isEndedSynced="True" />
+    <Attempt id="45" started="04/15/2017 23:41:13" isStartedSynced="True" ended="04/15/2017 23:41:14" isEndedSynced="True" />
+    <Attempt id="46" started="04/15/2017 23:41:40" isStartedSynced="True" ended="04/15/2017 23:45:30" isEndedSynced="True" />
+    <Attempt id="47" started="04/15/2017 23:45:48" isStartedSynced="True" ended="04/16/2017 01:16:14" isEndedSynced="True" />
+    <Attempt id="48" started="04/16/2017 01:26:37" isStartedSynced="True" ended="04/16/2017 01:31:19" isEndedSynced="True" />
+    <Attempt id="49" started="04/16/2017 01:31:39" isStartedSynced="True" ended="04/16/2017 03:02:54" isEndedSynced="True" />
+    <Attempt id="50" started="04/21/2017 22:31:27" isStartedSynced="True" ended="04/21/2017 22:31:31" isEndedSynced="True" />
+    <Attempt id="51" started="04/21/2017 22:37:13" isStartedSynced="True" ended="04/21/2017 22:40:24" isEndedSynced="True" />
+    <Attempt id="52" started="04/21/2017 22:40:43" isStartedSynced="True" ended="04/21/2017 22:42:00" isEndedSynced="True" />
+    <Attempt id="53" started="04/21/2017 22:42:22" isStartedSynced="True" ended="04/21/2017 22:44:08" isEndedSynced="True" />
+    <Attempt id="54" started="04/21/2017 22:44:29" isStartedSynced="True" ended="04/21/2017 22:45:43" isEndedSynced="True" />
+    <Attempt id="55" started="04/21/2017 22:46:02" isStartedSynced="True" ended="04/21/2017 22:50:05" isEndedSynced="True" />
+    <Attempt id="56" started="04/21/2017 22:50:25" isStartedSynced="True" ended="04/21/2017 22:53:47" isEndedSynced="True" />
+    <Attempt id="57" started="04/21/2017 22:54:13" isStartedSynced="True" ended="04/21/2017 23:03:48" isEndedSynced="True" />
+    <Attempt id="58" started="04/21/2017 23:04:14" isStartedSynced="True" ended="04/21/2017 23:14:18" isEndedSynced="True" />
+    <Attempt id="59" started="04/21/2017 23:15:19" isStartedSynced="True" ended="04/22/2017 00:44:31" isEndedSynced="True" />
+    <Attempt id="60" started="04/25/2017 00:28:06" isStartedSynced="True" ended="04/25/2017 00:31:52" isEndedSynced="True" />
+    <Attempt id="61" started="04/25/2017 01:06:00" isStartedSynced="True" ended="04/25/2017 01:09:13" isEndedSynced="True" />
+    <Attempt id="62" started="04/25/2017 01:09:30" isStartedSynced="True" ended="04/25/2017 01:27:28" isEndedSynced="True" />
+    <Attempt id="63" started="05/02/2017 22:56:30" isStartedSynced="True" ended="05/02/2017 22:56:38" isEndedSynced="True" />
+    <Attempt id="64" started="05/02/2017 22:56:39" isStartedSynced="True" ended="05/02/2017 22:56:40" isEndedSynced="True" />
+    <Attempt id="65" started="05/02/2017 22:56:40" isStartedSynced="True" ended="05/02/2017 22:56:41" isEndedSynced="True" />
+    <Attempt id="66" started="05/02/2017 22:56:41" isStartedSynced="True" ended="05/02/2017 22:56:42" isEndedSynced="True" />
+    <Attempt id="67" started="05/02/2017 22:56:42" isStartedSynced="True" ended="05/02/2017 22:56:43" isEndedSynced="True" />
+    <Attempt id="68" started="05/02/2017 22:56:43" isStartedSynced="True" ended="05/02/2017 22:56:44" isEndedSynced="True" />
+    <Attempt id="69" started="05/02/2017 22:56:44" isStartedSynced="True" ended="05/02/2017 22:56:45" isEndedSynced="True" />
+    <Attempt id="70" started="05/02/2017 22:56:45" isStartedSynced="True" ended="05/02/2017 22:56:45" isEndedSynced="True" />
+    <Attempt id="71" started="05/02/2017 22:58:27" isStartedSynced="True" ended="05/02/2017 22:59:42" isEndedSynced="True" />
+    <Attempt id="72" started="05/02/2017 23:00:32" isStartedSynced="True" ended="05/03/2017 00:31:09" isEndedSynced="True" />
+    <Attempt id="73" started="05/05/2017 22:29:33" isStartedSynced="True" ended="05/05/2017 22:33:54" isEndedSynced="True" />
+    <Attempt id="74" started="05/05/2017 22:34:12" isStartedSynced="True" ended="05/05/2017 22:38:09" isEndedSynced="True" />
+    <Attempt id="75" started="05/05/2017 22:38:31" isStartedSynced="True" ended="05/05/2017 22:57:28" isEndedSynced="True" />
+    <Attempt id="76" started="05/05/2017 22:58:05" isStartedSynced="True" ended="05/05/2017 23:12:49" isEndedSynced="True" />
+    <Attempt id="77" started="05/05/2017 23:41:45" isStartedSynced="True" ended="05/05/2017 23:42:59" isEndedSynced="True" />
+    <Attempt id="78" started="05/05/2017 23:43:39" isStartedSynced="True" ended="05/05/2017 23:44:57" isEndedSynced="True" />
+    <Attempt id="79" started="05/05/2017 23:45:13" isStartedSynced="True" ended="05/05/2017 23:49:17" isEndedSynced="True" />
+    <Attempt id="80" started="05/05/2017 23:49:35" isStartedSynced="True" ended="05/06/2017 01:18:46" isEndedSynced="True" />
+    <Attempt id="81" started="05/08/2017 21:32:11" isStartedSynced="True" ended="05/08/2017 21:35:58" isEndedSynced="True" />
+    <Attempt id="82" started="05/08/2017 21:36:14" isStartedSynced="True" ended="05/08/2017 21:40:18" isEndedSynced="True" />
+    <Attempt id="83" started="05/08/2017 21:40:36" isStartedSynced="True" ended="05/08/2017 21:44:02" isEndedSynced="True" />
+    <Attempt id="84" started="05/08/2017 21:44:19" isStartedSynced="True" ended="05/08/2017 21:54:53" isEndedSynced="True" />
+    <Attempt id="85" started="05/08/2017 21:56:08" isStartedSynced="True" ended="05/08/2017 22:00:00" isEndedSynced="True" />
+    <Attempt id="86" started="05/08/2017 22:00:20" isStartedSynced="True" ended="05/08/2017 23:28:23" isEndedSynced="True" />
+    <Attempt id="87" started="05/13/2017 17:31:01" isStartedSynced="True" ended="05/13/2017 17:31:06" isEndedSynced="True" />
+    <Attempt id="88" started="05/13/2017 17:34:44" isStartedSynced="True" ended="05/13/2017 19:04:04" isEndedSynced="True" />
+    <Attempt id="89" started="05/16/2017 23:21:59" isStartedSynced="True" ended="05/16/2017 23:22:05" isEndedSynced="True" />
+    <Attempt id="90" started="05/16/2017 23:22:11" isStartedSynced="True" ended="05/16/2017 23:26:06" isEndedSynced="True" />
+    <Attempt id="91" started="05/16/2017 23:26:25" isStartedSynced="True" ended="05/16/2017 23:44:38" isEndedSynced="True" />
+    <Attempt id="92" started="05/16/2017 23:45:18" isStartedSynced="True" ended="05/16/2017 23:48:59" isEndedSynced="True" />
+    <Attempt id="93" started="05/16/2017 23:49:18" isStartedSynced="True" ended="05/16/2017 23:53:10" isEndedSynced="True" />
+    <Attempt id="94" started="05/16/2017 23:53:32" isStartedSynced="True" ended="05/16/2017 23:57:30" isEndedSynced="True" />
+    <Attempt id="95" started="05/16/2017 23:57:56" isStartedSynced="True" ended="05/17/2017 00:29:25" isEndedSynced="True" />
+    <Attempt id="96" started="05/30/2017 19:35:50" isStartedSynced="True" ended="05/30/2017 19:35:52" isEndedSynced="True" />
+    <Attempt id="97" started="05/30/2017 19:36:02" isStartedSynced="True" ended="05/30/2017 21:13:03" isEndedSynced="True" />
+    <Attempt id="98" started="05/31/2017 20:09:05" isStartedSynced="True" ended="05/31/2017 20:14:09" isEndedSynced="True" />
+    <Attempt id="99" started="05/31/2017 20:14:38" isStartedSynced="True" ended="05/31/2017 20:19:23" isEndedSynced="True" />
+    <Attempt id="100" started="05/31/2017 20:20:03" isStartedSynced="True" ended="05/31/2017 20:21:19" isEndedSynced="True" />
+    <Attempt id="101" started="05/31/2017 20:21:41" isStartedSynced="True" ended="05/31/2017 20:24:31" isEndedSynced="True" />
+    <Attempt id="102" started="05/31/2017 20:24:52" isStartedSynced="True" ended="05/31/2017 20:28:42" isEndedSynced="True" />
+    <Attempt id="103" started="05/31/2017 20:28:59" isStartedSynced="True" ended="05/31/2017 22:05:35" isEndedSynced="True">
+      <RealTime>01:36:35.9740000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Level 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:52.9920000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:04.4970000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:07:28.1180000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:06:35</RealTime>
+        </Time>
+        <Time id="57">
+          <RealTime>00:07:17.2030000</RealTime>
+        </Time>
+        <Time id="58">
+          <RealTime>00:06:35</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:07:24.7880000</RealTime>
+        </Time>
+        <Time id="62">
+          <RealTime>00:07:23.4620000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:07:00.8190000</RealTime>
+        </Time>
+        <Time id="75">
+          <RealTime>00:06:41.0130000</RealTime>
+        </Time>
+        <Time id="76">
+          <RealTime>00:06:53.4560000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:07:07.9810000</RealTime>
+        </Time>
+        <Time id="84">
+          <RealTime>00:06:44.1730000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:06:54.3790000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:06:18.7870000</RealTime>
+        </Time>
+        <Time id="91">
+          <RealTime>00:06:04.4970000</RealTime>
+        </Time>
+        <Time id="95">
+          <RealTime>00:06:23.4020000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:06:46.3580000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:06:52.9920000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Choker (Death Warp)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:35.4610000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:15.1770000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="97">
+          <RealTime>00:07:15.1770000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:07:42.4690000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Shiny Harp (Death Warp)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:06.9280000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:26.3700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="97">
+          <RealTime>00:13:26.3700000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:13:31.4670000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Golem</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:34:16.2740000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:09.3460000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:12:17.3640000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:11:22.5770000</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:07:59.0980000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:07:55.1940000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:08:38.5820000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:06:14.1990000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:07:07.6500000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:06:14.7390000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:06:09.3460000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dragon Loop: Lvl 12 (1 Dragon)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:38:17.4760000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.4480000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:00:00.4480000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:04:05.8960000</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:03:55.6480000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:03:41.1040000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:03:42.1630000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:04:21.3180000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:03:49.6230000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:04:20.9040000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:04:01.2020000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dragon Loop: Lvl 13 (3 Dragons)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:43:53.6100000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:02.3400000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:06:41.0270000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:05:24.7420000</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:05:32.6750000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:05:13.6970000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:05:02.3400000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:05:07.3430000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:05:15.9690000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:05:17.3690000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:05:36.1340000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dragon Loop: Lvl 14 (5 Dragons)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:49:38.7640000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:26.6080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:05:59.0030000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:06:00.8690000</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:05:38.4050000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:06:26.5680000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:06:09.8050000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:05:37.2930000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:05:32.5300000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:05:26.6080000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:05:45.1540000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dragon Loop: Lvl 15 (7 Dragons)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:54:38.5120000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:29.3990000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:05:21.7370000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:05:00.6550000</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:04:29.3990000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:04:48.1500000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:05:17.4220000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:04:51.5980000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:05:06.2220000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:04:30.3310000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:04:59.7480000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dragon Loop: Refill those Keys (9 Dragons)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:59:43.9660000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:41.2960000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:03:05.0180000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:02:51.6980000</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:02:47.7490000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:03:13.5960000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:03:01.4620000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:02:42.6780000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:02:41.2960000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:03:17.6050000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:05:05.4540000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dragon Loop: Lvl 16 (11 Dragons)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:04:00.2600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:07.1910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:04:37.6440000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:04:07.1910000</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:04:09.0100000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:04:16.9570000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:04:23.8300000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:04:12.7210000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:04:35.6020000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:05:58.6600000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:04:16.2940000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dragon Loop: Lvl 17 (14 Dragons)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:11:21.6700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:21.4100000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47" />
+        <Time id="49" />
+        <Time id="59" />
+        <Time id="72" />
+        <Time id="80" />
+        <Time id="86" />
+        <Time id="88" />
+        <Time id="97">
+          <RealTime>00:08:21.2620000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:07:21.4100000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Dragon Loop: Rainbow Staff (14 Dragons)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:15:40.7180000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:34.3570000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:08:11.1740000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:08:15.5540000</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:08:21.9140000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:08:19.2530000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:07:47.0440000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:08:28.4870000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:07:52.7970000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:03:34.3570000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:04:19.0480000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The Loto Seal</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:20:41.6300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:28.6030000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:04:58.4810000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:04:28.6030000</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:04:41.9340000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:05:11.6970000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:04:41.7220000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:04:39.4720000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:05:09.4560000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:07:02.3010000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:05:00.9120000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>DragonLord's Castle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:28:16.7510000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:03.7020000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="47">
+          <RealTime>00:06:15.5450000</RealTime>
+        </Time>
+        <Time id="49">
+          <RealTime>00:05:42.8090000</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:05:18.5980000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:05:17.8440000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:05:34.8730000</RealTime>
+        </Time>
+        <Time id="86">
+          <RealTime>00:05:28.2080000</RealTime>
+        </Time>
+        <Time id="88">
+          <RealTime>00:05:03.7020000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:05:24.0500000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:07:35.1210000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>DragonLord 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:34:54.6080000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:25.9030000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="49">
+          <RealTime>00:06:48.8340000</RealTime>
+        </Time>
+        <Time id="59">
+          <RealTime>00:07:23.0150000</RealTime>
+        </Time>
+        <Time id="72">
+          <RealTime>00:06:32.2460000</RealTime>
+        </Time>
+        <Time id="80">
+          <RealTime>00:06:25.9030000</RealTime>
+        </Time>
+        <Time id="97">
+          <RealTime>00:08:00.1330000</RealTime>
+        </Time>
+        <Time id="0" />
+        <Time id="103">
+          <RealTime>00:06:37.8570000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>The End</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:36:35.9740000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:41.3660000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>01:41:42</RealTime>
+        </Time>
+        <Time id="103">
+          <RealTime>00:01:41.3660000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

@@ -150,7 +150,7 @@ act earlier. A Tutorial on this can be found [here][Run Buffering Tutorial].
 ## Fabul Gauntlet (Split 5)
 
   * Head to Fabul. Good idea to safety save outside of the castle.
-  * **Fabul Gauntlet**
+  * **[Fabul Gauntlet][Fabul Gauntlet]**
     * Fight 1
       * Run Buffer
       * Edward - Dancing Dagger top guard.
@@ -232,3 +232,4 @@ act earlier. A Tutorial on this can be found [here][Run Buffering Tutorial].
 [Octomamm]: ./Octomamm.md
 [Run Buffering Tutorial]: https://youtu.be/XWEME9ciC3Y?t=2309
 [Seed 92 Tutorial]: https://www.youtube.com/watch?v=LpLAoSMNQZk
+[Fabul Gauntlet]: ./FabulGauntlet.md

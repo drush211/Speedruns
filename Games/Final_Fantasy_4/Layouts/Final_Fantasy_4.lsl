@@ -208,16 +208,16 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>0</OutputDevice>
+        <OutputDevice>1</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
         <SplitBehindGainingVolume>100</SplitBehindGainingVolume>
         <SplitBehindLosingVolume>100</SplitBehindLosingVolume>
-        <BestSegmentVolume>100</BestSegmentVolume>
+        <BestSegmentVolume>15</BestSegmentVolume>
         <UndoSplitVolume>100</UndoSplitVolume>
         <SkipSplitVolume>100</SkipSplitVolume>
-        <PersonalBestVolume>100</PersonalBestVolume>
+        <PersonalBestVolume>15</PersonalBestVolume>
         <NotAPersonalBestVolume>100</NotAPersonalBestVolume>
         <ResetVolume>100</ResetVolume>
         <PauseVolume>100</PauseVolume>

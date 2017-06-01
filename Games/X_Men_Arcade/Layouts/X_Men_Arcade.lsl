@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>0</X>
-  <Y>0</Y>
-  <VerticalWidth>401</VerticalWidth>
-  <VerticalHeight>695</VerticalHeight>
+  <X>552</X>
+  <Y>47</Y>
+  <VerticalWidth>406</VerticalWidth>
+  <VerticalHeight>657</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -234,16 +234,16 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>0</OutputDevice>
+        <OutputDevice>1</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
         <SplitBehindGainingVolume>100</SplitBehindGainingVolume>
         <SplitBehindLosingVolume>100</SplitBehindLosingVolume>
-        <BestSegmentVolume>100</BestSegmentVolume>
+        <BestSegmentVolume>15</BestSegmentVolume>
         <UndoSplitVolume>100</UndoSplitVolume>
         <SkipSplitVolume>100</SkipSplitVolume>
-        <PersonalBestVolume>100</PersonalBestVolume>
+        <PersonalBestVolume>15</PersonalBestVolume>
         <NotAPersonalBestVolume>100</NotAPersonalBestVolume>
         <ResetVolume>100</ResetVolume>
         <PauseVolume>100</PauseVolume>

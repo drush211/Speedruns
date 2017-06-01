@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Run version="1.6.0">
+<Run version="1.7.0">
   <GameIcon />
   <GameName>Chrono Cross</GameName>
   <CategoryName>English</CategoryName>
@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>10</AttemptCount>
+  <AttemptCount>11</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="02/09/2017 02:45:09" isStartedSynced="True" ended="02/09/2017 02:45:12" isEndedSynced="True" />
     <Attempt id="2" started="02/09/2017 02:45:20" isStartedSynced="True" ended="02/09/2017 02:45:12" isEndedSynced="True" />

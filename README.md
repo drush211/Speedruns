@@ -61,6 +61,10 @@ best, but it at least might be a starting point for you.
   * [Basic Information][Stream Goals]
   * [2017][Stream Goals 2017]
 
+## Speedruns Live
+
+  * [Basic Information][Speedruns Live]
+
 ## Tutorials
 
   * [Basic Information][Tutorial]
@@ -92,3 +96,4 @@ best, but it at least might be a starting point for you.
 [Stream Goals 2017]: ./StreamGoals/2017.md
 [Twitch Bot]: ./Twitch/Bot/README.md
 [Race Information]: ./Races/README.md
+[Speedruns Live]: ./SpeedrunsLive/README.md
