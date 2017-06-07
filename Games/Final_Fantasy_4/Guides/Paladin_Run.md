@@ -206,6 +206,7 @@ act earlier. A Tutorial on this can be found [here][Run Buffering Tutorial].
     * Tellah - Cure2 zombie.
     * Cecil - Cure2 zombie.
     * Now parry Cecil and Tellah, and Twin Palom.
+    * [Alternative Carrot Strat][Carrot Strat]
 
 ## I'm a Paladin! (Split 7)
 
@@ -213,11 +214,14 @@ act earlier. A Tutorial on this can be found [here][Run Buffering Tutorial].
   * Menu
     * Item - Cure2 everyone, and Ether the twins.
     * Change
+    * You can also cast piggy on Cecil and Tellah to ensure they don't get
+      poisoned during the fight as well. If you do that you will want to use
+      Cure2 strats with Cecil instead of attacking.
   * **Milon Z**
     * Cecil - Attack
     * Palom - Cure2 on MilonZ
     * Porom - Twin
-    * Tellah - Parry/Heal/Life
+    * Tellah - Cure2/Heal/Life
   * **Dark Cecil (1000 HP)**
     * Cecil - Dancing Dagger 3-4 times.
   * Time is as soon as the "Cecil became a Paladin" text shows up.
@@ -233,3 +237,4 @@ act earlier. A Tutorial on this can be found [here][Run Buffering Tutorial].
 [Run Buffering Tutorial]: https://youtu.be/XWEME9ciC3Y?t=2309
 [Seed 92 Tutorial]: https://www.youtube.com/watch?v=LpLAoSMNQZk
 [Fabul Gauntlet]: ./FabulGauntlet.md
+[Carrot Strat]: ./Carrot_Strat.md
