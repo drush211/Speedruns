@@ -5,8 +5,15 @@ at Milon to inflict around 4k damage, which is a definite kill. The information
 found here is based mostly off of these [notes][Notes]. The script is as
 follows.
 
+## Equipment
+
+  * Cecil - Equip the Black Sword for the speed boost (NECESSARY!!!)
+  * Palom - Equip the Change Rod and Gaea Helm for extra magic damage.
+
 ## Battle Script
 
+  * **NOTE**: Milon has 3100 HP, but at 2100 he will give the Oh my body...
+              message.
   * Cecil - Cure2 Zombie
   * Palom - Fire1 Porom (Wait until after Cure2 text goes away)
   * Count to 2 then Run Buffer
