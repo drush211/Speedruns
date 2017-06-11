@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Run version="1.6.0">
+<Run version="1.7.0">
   <GameIcon />
   <GameName>Pokémon Red/Blue</GameName>
   <CategoryName>Any% Glitchless</CategoryName>
@@ -12,12 +12,14 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>6</AttemptCount>
+  <AttemptCount>8</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="03/20/2017 20:16:50" isStartedSynced="True" ended="03/20/2017 20:16:52" isEndedSynced="True" />
     <Attempt id="2" started="03/20/2017 21:01:27" isStartedSynced="True" ended="03/20/2017 21:12:09" isEndedSynced="True" />
     <Attempt id="3" started="03/22/2017 02:51:16" isStartedSynced="True" ended="03/22/2017 03:15:49" isEndedSynced="True" />
     <Attempt id="4" started="05/30/2017 21:23:49" isStartedSynced="True" ended="05/30/2017 22:10:53" isEndedSynced="True" />
+    <Attempt id="5" started="06/10/2017 16:45:06" isStartedSynced="True" ended="06/10/2017 16:45:10" isEndedSynced="True" />
+    <Attempt id="6" started="06/10/2017 16:48:43" isStartedSynced="True" ended="06/10/2017 17:55:41" isEndedSynced="True" />
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -38,6 +40,9 @@
         </Time>
         <Time id="4">
           <RealTime>00:03:01.2310000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:03:16.1480000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -60,6 +65,9 @@
         <Time id="4">
           <RealTime>00:07:05.1140000</RealTime>
         </Time>
+        <Time id="6">
+          <RealTime>00:06:36.6260000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -78,6 +86,9 @@
         <Time id="4">
           <RealTime>00:08:09.9680000</RealTime>
         </Time>
+        <Time id="6">
+          <RealTime>00:16:11.3510000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -87,7 +98,7 @@
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:10:13.9560000</RealTime>
+        <RealTime>00:10:13.9500000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="3">
@@ -95,6 +106,9 @@
         </Time>
         <Time id="4">
           <RealTime>00:10:45.0340000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:00.4210000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -104,8 +118,14 @@
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:18:23.1610000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:18:23.1610000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Misty</Name>
@@ -113,8 +133,14 @@
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:09:26.1490000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:09:26.1490000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Gary 3</Name>
@@ -122,8 +148,14 @@
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:06:11.9730000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:06:11.9730000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Lt. Surge</Name>
@@ -131,8 +163,14 @@
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:06:22.5730000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:06:22.5730000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Rock Tunnel</Name>
