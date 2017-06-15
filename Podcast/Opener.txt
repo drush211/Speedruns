@@ -1,0 +1,6 @@
+Hey there, and welcome to episode N of the Casual Speedrunning podcast. I'm your
+host drush211 and this show is meant to give you some high level information
+about a different game each week that you might want to look into if you enjoy
+speedrunning. That goes for both speedrunner and speedrun watcher a like. This
+week we are going to talk about the first game I started speedrunning, ${Game
+Title}.
