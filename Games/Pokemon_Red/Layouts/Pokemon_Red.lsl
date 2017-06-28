@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>935</X>
-  <Y>265</Y>
+  <X>156</X>
+  <Y>73</Y>
   <VerticalWidth>405</VerticalWidth>
   <VerticalHeight>659</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -241,10 +241,10 @@
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
         <SplitBehindGainingVolume>100</SplitBehindGainingVolume>
         <SplitBehindLosingVolume>100</SplitBehindLosingVolume>
-        <BestSegmentVolume>15</BestSegmentVolume>
+        <BestSegmentVolume>25</BestSegmentVolume>
         <UndoSplitVolume>100</UndoSplitVolume>
         <SkipSplitVolume>100</SkipSplitVolume>
-        <PersonalBestVolume>15</PersonalBestVolume>
+        <PersonalBestVolume>25</PersonalBestVolume>
         <NotAPersonalBestVolume>100</NotAPersonalBestVolume>
         <ResetVolume>100</ResetVolume>
         <PauseVolume>100</PauseVolume>

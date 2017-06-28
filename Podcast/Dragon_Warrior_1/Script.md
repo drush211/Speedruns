@@ -10,14 +10,16 @@ version which I'm unfamiliar with.
 
 ## Small Description
 
+To start let me give you a small description of the game.
+
 Dragon Warrior is an old school JRPG, which could be considered the RPG that
-started them all. You play as the hero of the story in this 1 character affair
+started them all. You play as the hero of the story in this 1 character affair,
 leveling up to gain better stats and spells before finally coming up to and
-hopefully defeating the DragonLord. This game has a few variations to go with
+hopefully defeating the final boss. This game has a few variations to go with
 the first of which is the console of choice. There is an NES version of the game
 which I'm unfamiliar with, but also 2 ports, 1 to the Super Famicon, and another
 to the Game Boy Color. The Game Boy Color version is the one that I'm most
-familiar with running it several times and creating a tutorial for, but the
+familiar with, running it several times and creating a tutorial for, but the
 Super Famicon version is very similar. On top of the console variations, there
 are also 2 versions of the run, one in which you defeat DragonLord at level 18
 and one in which you defeat DragonLord at Level 17. The level 18 route has about
@@ -27,16 +29,19 @@ you have to do the level 17 version.
 
 ## Why should I be interested?
 
-If you like RPGs, and are a fan of old school classics, then this is a watch you
+So the question you might be asking is, why should I be interested?
+
+If you like RPGs, and are a fan of old school classics, then this is a run you
 will likely enjoy. The learning curve is pretty low since there are very few
 items and spells to manage, and most of the major fights are fairly simple to
 traverse. Another nice thing about the run is that it's only about 90 minutes
 for a top runner, and around 2 hours for beginners. It's also pretty easy to get
-to a point where you can run it without notes since a few of the areas are
-repetitive. There is a bit of grinding to be done in either version, but the
-battles do change up a bit since each enemy is different, and also each enemy is
-different at different levels. Level ups are a major thing in this game, so you
-will see battles start to drastically shift the higher you get.
+to a point where you can run it without notes due to the simplicity of the menus
+and battles. There is a bit of grinding to be done in either version, but the
+battles do change up a bit since each enemy is different, and also the major
+grind section of the Dragon Loop changes up between levels so the repetitiveness
+isn't as bad as it could be. Level ups are a major thing in this game, so you
+will see battle strategy start to drastically shift the higher you get.
 
 ## Which version to play?
 
