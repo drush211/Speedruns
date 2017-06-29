@@ -26,7 +26,7 @@
             "streamTimerSeconds": 30
         }
     },
-    "name": "Dragon Warrior (GBC)",
+    "name": "Dragon Warrior 2 (GBC)",
     "preview_locked": false,
     "quick_transitions": [
         {
@@ -128,175 +128,42 @@
             "mixers": 255,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Laptop Speakers",
+            "name": "Monitor Speakers",
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "device_id": "{0.0.0.00000000}.{60d60ae4-6c94-47a7-9062-b850bc35935a}"
+                "device_id": "{0.0.0.00000000}.{c9f1b3fe-4a10-4ce8-9a66-53164d9843f7}"
             },
             "sync": 0,
-            "volume": 1.0
+            "volume": 0.75357091426849365
         },
         {
             "deinterlace_field_order": 0,
             "deinterlace_mode": 0,
             "enabled": true,
             "flags": 0,
-            "hotkeys": {},
-            "id": "text_gdiplus",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Message Board Header",
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "align": "center",
-                "chatlog": false,
-                "color": 0,
-                "font": {
-                    "face": "Segoe Script",
-                    "flags": 1,
-                    "size": 36,
-                    "style": ""
-                },
-                "outline": true,
-                "text": "The Message Board"
-            },
-            "sync": 0,
-            "volume": 1.0
-        },
-        {
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "text_gdiplus",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Message Board",
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "chatlog": false,
-                "chatlog_lines": 6,
-                "color": 0,
-                "font": {
-                    "face": "MV Boli",
-                    "flags": 0,
-                    "size": 36,
-                    "style": ""
-                },
-                "opacity": 99,
-                "outline": true,
-                "read_from_file": false,
-                "text": "1. Goal Time: 1:35:xx\n2. Dragon Loop: 16\n3. Kaishins are Sexy...\n   most of the time\n4. Feel free to chat\n   me up, I can do\n   both... probably",
-                "valign": "bottom",
-                "vertical": false
-            },
-            "sync": 0,
-            "volume": 1.0
-        },
-        {
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "window_capture",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "BGB",
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "cursor": false,
-                "window": "bgb - DW1&2AEDE:Tfgb:bgb.exe"
-            },
-            "sync": 0,
-            "volume": 1.0
-        },
-        {
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "window_capture",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Livesplit",
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "cursor": false,
-                "window": "LiveSplit:WindowsForms10.Window.8.app.0.141b42a_r6_ad1:LiveSplit.exe"
-            },
-            "sync": 0,
-            "volume": 1.0
-        },
-        {
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "image_source",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Game Image",
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "file": "C:/github/speedruns/Games/Dragon_Warrior/OBS/Game Image.png"
-            },
-            "sync": 0,
-            "volume": 1.0
-        },
-        {
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 1,
             "hotkeys": {
                 "libobs.mute": [],
                 "libobs.push-to-mute": [],
                 "libobs.push-to-talk": [],
                 "libobs.unmute": []
             },
-            "id": "dshow_input",
+            "id": "wasapi_input_capture",
             "mixers": 255,
             "monitoring_type": 0,
             "muted": false,
-            "name": "WebCam",
+            "name": "Mic",
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "active": true,
-                "last_video_device_id": "Logitech HD Webcam C270:\\\\?\\usb#22vid_046d&pid_0825&mi_00#227&9c1cc1a&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\{bbefb6c7-2fc4-4139-bb8b-a58bba724083}",
-                "video_device_id": "Logitech HD Webcam C270:\\\\?\\usb#22vid_046d&pid_0825&mi_00#227&9c1cc1a&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\{bbefb6c7-2fc4-4139-bb8b-a58bba724083}"
+                "device_id": "{0.0.1.00000000}.{f69cc0bd-356e-4060-95c9-0160e92f9296}"
             },
             "sync": 0,
-            "volume": 1.0
+            "volume": 0.59270393848419189
         },
         {
             "deinterlace_field_order": 0,
@@ -308,13 +175,13 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Overlay",
+            "name": "Logo",
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "C:/github/speedruns/Games/Dragon_Warrior/OBS/Overlay.png"
+                "file": "C:/github/speedruns/OBS/Logo.png"
             },
             "sync": 0,
             "volume": 1.0
@@ -329,14 +196,14 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Twitch Alerts",
+            "name": "Twitch Chat",
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
                 "restart_when_active": true,
-                "url": "https://streamlabs.com/alert-box/v3/8CF6A546D1D3066A1507"
+                "url": "https://streamlabs.com/widgets/chat-box/v1/8CF6A546D1D3066A1507"
             },
             "sync": 0,
             "volume": 1.0
@@ -740,14 +607,14 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Twitch Chat",
+            "name": "Twitch Alerts",
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
                 "restart_when_active": true,
-                "url": "https://streamlabs.com/widgets/chat-box/v1/8CF6A546D1D3066A1507"
+                "url": "https://streamlabs.com/alert-box/v3/8CF6A546D1D3066A1507"
             },
             "sync": 0,
             "volume": 1.0
@@ -762,13 +629,41 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Logo",
+            "name": "Overlay",
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "C:/github/speedruns/OBS/Logo.png"
+                "file": "C:/github/speedruns/Games/Dragon_Warrior/OBS/Overlay.png"
+            },
+            "sync": 0,
+            "volume": 1.0
+        },
+        {
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 1,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "dshow_input",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "WebCam",
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "active": true,
+                "last_video_device_id": "Logitech HD Webcam C270:\\\\?\\usb#22vid_046d&pid_0825&mi_00#227&9c1cc1a&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\{bbefb6c7-2fc4-4139-bb8b-a58bba724083}",
+                "video_device_id": "Logitech HD Webcam C270:\\\\?\\usb#22vid_046d&pid_0825&mi_00#227&9c1cc1a&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\{bbefb6c7-2fc4-4139-bb8b-a58bba724083}"
             },
             "sync": 0,
             "volume": 1.0
@@ -778,26 +673,131 @@
             "deinterlace_mode": 0,
             "enabled": true,
             "flags": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "libobs.unmute": []
-            },
-            "id": "wasapi_input_capture",
-            "mixers": 255,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Mic",
+            "name": "Game Image",
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "device_id": "{0.0.1.00000000}.{f69cc0bd-356e-4060-95c9-0160e92f9296}"
+                "file": "C:/github/speedruns/Games/Dragon_Warrior_2/OBS/Game Image.jpg"
             },
             "sync": 0,
-            "volume": 0.59270393848419189
+            "volume": 1.0
+        },
+        {
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "window_capture",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Livesplit",
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "cursor": false,
+                "window": "LiveSplit:WindowsForms10.Window.8.app.0.141b42a_r6_ad1:LiveSplit.exe"
+            },
+            "sync": 0,
+            "volume": 1.0
+        },
+        {
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "window_capture",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "BGB",
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "cursor": false,
+                "window": "bgb - DW1&2AEDE:Tfgb:bgb.exe"
+            },
+            "sync": 0,
+            "volume": 1.0
+        },
+        {
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Message Board",
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "chatlog": false,
+                "chatlog_lines": 6,
+                "color": 0,
+                "font": {
+                    "face": "MV Boli",
+                    "flags": 0,
+                    "size": 36,
+                    "style": ""
+                },
+                "opacity": 99,
+                "outline": true,
+                "read_from_file": false,
+                "text": "1. Goal Time: 4:00:00\n2. No herbs, No HP,\n   No Problem.\n3. Kaishins are Sexy...\n   most of the time\n4. Feel free to chat\n   me up, I can do\n   both... probably",
+                "valign": "bottom",
+                "vertical": false
+            },
+            "sync": 0,
+            "volume": 1.0
+        },
+        {
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Message Board Header",
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "align": "center",
+                "chatlog": false,
+                "color": 0,
+                "font": {
+                    "face": "Segoe Script",
+                    "flags": 1,
+                    "size": 36,
+                    "style": ""
+                },
+                "outline": true,
+                "text": "The Message Board"
+            },
+            "sync": 0,
+            "volume": 1.0
         },
         {
             "deinterlace_field_order": 0,
@@ -814,16 +814,16 @@
             "mixers": 255,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Monitor Speakers",
+            "name": "Laptop Speakers",
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "device_id": "{0.0.0.00000000}.{c9f1b3fe-4a10-4ce8-9a66-53164d9843f7}"
+                "device_id": "{0.0.0.00000000}.{60d60ae4-6c94-47a7-9062-b850bc35935a}"
             },
             "sync": 0,
-            "volume": 0.75357091426849365
+            "volume": 1.0
         }
     ],
     "transition_duration": 300,

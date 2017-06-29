@@ -70,7 +70,7 @@ Use this [Map Page][Map Page] when you need specific maps.
   * Heal at the Inn, and revive any dead members.
   * Use the LarMirror to turn the dog into the Princess.
 
-## Like a Feather (Split 3)
+## Lighter than a Feather (Split 3)
 
   * Fight around town to get the Princess to Lvl 2 (Sleep), staying at the inn
     if necessary.
@@ -100,6 +100,77 @@ Use this [Map Page][Map Page] when you need specific maps.
     * Princess: All Herbs <- Hero
   * Head Southwest past Moonbrooke castle to the Moonbrooke Monolith. Cross here
     then head north west to get to the Dragon's Horns South entrance.
+  * Go up the stairs to the right and continue circling the pit up the stairs to
+    the very top. Jump off while the wind cape is equipped to land on the other
+    side.
+
+## Gold Key (Split 4)
+
+  * Go in the North Horns and go up to floors, then take 1 step up and 2 left to
+    get Dew's Yarn.
+  * Exit and head east to Lianport.
+  * Once you have 1250 Gold enter and use the inn and church to heal up. Also
+    save.
+  * Shop
+    * Buy - Evade Clothes (Princess)
+  * Fight the Gremlins.
+  * **Gremlins (48-60 HP each)**
+    * Hero - Attack
+    * Prince - Fireball
+    * Princess - Infernos
+  * After the fight get the boat, then go to the top left of the town to get the
+    Strength seed. Heal your party and sail away.
+  * Head north keeping track of the island to your right. As soon as it goes out
+    of sight watch for 8 bobs of the boat, then head west. You should see a
+    couple of ![islands](Zahan_Guide.PNG). Go to the west most part of these
+    islands and then sail North.
+  * Once you see the shrine go back until you can't see it, and force a battle.
+    Enemies close to the shrine will wipe you, so just don't fight them.
+  * Head in to Zahan.
+  * Shop
+    * Buy - Warp Wing (Hero)
+    * Buy - Repellent (Hero)
+    * Buy - Warp Wing (Princess)
+    * Buy - Warp Wing (Princess)
+    * Buy - Repellent (Princess)
+  * Get the gold key 3 steps down, and 1 to the left of the top right of the
+    village.
+
+## Loto Shield (Split 5)
+
+  * Leave Zahan and enter the shrine. Then warp to Midenhall Castle.
+  * Head to the right to raid the Treasury. Open all but the first chest to get
+    a LifeAcorn, StrSeed, MysticNut, the Loto Seal, and 1200 gold.
+  * Menu
+    * LifeAcorn (Prince)
+    * MysticNut (Princess)
+  * Head to the King and save.
+  * Menu
+    * StrSeed (2) (Hero) - Must be a total of 3 or higher.
+  * Warp back to the Zahan Shrine, then go south until it's out of sight. Then
+    head west 16 bobs of the boat, then head north to the fire shrine.
+  * Enter the shrine and take the right most warp. Grab the helmet, then warp
+    back.
+  * Go to the tree on the right side of the shrine.
+  * Equip
+    * Loto Helmet (Prince)
+  * Check your feet for the Sun Crest.
+  * Leave the Shrine and sail directly west to the World Tree. Pick up a leaf.
+    Make sure this ends up on the Hero.
+  * Sail West to Wellgarth and after getting to 2000 gold land and enter.
+  * Head to the Item shop to buy the Jailor Key (Empty free slot).
+  * Head to the Jail, and enter the top right cell and go behind the wall to get
+    the Dam Key.
+  * Leave town, and sail south until you hit land. Then head east a bit and land
+    to go South to Cannock Castle.
+  * Shop
+    * Sell - Leather Shield (Hero)
+  * Pick up the Loto Shield by going towards the king, but stopping off for the
+    chest in the middle of town.
+  * Equip
+    * Loto Shield (Hero)
+  * Stop by the inn if needed, then head back to the ship and sail west to Lake
+    Cave.
 
 
 [Twitchpoppop]: https://www.twitch.tv/twitchpoppop
